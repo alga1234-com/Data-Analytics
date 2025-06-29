@@ -5,7 +5,7 @@ account: kaggwamusa
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15007719
-bundleId: 10537548
+bundleId: 10537819
 url: https://kaggwamusa.shinyapps.io/DataAnalysMain/
 version: 1
 asMultiple: FALSE
