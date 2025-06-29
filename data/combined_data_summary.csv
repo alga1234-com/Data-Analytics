@@ -1,0 +1,1160 @@
+"Neighborhood","Source","Liv_Area","Total_bedrooms","Sale_Price"
+"StoneBr","Ames",1280,2,191500
+"Gilbert","Ames",1804,3,189000
+"StoneBr","Ames",1856,1,394432
+"NWAmes","Ames",2073,3,210000
+"BrDale","Ames",1092,3,105500
+"NPkVill","Ames",836,2,120000
+"NridgHt","Ames",1752,2,319900
+"Gilbert","Ames",2035,3,222500
+"NoRidge","Ames",1720,3,260400
+"SawyerW","Ames",2110,3,205000
+"SawyerW","Ames",752,2,125000
+"SawyerW","Ames",1564,3,171000
+"Sawyer","Ames",1902,4,112000
+"Sawyer","Ames",1155,3,148000
+"Sawyer","Ames",1040,3,127000
+"NoRidge","Ames",2349,4,362500
+"Somerst","Ames",1200,2,155000
+"Somerst","Ames",1236,2,152000
+"Somerst","Ames",1573,3,177500
+"Somerst","Ames",1848,3,254000
+"Somerst","Ames",1492,3,230000
+"NAmes","Ames",1232,3,142250
+"NWAmes","Ames",1328,3,143000
+"NAmes","Ames",1728,6,84900
+"NAmes","Ames",1078,2,142125
+"NAmes","Ames",2461,3,197600
+"NAmes","Ames",1063,3,128000
+"NAmes","Ames",1128,2,178000
+"NAmes","Ames",1888,2,190000
+"NAmes","Ames",1206,3,108538
+"NAmes","Ames",1337,3,108000
+"NAmes","Ames",1064,2,135000
+"NAmes","Ames",1287,3,162000
+"NAmes","Ames",2978,5,242000
+"NAmes","Ames",1246,3,154000
+"NAmes","Ames",1116,3,160000
+"OldTown","Ames",1140,3,96500
+"OldTown","Ames",1028,2,115000
+"OldTown","Ames",1316,3,130000
+"OldTown","Ames",1251,3,119000
+"OldTown","Ames",1245,3,1e+05
+"BrkSide","Ames",765,2,87000
+"OldTown","Ames",1812,4,140000
+"ClearCr","Ames",2403,4,244400
+"SWISU","Ames",1392,3,1e+05
+"SWISU","Ames",919,3,95000
+"Sawyer","Ames",1020,2,94000
+"Sawyer","Ames",912,3,125000
+"Sawyer","Ames",1373,3,160250
+"ClearCr","Ames",1524,0,260000
+"Edwards","Ames",835,2,83000
+"Edwards","Ames",930,2,84900
+"SawyerW","Ames",1732,3,178000
+"SawyerW","Ames",1949,3,236000
+"CollgCr","Ames",1694,3,245350
+"ClearCr","Ames",1052,3,155000
+"CollgCr","Ames",2098,4,240000
+"Edwards","Ames",960,3,90000
+"Edwards","Ames",1526,4,144500
+"SWISU","Ames",2650,6,160000
+"SWISU","Ames",2447,4,169000
+"Crawfor","Ames",2133,4,257500
+"Crawfor","Ames",1902,3,335000
+"IDOTRR","Ames",1178,2,102776
+"Crawfor","Ames",1646,2,246000
+"Mitchel","Ames",1285,3,190000
+"Timber","Ames",1687,3,160000
+"Timber","Ames",1214,2,179781
+"Mitchel","Ames",1264,2,169000
+"Mitchel","Ames",1430,3,173500
+"Mitchel","Ames",874,3,130000
+"Mitchel","Ames",833,2,149900
+"Mitchel","Ames",2432,4,159000
+"Mitchel","Ames",1479,5,161000
+"NAmes","Ames",882,2,124500
+"Gilbert","Ames",1382,3,177500
+"Gilbert","Ames",1718,3,185000
+"Gilbert","Ames",1593,3,178000
+"Gilbert","Ames",1167,3,173000
+"Gilbert","Ames",1983,3,225000
+"StoneBr","Ames",1530,3,260000
+"NWAmes","Ames",1602,3,215000
+"NWAmes","Ames",1671,3,2e+05
+"NWAmes","Ames",1370,3,152000
+"Somerst","Ames",1884,3,240900
+"NWAmes","Ames",1621,3,213000
+"NWAmes","Ames",1116,3,167900
+"NAmes","Ames",864,3,76500
+"NAmes","Ames",864,3,120500
+"BrDale","Ames",1302,3,119500
+"NPkVill","Ames",1322,3,147000
+"NPkVill","Ames",1456,3,138000
+"NAmes","Ames",1120,3,148800
+"NridgHt","Ames",2020,3,402861
+"NridgHt","Ames",1713,3,274900
+"NridgHt","Ames",2224,4,350000
+"NridgHt","Ames",1836,3,280000
+"NridgHt","Ames",2392,3,386250
+"NridgHt","Ames",2400,4,290000
+"NridgHt","Ames",2200,3,382500
+"NridgHt","Ames",1884,2,320000
+"NridgHt","Ames",1712,3,286500
+"Gilbert","Ames",1560,3,174000
+"Blmngtn","Ames",1145,2,160200
+"Gilbert","Ames",2267,4,2e+05
+"Gilbert","Ames",1374,3,170000
+"Gilbert","Ames",1419,3,184100
+"Gilbert","Ames",1594,3,195500
+"NoRidge","Ames",2794,4,403000
+"NoRidge","Ames",2063,3,315000
+"NoRidge","Ames",2448,4,402000
+"Somerst","Ames",1702,3,275500
+"Somerst","Ames",1432,3,245000
+"Somerst","Ames",1436,3,225000
+"Somerst","Ames",1402,3,229800
+"Somerst","Ames",1653,3,209000
+"SawyerW","Ames",2122,4,220000
+"SawyerW","Ames",1434,3,189000
+"Sawyer","Ames",980,3,110000
+"Sawyer","Ames",980,3,135000
+"Sawyer","Ames",864,2,122000
+"Sawyer","Ames",1020,3,124100
+"Sawyer","Ames",1144,3,131400
+"NoRidge","Ames",1755,3,235000
+"Somerst","Ames",1256,1,195000
+"Veenker","Ames",1694,2,318750
+"Greens","Ames",1226,1,211500
+"Sawyer","Ames",1620,3,150000
+"NWAmes","Ames",1442,2,185000
+"NAmes","Ames",864,2,130000
+"NAmes","Ames",1776,4,110000
+"NAmes","Ames",1516,3,167000
+"NAmes","Ames",1445,3,158000
+"NAmes","Ames",1041,3,124500
+"BrkSide","Ames",708,2,82500
+"NAmes","Ames",1668,3,140000
+"NAmes","Ames",1113,3,147000
+"NAmes","Ames",1584,4,124000
+"NAmes","Ames",1329,3,176000
+"NAmes","Ames",1112,2,126000
+"NAmes","Ames",793,2,113000
+"NAmes","Ames",1210,2,102900
+"OldTown","Ames",792,2,109500
+"OldTown","Ames",1374,2,105000
+"NAmes","Ames",1306,2,153000
+"NAmes","Ames",1040,2,92900
+"NAmes","Ames",1040,2,90000
+"NAmes","Ames",1041,3,128000
+"NAmes","Ames",1339,3,139000
+"NAmes","Ames",1461,4,133500
+"OldTown","Ames",1230,2,110000
+"OldTown","Ames",2372,4,107500
+"OldTown","Ames",1389,3,135000
+"OldTown","Ames",886,2,91300
+"OldTown","Ames",2007,3,160000
+"OldTown","Ames",816,2,58500
+"BrkSide","Ames",1176,2,134900
+"BrkSide","Ames",1412,4,132500
+"BrkSide","Ames",1573,3,133000
+"OldTown","Ames",1826,4,155000
+"OldTown","Ames",1944,3,179900
+"IDOTRR","Ames",1930,4,149000
+"IDOTRR","Ames",1666,3,135000
+"Edwards","Ames",1152,2,159900
+"Edwards","Ames",1112,4,63000
+"Sawyer","Ames",858,2,134900
+"Sawyer","Ames",1138,3,148000
+"Sawyer","Ames",660,2,63900
+"Edwards","Ames",1229,3,135000
+"Edwards","Ames",861,1,82500
+"Edwards","Ames",1073,2,121500
+"Edwards","Ames",1049,2,139500
+"SawyerW","Ames",1775,3,213000
+"SawyerW","Ames",1879,3,239900
+"SawyerW","Ames",2016,4,131000
+"SawyerW","Ames",1535,4,118858
+"SawyerW","Ames",1229,2,148325
+"SawyerW","Ames",2787,6,269500
+"CollgCr","Ames",1604,3,220000
+"CollgCr","Ames",1290,2,2e+05
+"CollgCr","Ames",1040,3,152000
+"CollgCr","Ames",1097,3,145000
+"CollgCr","Ames",907,3,140000
+"CollgCr","Ames",1611,3,250000
+"CollgCr","Ames",1870,3,211000
+"CollgCr","Ames",1417,3,210000
+"CollgCr","Ames",1716,2,191000
+"CollgCr","Ames",848,1,144000
+"CollgCr","Ames",1602,3,293200
+"CollgCr","Ames",1728,3,190000
+"Edwards","Ames",1486,3,167000
+"Edwards","Ames",1368,3,120000
+"Edwards","Ames",1529,4,98000
+"Edwards","Ames",864,2,99900
+"Edwards","Ames",944,2,82000
+"SWISU","Ames",1520,3,159434
+"SWISU","Ames",438,1,60000
+"Crawfor","Ames",1913,3,177000
+"Crawfor","Ames",2080,3,234000
+"Crawfor","Ames",1112,2,144800
+"Crawfor","Ames",1982,3,208000
+"Crawfor","Ames",1680,3,222000
+"IDOTRR","Ames",1344,3,147000
+"IDOTRR","Ames",1192,3,78000
+"IDOTRR","Ames",1526,2,85000
+"IDOTRR","Ames",572,2,75000
+"Mitchel","Ames",1710,3,240000
+"Mitchel","Ames",1734,4,126000
+"Timber","Ames",1692,3,224500
+"Timber","Ames",1641,3,316500
+"Timber","Ames",2014,3,170000
+"Mitchel","Ames",1404,3,160000
+"Mitchel","Ames",796,2,131900
+"Mitchel","Ames",1362,1,143000
+"Mitchel","Ames",1287,3,130000
+"Gilbert","Ames",1604,3,187500
+"Gilbert","Ames",1470,3,165000
+"Gilbert","Ames",1658,3,188000
+"StoneBr","Ames",1337,2,188500
+"StoneBr","Ames",2500,5,355000
+"StoneBr","Ames",1884,2,387000
+"StoneBr","Ames",1710,2,334000
+"NWAmes","Ames",2064,3,235000
+"NWAmes","Ames",1964,4,205000
+"BrDale","Ames",987,2,103400
+"BrDale","Ames",987,2,106000
+"BrDale","Ames",1302,3,111750
+"NPkVill","Ames",1456,4,143000
+"NPkVill","Ames",1055,2,148500
+"NridgHt","Ames",2084,2,385000
+"NridgHt","Ames",2713,3,446261
+"NridgHt","Ames",2088,4,250000
+"NridgHt","Ames",2332,4,316000
+"NridgHt","Ames",2668,3,412500
+"NridgHt","Ames",1575,2,284000
+"NridgHt","Ames",2649,4,421250
+"NridgHt","Ames",1518,1,274000
+"NridgHt","Ames",1342,2,234250
+"Blmngtn","Ames",1246,2,187687
+"Gilbert","Ames",1593,3,193000
+"Gilbert","Ames",1166,2,190000
+"Gilbert","Ames",2322,4,225000
+"NoRidge","Ames",2197,4,287500
+"NoRidge","Ames",2127,3,271000
+"Somerst","Ames",1874,3,297900
+"Somerst","Ames",1372,3,250580
+"SawyerW","Ames",1663,3,192500
+"SawyerW","Ames",1175,3,146000
+"SawyerW","Ames",1114,3,159000
+"SawyerW","Ames",1162,3,170000
+"SawyerW","Ames",1679,3,193500
+"SawyerW","Ames",1199,2,153900
+"Sawyer","Ames",984,3,128000
+"Sawyer","Ames",912,2,144000
+"Sawyer","Ames",890,3,115000
+"Sawyer","Ames",1641,4,140000
+"Somerst","Ames",1419,2,290000
+"Somerst","Ames",1709,2,328900
+"Veenker","Ames",1719,1,324000
+"Veenker","Ames",1232,3,162500
+"NWAmes","Ames",1258,3,145000
+"NAmes","Ames",912,2,147000
+"NAmes","Ames",925,3,135000
+"NAmes","Ames",1728,6,145000
+"NAmes","Ames",1728,6,142600
+"NWAmes","Ames",1656,4,135000
+"NAmes","Ames",1165,3,174900
+"NAmes","Ames",1350,3,168500
+"NAmes","Ames",1362,3,163000
+"NAmes","Ames",1431,3,165000
+"NAmes","Ames",1988,4,227000
+"NAmes","Ames",1261,3,163000
+"NAmes","Ames",1570,3,166800
+"NAmes","Ames",1152,3,137500
+"NAmes","Ames",1790,3,180000
+"NAmes","Ames",952,2,139000
+"NAmes","Ames",773,2,110000
+"OldTown","Ames",1159,3,114000
+"OldTown","Ames",672,2,86900
+"OldTown","Ames",1436,3,139000
+"NAmes","Ames",1716,4,171000
+"NAmes","Ames",910,3,116000
+"NAmes","Ames",1256,3,159000
+"NAmes","Ames",1027,3,125900
+"NAmes","Ames",1269,3,155000
+"NAmes","Ames",825,2,109500
+"OldTown","Ames",1133,3,143000
+"OldTown","Ames",1594,3,118000
+"OldTown","Ames",1740,2,122250
+"OldTown","Ames",1436,3,155000
+"OldTown","Ames",901,2,107900
+"OldTown","Ames",3493,3,295000
+"OldTown","Ames",1344,4,98000
+"OldTown","Ames",1017,2,114000
+"OldTown","Ames",1484,3,128000
+"OldTown","Ames",1093,2,115500
+"BrkSide","Ames",1672,3,164900
+"IDOTRR","Ames",1969,4,141000
+"IDOTRR","Ames",1236,3,127000
+"OldTown","Ames",825,2,125000
+"ClearCr","Ames",1588,4,134432
+"Sawyer","Ames",1126,2,152000
+"Sawyer","Ames",1228,3,149350
+"ClearCr","Ames",1721,3,145000
+"Edwards","Ames",1518,2,260000
+"Edwards","Ames",1367,4,119000
+"Edwards","Ames",1096,2,79000
+"SawyerW","Ames",2200,4,225000
+"CollgCr","Ames",2276,3,475000
+"CollgCr","Ames",1766,3,395039
+"SawyerW","Ames",2097,3,228000
+"ClearCr","Ames",1643,2,195000
+"CollgCr","Ames",1099,3,144000
+"CollgCr","Ames",1792,3,231500
+"CollgCr","Ames",1786,3,223500
+"CollgCr","Ames",2161,3,230500
+"CollgCr","Ames",1852,3,230000
+"CollgCr","Ames",1786,3,3e+05
+"CollgCr","Ames",848,1,136500
+"CollgCr","Ames",1445,3,186500
+"CollgCr","Ames",1582,3,185900
+"CollgCr","Ames",1234,3,179900
+"CollgCr","Ames",848,1,149000
+"CollgCr","Ames",848,1,144500
+"Edwards","Ames",796,2,85000
+"Edwards","Ames",1256,3,147500
+"Edwards","Ames",1181,3,137500
+"Edwards","Ames",1137,4,96000
+"Edwards","Ames",864,2,67000
+"SWISU","Ames",2601,4,189000
+"Crawfor","Ames",1502,3,149000
+"Crawfor","Ames",1660,3,188700
+"Crawfor","Ames",1873,4,257076
+"Crawfor","Ames",1954,3,311500
+"Blueste","Ames",1556,3,151000
+"IDOTRR","Ames",919,2,126000
+"IDOTRR","Ames",1200,4,119000
+"IDOTRR","Ames",733,2,13100
+"IDOTRR","Ames",1317,3,40000
+"IDOTRR","Ames",1049,2,80900
+"Mitchel","Ames",2032,3,3e+05
+"Timber","Ames",1256,3,180000
+"Timber","Ames",1509,3,175000
+"Timber","Ames",1728,3,298751
+"Timber","Ames",1964,3,370000
+"Mitchel","Ames",1344,2,206300
+"MeadowV","Ames",1475,4,129500
+"MeadowV","Ames",1092,3,98000
+"MeadowV","Ames",630,1,81000
+"Mitchel","Ames",988,2,113000
+"Gilbert","Ames",1733,3,225000
+"Gilbert","Ames",1470,3,177000
+"Gilbert","Ames",1384,3,161500
+"StoneBr","Ames",1652,2,251000
+"Gilbert","Ames",1187,3,160000
+"StoneBr","Ames",2338,4,591587
+"StoneBr","Ames",1419,2,392000
+"NWAmes","Ames",2030,4,195000
+"NWAmes","Ames",1725,3,197000
+"NAmes","Ames",1422,3,155000
+"BrDale","Ames",1218,3,113000
+"BrDale","Ames",1218,4,113700
+"NridgHt","Ames",1734,3,318000
+"NridgHt","Ames",2656,3,492000
+"NridgHt","Ames",1973,3,395000
+"NridgHt","Ames",1802,3,372000
+"NridgHt","Ames",2468,4,354000
+"NridgHt","Ames",1577,2,280000
+"NridgHt","Ames",1561,2,277500
+"NridgHt","Ames",1869,2,318061
+"Gilbert","Ames",1746,3,198444
+"Gilbert","Ames",1326,3,203000
+"Gilbert","Ames",1530,3,259000
+"Gilbert","Ames",1525,3,206580
+"NoRidge","Ames",2633,2,466500
+"NoRidge","Ames",2398,3,315750
+"NoRidge","Ames",2531,4,290000
+"Somerst","Ames",1464,3,282922
+"Somerst","Ames",1689,3,248328
+"Somerst","Ames",1496,3,225000
+"Somerst","Ames",1792,3,255000
+"Somerst","Ames",1588,3,212109
+"Somerst","Ames",1656,3,249700
+"SawyerW","Ames",1100,3,146000
+"SawyerW","Ames",1820,3,191750
+"Sawyer","Ames",894,2,120750
+"Sawyer","Ames",1037,2,129000
+"Somerst","Ames",1378,2,214000
+"Somerst","Ames",1241,1,199900
+"Somerst","Ames",1458,2,176000
+"Somerst","Ames",1950,3,239000
+"Somerst","Ames",2362,3,312500
+"Veenker","Ames",1262,3,181500
+"Somerst","Ames",1929,3,226000
+"NWAmes","Ames",2411,4,240050
+"NWAmes","Ames",1295,3,164000
+"NWAmes","Ames",1594,2,188500
+"NWAmes","Ames",1680,4,136905
+"NWAmes","Ames",1093,3,158500
+"NWAmes","Ames",1052,3,127000
+"NAmes","Ames",1074,2,124000
+"NAmes","Ames",964,3,137500
+"NAmes","Ames",1042,3,161000
+"NAmes","Ames",932,2,124000
+"NAmes","Ames",1254,3,158500
+"NAmes","Ames",936,2,141000
+"NAmes","Ames",1721,4,174850
+"NAmes","Ames",1657,3,163500
+"NAmes","Ames",925,3,127000
+"NAmes","Ames",1360,3,130000
+"NAmes","Ames",925,3,116900
+"OldTown","Ames",924,2,112500
+"NAmes","Ames",1728,3,156000
+"NAmes","Ames",952,3,128500
+"NAmes","Ames",1082,2,119200
+"NAmes","Ames",988,3,119000
+"NAmes","Ames",1851,3,187000
+"OldTown","Ames",1432,2,132000
+"OldTown","Ames",1022,2,89500
+"OldTown","Ames",1798,4,137000
+"OldTown","Ames",866,2,110500
+"IDOTRR","Ames",1952,4,212300
+"IDOTRR","Ames",1315,3,99500
+"Sawyer","Ames",1452,2,158450
+"Sawyer","Ames",948,3,108000
+"Sawyer","Ames",894,3,129000
+"Sawyer","Ames",912,3,129000
+"Edwards","Ames",605,2,86000
+"Edwards","Ames",1038,2,130000
+"Edwards","Ames",1342,4,125000
+"Edwards","Ames",1340,3,120000
+"SawyerW","Ames",1822,4,228500
+"CollgCr","Ames",2696,4,383970
+"CollgCr","Ames",2140,3,360000
+"CollgCr","Ames",2574,3,276000
+"SawyerW","Ames",1873,3,207000
+"CollgCr","Ames",990,3,126000
+"CollgCr","Ames",1200,3,177500
+"CollgCr","Ames",1308,3,175000
+"CollgCr","Ames",1097,3,147900
+"CollgCr","Ames",1873,3,235500
+"CollgCr","Ames",1459,3,192000
+"CollgCr","Ames",2452,4,267000
+"CollgCr","Ames",1668,3,285000
+"CollgCr","Ames",848,1,131500
+"CollgCr","Ames",1797,3,213500
+"CollgCr","Ames",1422,3,179600
+"CollgCr","Ames",1190,2,173500
+"Edwards","Ames",1088,2,110000
+"Edwards","Ames",960,3,94750
+"Edwards","Ames",1044,3,133500
+"Edwards","Ames",1113,3,148000
+"Edwards","Ames",2233,5,141000
+"Edwards","Ames",1090,2,157000
+"Edwards","Ames",960,2,131750
+"Edwards","Ames",948,3,111000
+"Edwards","Ames",864,3,79275
+"SWISU","Ames",3395,8,2e+05
+"Crawfor","Ames",1098,2,148500
+"Crawfor","Ames",1436,3,141500
+"Crawfor","Ames",2259,3,217000
+"Crawfor","Ames",1560,3,201000
+"Crawfor","Ames",1680,4,170000
+"Crawfor","Ames",1696,3,198000
+"IDOTRR","Ames",1123,3,1e+05
+"IDOTRR","Ames",816,2,75200
+"IDOTRR","Ames",1558,4,152000
+"IDOTRR","Ames",1073,3,140000
+"Crawfor","Ames",1625,2,375000
+"Mitchel","Ames",1299,2,183500
+"Timber","Ames",1756,3,204000
+"Timber","Ames",1146,3,187500
+"MeadowV","Ames",1092,3,85500
+"Mitchel","Ames",1356,3,188000
+"Mitchel","Ames",1432,3,157000
+"Mitchel","Ames",974,3,93500
+"Mitchel","Ames",887,3,124500
+"Gilbert","Ames",1525,3,183500
+"Gilbert","Ames",1498,3,187500
+"Gilbert","Ames",1776,3,202000
+"Gilbert","Ames",1511,3,185000
+"Gilbert","Ames",1632,3,176500
+"StoneBr","Ames",1742,2,275000
+"StoneBr","Ames",2868,4,556581
+"StoneBr","Ames",2945,3,438780
+"NWAmes","Ames",2183,4,229000
+"NWAmes","Ames",1872,3,241500
+"NWAmes","Ames",1686,3,207500
+"Somerst","Ames",2318,3,294323
+"NAmes","Ames",1419,2,190000
+"BrDale","Ames",948,2,89000
+"NPkVill","Ames",1055,2,137500
+"NridgHt","Ames",2596,4,342643
+"NridgHt","Ames",1740,4,293000
+"NridgHt","Ames",1850,3,326000
+"NridgHt","Ames",2324,4,345000
+"NridgHt","Ames",2253,3,344133
+"NridgHt","Ames",1792,2,372397
+"NridgHt","Ames",1368,2,202665
+"Gilbert","Ames",1492,3,169985
+"Gilbert","Ames",1496,3,179665
+"Gilbert","Ames",1863,4,219210
+"Blmngtn","Ames",1456,2,215000
+"Blmngtn","Ames",1248,2,167240
+"Blmngtn","Ames",1506,2,213490
+"Blmngtn","Ames",1567,1,264561
+"Gilbert","Ames",1838,4,192140
+"Gilbert","Ames",1936,3,230500
+"NoRidge","Ames",1924,3,280000
+"SawyerW","Ames",1400,3,186800
+"SawyerW","Ames",1398,2,172000
+"SawyerW","Ames",1217,2,151000
+"Sawyer","Ames",988,3,129500
+"Sawyer","Ames",1728,6,125000
+"Sawyer","Ames",909,3,116000
+"Sawyer","Ames",912,3,124000
+"Sawyer","Ames",1236,3,135000
+"NoRidge","Ames",2826,3,334000
+"NoRidge","Ames",1624,2,262000
+"Somerst","Ames",1080,2,139000
+"Greens","Ames",1235,1,214000
+"Greens","Ames",1036,1,188000
+"NWAmes","Ames",1416,3,179900
+"NWAmes","Ames",2654,4,250000
+"NAmes","Ames",1770,4,155000
+"NAmes","Ames",864,3,129900
+"NAmes","Ames",1095,2,140000
+"NAmes","Ames",1248,3,151500
+"NAmes","Ames",1008,2,137000
+"BrkSide","Ames",1230,3,121600
+"BrkSide","Ames",869,2,85500
+"NAmes","Ames",2157,4,226000
+"NAmes","Ames",1144,3,143000
+"NAmes","Ames",1336,3,162000
+"NAmes","Ames",1236,2,134450
+"NAmes","Ames",1375,2,140000
+"NAmes","Ames",1056,3,125000
+"OldTown","Ames",1595,3,155500
+"OldTown","Ames",2414,3,160000
+"NAmes","Ames",1040,3,133700
+"NAmes","Ames",1556,4,119000
+"OldTown","Ames",2014,5,169000
+"OldTown","Ames",1118,2,116000
+"OldTown","Ames",1774,4,87000
+"OldTown","Ames",1368,3,114504
+"OldTown","Ames",1200,4,125000
+"BrkSide","Ames",1664,3,159000
+"OldTown","Ames",1118,3,119900
+"BrkSide","Ames",1344,3,115000
+"BrkSide","Ames",816,2,109000
+"OldTown","Ames",1635,2,117000
+"IDOTRR","Ames",1430,3,107000
+"IDOTRR","Ames",1360,2,125500
+"IDOTRR","Ames",1077,3,91000
+"Sawyer","Ames",1640,3,131000
+"ClearCr","Ames",1352,3,130000
+"Sawyer","Ames",1059,3,142500
+"Edwards","Ames",2201,4,274970
+"CollgCr","Ames",1498,2,204900
+"CollgCr","Ames",914,2,148000
+"CollgCr","Ames",990,3,156000
+"CollgCr","Ames",1776,3,192500
+"CollgCr","Ames",971,3,128500
+"CollgCr","Ames",1989,3,255000
+"CollgCr","Ames",1762,3,222000
+"CollgCr","Ames",1787,3,275000
+"CollgCr","Ames",1939,3,227000
+"CollgCr","Ames",1336,3,198000
+"Edwards","Ames",1072,2,142500
+"Edwards","Ames",1709,3,137500
+"Edwards","Ames",1338,3,92000
+"Edwards","Ames",1482,3,125000
+"Edwards","Ames",498,1,35000
+"SWISU","Ames",1551,3,137000
+"SWISU","Ames",1522,4,102000
+"SWISU","Ames",1465,3,131000
+"Crawfor","Ames",2057,3,250000
+"Crawfor","Ames",1336,2,157000
+"IDOTRR","Ames",951,2,106500
+"Mitchel","Ames",1664,4,145000
+"Timber","Ames",2519,4,335000
+"Timber","Ames",2028,2,369900
+"MeadowV","Ames",630,1,73000
+"Mitchel","Ames",1360,3,140000
+"MeadowV","Ames",1092,3,87550
+"Mitchel","Ames",1728,4,150900
+"Sacramento","California",669,3,299200
+"Bakersfield","California",902,2,261100
+"Santa Ana","California",150,3,159200
+"Oakland","California",432,4,158700
+"Oakland","California",432,3,105500
+"Santa Ana","California",446,4,108900
+"San Jose","California",146,2,97200
+"Santa Ana","California",512,2,188800
+"Santa Ana","California",899,2,142500
+"Long Beach","California",163,5,171900
+"San Jose","California",653,5,83100
+"Fresno","California",1238,2,75700
+"Santa Ana","California",798,2,84400
+"Oakland","California",155,4,85000
+"San Francisco","California",1042,4,75000
+"Oakland","California",553,2,67500
+"Fresno","California",581,5,131300
+"Bakersfield","California",90,4,118800
+"Sacramento","California",347,5,137500
+"Oakland","California",600,2,183800
+"Bakersfield","California",739,4,193100
+"Oakland","California",151,5,273400
+"San Jose","California",142,5,335700
+"Sacramento","California",740,4,275700
+"San Francisco","California",497,5,225000
+"Long Beach","California",443,4,327600
+"Long Beach","California",576,4,389500
+"Long Beach","California",539,3,295200
+"Sacramento","California",156,2,411500
+"Los Angeles","California",113,3,335200
+"Santa Ana","California",189,3,365900
+"Sacramento","California",121,3,273700
+"Oakland","California",106,2,348700
+"San Jose","California",462,3,218800
+"Sacramento","California",163,3,122800
+"Bakersfield","California",136,4,105500
+"Bakersfield","California",142,5,96400
+"San Jose","California",107,3,80800
+"Los Angeles","California",801,5,122700
+"Sacramento","California",612,5,109500
+"Fresno","California",560,5,136700
+"Santa Ana","California",102,5,141700
+"Long Beach","California",916,3,150000
+"Oakland","California",589,2,138800
+"Santa Ana","California",104,3,139200
+"Fresno","California",696,4,143800
+"Fresno","California",139,2,257300
+"Long Beach","California",1130,3,246900
+"San Diego","California",503,3,137000
+"San Francisco","California",403,2,119100
+"Sacramento","California",447,3,121600
+"Santa Ana","California",610,4,160000
+"San Francisco","California",85,2,156500
+"San Diego","California",834,2,225000
+"Fresno","California",495,2,174200
+"Santa Ana","California",331,2,253000
+"Bakersfield","California",549,5,136700
+"Sacramento","California",285,5,144000
+"Long Beach","California",816,2,176000
+"Oakland","California",213,2,145800
+"San Francisco","California",376,2,97300
+"San Diego","California",958,4,1e+05
+"Bakersfield","California",109,2,84700
+"Long Beach","California",371,2,76400
+"Sacramento","California",109,2,97200
+"Fresno","California",396,2,86500
+"San Jose","California",902,2,80700
+"Santa Ana","California",717,3,82000
+"San Francisco","California",1142,4,82100
+"Long Beach","California",841,2,88800
+"Long Beach","California",739,2,95500
+"Bakersfield","California",545,5,164300
+"Santa Ana","California",992,2,195500
+"San Jose","California",682,2,248900
+"San Jose","California",534,3,111100
+"San Francisco","California",685,3,129500
+"Oakland","California",188,3,98200
+"Santa Ana","California",625,5,276800
+"San Jose","California",181,5,270900
+"San Jose","California",372,5,224200
+"Oakland","California",288,4,216700
+"Long Beach","California",86,5,270600
+"Bakersfield","California",432,3,261400
+"San Jose","California",329,3,417500
+"Sacramento","California",441,3,290100
+"Oakland","California",112,4,342200
+"San Francisco","California",551,2,415300
+"San Diego","California",160,4,284900
+"San Francisco","California",891,2,187500
+"Los Angeles","California",872,3,140600
+"San Diego","California",153,4,144800
+"Bakersfield","California",741,3,245500
+"Long Beach","California",150,3,182600
+"San Jose","California",240,5,212000
+"Oakland","California",703,3,216700
+"Long Beach","California",745,3,196400
+"Sacramento","California",495,5,191700
+"Los Angeles","California",523,4,165900
+"Santa Ana","California",159,4,157700
+"Long Beach","California",745,3,153100
+"Los Angeles","California",447,3,250000
+"Bakersfield","California",205,5,253600
+"San Francisco","California",477,5,500001
+"Long Beach","California",237,3,500001
+"Santa Ana","California",158,2,500001
+"Oakland","California",131,3,398600
+"Long Beach","California",724,4,333000
+"Fresno","California",977,5,206300
+"San Jose","California",184,2,210200
+"Sacramento","California",386,3,292700
+"Fresno","California",111,2,102200
+"San Jose","California",557,4,220800
+"Sacramento","California",371,4,242800
+"San Francisco","California",1061,5,219000
+"Los Angeles","California",615,5,282100
+"Oakland","California",143,4,372000
+"Oakland","California",406,5,220800
+"Long Beach","California",98,5,234000
+"San Diego","California",86,5,273800
+"Sacramento","California",510,3,248500
+"Oakland","California",114,4,240900
+"Long Beach","California",878,5,286600
+"Sacramento","California",126,2,206200
+"Santa Ana","California",504,4,231000
+"Santa Ana","California",608,3,209200
+"Bakersfield","California",840,5,241800
+"San Francisco","California",86,5,263900
+"Bakersfield","California",308,3,220900
+"San Jose","California",432,5,223200
+"Fresno","California",592,4,195700
+"San Jose","California",169,4,275000
+"Oakland","California",557,3,183300
+"Bakersfield","California",601,4,137500
+"San Diego","California",187,5,264700
+"Long Beach","California",440,5,235100
+"Oakland","California",79,5,167900
+"San Jose","California",764,2,186200
+"Los Angeles","California",97,4,180000
+"Long Beach","California",264,4,218000
+"Los Angeles","California",563,4,187200
+"Fresno","California",460,2,184600
+"Oakland","California",317,5,192200
+"Long Beach","California",634,5,212600
+"San Diego","California",670,4,183600
+"Santa Ana","California",903,4,161700
+"Long Beach","California",408,4,179100
+"San Francisco","California",156,3,160900
+"Oakland","California",567,3,340000
+"Bakersfield","California",196,2,431000
+"Long Beach","California",86,4,216800
+"Oakland","California",89,4,275000
+"Sacramento","California",174,4,196900
+"San Jose","California",494,5,170200
+"San Francisco","California",493,3,167100
+"Oakland","California",158,2,187500
+"Los Angeles","California",165,2,179300
+"San Jose","California",674,3,198100
+"Oakland","California",267,5,179900
+"Los Angeles","California",88,2,167200
+"San Jose","California",177,3,240700
+"San Diego","California",121,3,332600
+"San Diego","California",600,5,165400
+"Santa Ana","California",887,4,204500
+"San Jose","California",207,3,137500
+"Fresno","California",330,2,187200
+"Santa Ana","California",596,2,173600
+"Sacramento","California",147,4,163000
+"Oakland","California",336,2,173100
+"Los Angeles","California",363,5,172600
+"Santa Ana","California",354,3,134900
+"Santa Ana","California",134,4,157600
+"San Francisco","California",202,4,226700
+"San Diego","California",768,4,198700
+"Los Angeles","California",279,4,187000
+"Santa Ana","California",168,5,157300
+"Los Angeles","California",330,2,156300
+"Bakersfield","California",481,2,212500
+"Santa Ana","California",288,4,231800
+"Fresno","California",298,4,247600
+"Oakland","California",815,4,158000
+"Bakersfield","California",713,3,442900
+"Los Angeles","California",70,2,248900
+"Santa Ana","California",120,2,223200
+"Fresno","California",536,2,287600
+"Fresno","California",522,4,223500
+"Los Angeles","California",111,5,246900
+"Long Beach","California",635,5,223800
+"Fresno","California",103,5,223100
+"Santa Ana","California",410,3,218500
+"Fresno","California",123,5,156300
+"Long Beach","California",191,2,245700
+"Long Beach","California",684,3,299400
+"Los Angeles","California",654,4,221300
+"San Francisco","California",122,3,336500
+"San Francisco","California",204,4,285400
+"San Francisco","California",141,4,257300
+"San Diego","California",590,5,300400
+"San Diego","California",468,5,231300
+"Sacramento","California",63,4,475800
+"Sacramento","California",561,2,184400
+"Fresno","California",640,3,174600
+"San Diego","California",147,4,204400
+"Fresno","California",855,3,209400
+"San Jose","California",287,5,117600
+"Sacramento","California",606,4,97900
+"San Diego","California",375,3,140600
+"Santa Ana","California",654,3,119000
+"Sacramento","California",947,4,129200
+"San Francisco","California",655,3,111700
+"San Francisco","California",597,4,116700
+"San Diego","California",86,4,121300
+"Oakland","California",669,2,107200
+"Santa Ana","California",1232,3,89900
+"Long Beach","California",275,5,87300
+"San Diego","California",168,2,125200
+"San Francisco","California",813,4,116300
+"San Francisco","California",542,2,179200
+"Los Angeles","California",633,4,69000
+"Long Beach","California",389,4,78700
+"Santa Ana","California",662,4,66300
+"Los Angeles","California",1086,4,141300
+"San Francisco","California",242,2,117900
+"Long Beach","California",589,4,110200
+"Fresno","California",199,3,103800
+"Los Angeles","California",830,4,85000
+"Los Angeles","California",161,2,126100
+"San Francisco","California",120,5,85700
+"Los Angeles","California",304,4,53600
+"Los Angeles","California",288,2,142300
+"Long Beach","California",1393,4,91200
+"Los Angeles","California",702,5,59800
+"Santa Ana","California",1472,2,88900
+"Santa Ana","California",163,3,96200
+"San Francisco","California",91,5,73800
+"Santa Ana","California",463,4,86300
+"Fresno","California",544,5,56000
+"Santa Ana","California",450,2,79900
+"Bakersfield","California",111,5,133000
+"Santa Ana","California",417,4,90400
+"San Jose","California",166,3,86600
+"Sacramento","California",143,2,139900
+"Bakersfield","California",366,5,155800
+"Oakland","California",114,3,111500
+"Los Angeles","California",405,4,68800
+"Fresno","California",386,2,75000
+"Los Angeles","California",207,2,129700
+"Santa Ana","California",103,2,263100
+"San Diego","California",440,3,156700
+"Bakersfield","California",275,4,253900
+"San Francisco","California",132,3,127000
+"Fresno","California",208,4,130800
+"San Jose","California",718,3,150800
+"Bakersfield","California",204,3,133400
+"Bakersfield","California",708,4,142500
+"Fresno","California",509,2,142600
+"San Francisco","California",206,5,108500
+"Bakersfield","California",770,4,178600
+"San Diego","California",362,4,67500
+"Santa Ana","California",250,3,99400
+"Bakersfield","California",492,5,101400
+"San Jose","California",547,3,94600
+"Fresno","California",475,3,170500
+"Bakersfield","California",386,5,174200
+"Oakland","California",122,5,122200
+"Fresno","California",448,4,136000
+"Long Beach","California",670,2,162200
+"San Francisco","California",858,4,100700
+"San Jose","California",555,4,129800
+"Santa Ana","California",161,4,83500
+"San Jose","California",197,3,156900
+"Santa Ana","California",654,2,165900
+"Santa Ana","California",347,2,133900
+"San Francisco","California",124,4,225000
+"Fresno","California",703,3,166000
+"San Jose","California",380,4,139300
+"Long Beach","California",448,4,150800
+"Fresno","California",147,5,196100
+"Bakersfield","California",404,3,129400
+"Fresno","California",127,4,166400
+"San Diego","California",365,4,159700
+"Oakland","California",298,5,212600
+"Long Beach","California",335,3,294100
+"Bakersfield","California",396,4,225400
+"San Jose","California",90,2,197100
+"Oakland","California",152,3,186400
+"San Francisco","California",682,2,190000
+"San Jose","California",365,2,182000
+"Oakland","California",558,5,235700
+"Los Angeles","California",755,5,220800
+"Fresno","California",288,2,233200
+"Los Angeles","California",116,3,273200
+"Santa Ana","California",1138,4,140600
+"Bakersfield","California",709,3,148900
+"Sacramento","California",165,2,194000
+"Oakland","California",313,2,184000
+"Long Beach","California",308,5,259500
+"Santa Ana","California",203,5,229200
+"Long Beach","California",177,4,190700
+"Fresno","California",747,4,265900
+"Sacramento","California",791,4,106300
+"San Diego","California",681,3,151800
+"Oakland","California",283,2,182000
+"San Diego","California",109,2,162500
+"San Diego","California",569,5,266500
+"San Diego","California",310,4,184900
+"Long Beach","California",640,2,292500
+"San Jose","California",1278,4,306900
+"Bakersfield","California",560,3,266800
+"Santa Ana","California",126,3,283900
+"Los Angeles","California",166,3,271000
+"San Diego","California",969,5,335700
+"Long Beach","California",389,2,269800
+"San Francisco","California",73,5,345800
+"Los Angeles","California",681,2,343700
+"Long Beach","California",824,2,356700
+"Long Beach","California",563,4,432400
+"Long Beach","California",182,4,434700
+"Fresno","California",890,5,294800
+"San Jose","California",210,3,257100
+"Sacramento","California",408,5,99400
+"Los Angeles","California",282,4,85000
+"Sacramento","California",230,2,370200
+"Bakersfield","California",594,5,404300
+"San Francisco","California",148,5,399700
+"San Francisco","California",376,2,401800
+"Long Beach","California",832,4,485400
+"Santa Ana","California",344,5,285400
+"Fresno","California",863,3,353600
+"Bakersfield","California",451,5,365800
+"Santa Ana","California",711,4,205100
+"Long Beach","California",436,2,310700
+"Long Beach","California",286,4,171100
+"Santa Ana","California",91,5,147100
+"San Diego","California",669,2,134500
+"Fresno","California",605,4,195000
+"Fresno","California",1061,3,184800
+"Long Beach","California",707,5,269400
+"Los Angeles","California",1275,4,237700
+"San Francisco","California",720,2,190000
+"Bakersfield","California",161,4,161000
+"Long Beach","California",651,3,173500
+"Los Angeles","California",777,5,175000
+"Fresno","California",520,3,80400
+"Santa Ana","California",662,3,81300
+"San Francisco","California",134,2,156600
+"Los Angeles","California",196,4,133700
+"Santa Ana","California",563,3,103600
+"Fresno","California",132,4,144600
+"Fresno","California",240,4,111700
+"Fresno","California",844,2,114600
+"Long Beach","California",137,3,145500
+"Bakersfield","California",771,3,143900
+"San Jose","California",635,4,105200
+"Fresno","California",610,3,269800
+"Long Beach","California",668,2,275000
+"Oakland","California",597,4,95000
+"San Francisco","California",159,3,91500
+"Santa Ana","California",980,5,86100
+"Sacramento","California",158,3,104200
+"Los Angeles","California",247,2,111500
+"Santa Ana","California",109,5,156300
+"Los Angeles","California",743,4,140600
+"Oakland","California",498,3,167800
+"Bakersfield","California",447,5,247300
+"Oakland","California",323,4,267700
+"Long Beach","California",329,2,22500
+"Sacramento","California",851,2,212200
+"Santa Ana","California",775,4,311400
+"San Francisco","California",414,2,263200
+"Bakersfield","California",787,4,333700
+"San Jose","California",110,3,324400
+"Long Beach","California",721,3,315500
+"Los Angeles","California",650,2,331200
+"Sacramento","California",193,4,103100
+"Santa Ana","California",576,2,152700
+"San Diego","California",108,5,71100
+"Fresno","California",159,5,87500
+"Los Angeles","California",358,2,85800
+"Oakland","California",88,2,90400
+"Sacramento","California",192,3,117700
+"Oakland","California",762,2,500001
+"Fresno","California",524,3,95500
+"Oakland","California",141,3,239600
+"Los Angeles","California",608,2,173400
+"Oakland","California",463,2,187900
+"Santa Ana","California",165,4,180800
+"Sacramento","California",89,2,207600
+"Los Angeles","California",1029,3,196300
+"Los Angeles","California",441,5,167400
+"San Jose","California",494,3,150900
+"Long Beach","California",617,5,140200
+"Santa Ana","California",716,4,126400
+"Long Beach","California",105,3,162500
+"San Jose","California",96,3,138500
+"Fresno","California",899,3,56700
+"Los Angeles","California",97,3,47500
+"Bakersfield","California",779,5,59200
+"Fresno","California",545,3,43800
+"Long Beach","California",406,2,62100
+"Santa Ana","California",329,5,51300
+"Sacramento","California",226,2,52500
+"Long Beach","California",448,5,44400
+"Long Beach","California",688,4,52100
+"San Francisco","California",658,4,120300
+"Bakersfield","California",84,5,121600
+"San Diego","California",756,3,153800
+"Sacramento","California",103,2,91600
+"Long Beach","California",316,3,92300
+"San Diego","California",96,2,89500
+"San Jose","California",447,4,61200
+"Sacramento","California",1030,3,67300
+"San Diego","California",163,3,57100
+"San Francisco","California",216,3,54200
+"Long Beach","California",720,2,69200
+"Oakland","California",670,5,59000
+"Oakland","California",550,3,56000
+"San Jose","California",439,3,69100
+"San Jose","California",403,5,55600
+"San Francisco","California",155,3,51300
+"San Diego","California",341,2,64700
+"Los Angeles","California",600,4,87500
+"San Diego","California",436,4,88300
+"Bakersfield","California",175,3,85700
+"Bakersfield","California",91,5,73000
+"Bakersfield","California",292,4,70700
+"Sacramento","California",966,2,67700
+"Long Beach","California",834,4,73000
+"Fresno","California",738,5,85000
+"Sacramento","California",320,5,80400
+"San Jose","California",135,2,84500
+"San Diego","California",590,4,79700
+"Sacramento","California",545,4,74500
+"Santa Ana","California",576,2,69000
+"San Jose","California",387,3,71800
+"Sacramento","California",89,2,83200
+"Long Beach","California",673,2,60400
+"San Diego","California",589,4,160300
+"Los Angeles","California",823,3,119300
+"San Diego","California",200,3,88800
+"San Jose","California",409,2,67900
+"Los Angeles","California",1597,5,213900
+"San Francisco","California",909,3,123000
+"Sacramento","California",496,3,150900
+"San Diego","California",170,4,123600
+"Sacramento","California",909,2,124400
+"Santa Ana","California",82,4,94400
+"San Francisco","California",359,4,119300
+"Fresno","California",470,4,160100
+"Sacramento","California",459,2,99500
+"San Diego","California",786,3,67000
+"Bakersfield","California",641,4,67500
+"San Jose","California",815,4,96500
+"Long Beach","California",381,2,78800
+"Bakersfield","California",77,5,69400
+"Santa Ana","California",97,4,99600
+"Sacramento","California",206,2,71400
+"San Diego","California",737,2,68000
+"Long Beach","California",202,3,113400
+"Sacramento","California",401,4,69700
+"Fresno","California",177,3,72800
+"San Francisco","California",871,5,72200
+"San Diego","California",1237,4,52500
+"Sacramento","California",956,4,100200
+"Los Angeles","California",1349,2,54600
+"Sacramento","California",1160,4,113700
+"San Jose","California",171,2,123300
+"San Diego","California",667,4,106200
+"Sacramento","California",546,3,130600
+"Sacramento","California",122,3,84800
+"Fresno","California",474,4,72900
+"Sacramento","California",462,2,83900
+"Oakland","California",198,3,55800
+"Long Beach","California",925,3,93800
+"San Jose","California",635,4,90500
+"Sacramento","California",191,2,92200
+"Santa Ana","California",682,4,55200
+"Fresno","California",499,2,91600
+"Sacramento","California",485,4,60900
+"Fresno","California",237,5,56700
+"Los Angeles","California",455,5,66100
+"Bakersfield","California",728,3,87300
+"Bakersfield","California",504,3,84200
+"Fresno","California",416,2,56900
+"Fresno","California",832,2,73100
+"San Francisco","California",229,4,68300
+"Fresno","California",659,3,55300
+"Sacramento","California",952,4,53000
+"Oakland","California",909,3,120900
+"San Francisco","California",982,4,95700
+"Los Angeles","California",970,3,72500
+"Sacramento","California",172,2,83600
+"San Diego","California",788,2,78200
+"Bakersfield","California",421,3,60000
+"Sacramento","California",381,4,74600
+"Santa Ana","California",140,5,76400
+"Long Beach","California",380,2,58400
+"San Francisco","California",116,2,60900
+"San Diego","California",184,5,55000
+"San Diego","California",440,5,65000
+"Santa Ana","California",827,5,85300
+"Los Angeles","California",404,5,60400
+"San Diego","California",492,4,76600
+"San Jose","California",303,3,66000
+"San Diego","California",93,5,90600
+"Santa Ana","California",512,5,57200
+"San Francisco","California",265,3,38800
+"Fresno","California",1209,4,55200
+"San Francisco","California",541,4,63000
+"Fresno","California",104,3,85400
+"Bakersfield","California",184,2,67500
+"San Francisco","California",640,4,81600
+"Bakersfield","California",885,4,71000
+"San Francisco","California",179,4,125000
+"San Francisco","California",526,2,77100
+"Santa Ana","California",272,2,85600
+"Los Angeles","California",87,5,67000
+"Bakersfield","California",417,3,82800
+"Bakersfield","California",405,5,72600
+"San Diego","California",214,4,74100
+"Oakland","California",1079,4,86400
+"San Francisco","California",114,3,96100
+"Santa Ana","California",158,4,101100
+"Los Angeles","California",107,4,79800
+"Long Beach","California",240,5,50000
+"Los Angeles","California",272,4,96000
+"Bakersfield","California",816,5,73600
+"Sacramento","California",347,5,119700
+"San Francisco","California",133,5,79600
+"San Diego","California",583,2,94800
+"San Diego","California",96,2,55000
+"San Jose","California",589,2,74000
+"Oakland","California",720,3,76800
+"Sacramento","California",400,3,60800
+"San Diego","California",102,5,43300
+"Santa Ana","California",832,5,62000
+"Bakersfield","California",552,5,60600
+"San Diego","California",474,2,65800
+"Santa Ana","California",192,2,67500
+"Oakland","California",660,5,55200
+"San Francisco","California",311,2,93800
+"San Francisco","California",580,4,112500
+"San Diego","California",467,3,96300
+"Los Angeles","California",1144,5,60400
+"Los Angeles","California",156,2,86200
+"Santa Ana","California",188,3,94400
+"San Jose","California",578,4,84700
+"Oakland","California",91,5,58800
+"San Diego","California",463,2,44000
+"Los Angeles","California",89,3,118800
+"San Jose","California",432,2,139700
+"San Jose","California",636,3,137500
+"Oakland","California",699,4,32900
+"San Jose","California",283,5,67900
+"Sacramento","California",869,2,67200
+"Long Beach","California",150,3,54700
+"Los Angeles","California",437,2,63200
+"Sacramento","California",392,5,63500
+"Los Angeles","California",357,3,237500
+"Sacramento","California",432,2,72100
+"San Francisco","California",125,5,76200
+"San Diego","California",818,2,87000
+"Long Beach","California",772,4,59700
+"San Francisco","California",134,3,61300
+"San Jose","California",129,2,52400
+"Oakland","California",336,2,54300
+"Fresno","California",214,3,59500
+"Long Beach","California",819,2,50000
+"San Diego","California",653,3,50700
+"San Jose","California",600,4,47500
+"Sacramento","California",1014,4,60000
+"Oakland","California",109,3,69500
+"Los Angeles","California",546,3,75300
+"Oakland","California",375,5,76800

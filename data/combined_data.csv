@@ -1,0 +1,5880 @@
+Neighborhood,LivArea,TotalBedrooms,SalePrice,Source
+NAmes,1656,3,215000,Ames
+NAmes,896,2,105000,Ames
+NAmes,1329,3,172000,Ames
+NAmes,2110,3,244000,Ames
+Gilbert,1629,3,189900,Ames
+Gilbert,1604,3,195500,Ames
+StoneBr,1338,2,213500,Ames
+StoneBr,1280,2,191500,Ames
+StoneBr,1616,2,236500,Ames
+Gilbert,1804,3,189000,Ames
+Gilbert,1655,3,175900,Ames
+Gilbert,1187,3,185000,Ames
+Gilbert,1465,3,180400,Ames
+Gilbert,1341,2,171500,Ames
+StoneBr,1502,1,212000,Ames
+StoneBr,3279,4,538000,Ames
+Gilbert,1752,4,164000,Ames
+StoneBr,1856,1,394432,Ames
+Gilbert,864,2,141000,Ames
+NWAmes,2073,3,210000,Ames
+NWAmes,1844,3,190000,Ames
+NWAmes,1173,3,170000,Ames
+Somerst,1674,3,216000,Ames
+NAmes,1004,2,149000,Ames
+NAmes,1078,3,149900,Ames
+NAmes,1056,3,142000,Ames
+NAmes,882,2,126000,Ames
+NAmes,864,3,115000,Ames
+NAmes,1337,2,184000,Ames
+BrDale,987,2,96000,Ames
+BrDale,1092,3,105500,Ames
+BrDale,1092,3,88000,Ames
+NPkVill,1069,2,127500,Ames
+NPkVill,1456,3,149900,Ames
+NPkVill,836,2,120000,Ames
+NPkVill,1456,3,146000,Ames
+NridgHt,2334,3,376162,Ames
+NridgHt,1704,3,306000,Ames
+NridgHt,1940,3,395192,Ames
+NridgHt,1544,3,290941,Ames
+NridgHt,1541,3,220000,Ames
+NridgHt,1698,3,275000,Ames
+NridgHt,1822,3,259000,Ames
+NridgHt,1535,3,214000,Ames
+NridgHt,2364,2,611657,Ames
+NridgHt,1358,2,224000,Ames
+NridgHt,2696,3,5.00E+05,Ames
+NridgHt,2250,3,320000,Ames
+NridgHt,1752,2,319900,Ames
+NridgHt,1370,2,205000,Ames
+NridgHt,1626,2,175500,Ames
+Gilbert,1324,3,199500,Ames
+Blmngtn,1145,2,160000,Ames
+Blmngtn,1269,2,192000,Ames
+Gilbert,1374,3,184500,Ames
+Gilbert,1960,4,216500,Ames
+Gilbert,1733,3,185088,Ames
+Gilbert,1430,3,180000,Ames
+Gilbert,2035,3,222500,Ames
+NoRidge,2599,4,333168,Ames
+NoRidge,2475,4,355000,Ames
+NoRidge,1720,3,260400,Ames
+NoRidge,2622,3,325000,Ames
+NoRidge,2270,4,290000,Ames
+NoRidge,1839,4,221000,Ames
+NoRidge,3238,4,410000,Ames
+Somerst,1595,2,221500,Ames
+Somerst,1218,2,204500,Ames
+Somerst,1547,3,215200,Ames
+Somerst,1566,3,262500,Ames
+Somerst,1947,3,254900,Ames
+Somerst,1468,2,271500,Ames
+SawyerW,2084,4,233000,Ames
+SawyerW,1659,3,181000,Ames
+SawyerW,2110,3,205000,Ames
+SawyerW,923,2,143000,Ames
+SawyerW,1845,3,189000,Ames
+SawyerW,918,2,99500,Ames
+SawyerW,752,2,125000,Ames
+SawyerW,1744,3,194500,Ames
+SawyerW,1097,3,152000,Ames
+SawyerW,1564,3,171000,Ames
+SawyerW,1012,2,67500,Ames
+Sawyer,1902,4,112000,Ames
+Sawyer,1155,3,148000,Ames
+Sawyer,894,3,138500,Ames
+Sawyer,900,3,122000,Ames
+Sawyer,1040,3,133000,Ames
+Sawyer,1040,3,127000,Ames
+Sawyer,1494,3,169000,Ames
+NoRidge,1923,3,190000,Ames
+NoRidge,2349,4,362500,Ames
+NoRidge,2225,4,285000,Ames
+Somerst,1488,2,260000,Ames
+Somerst,1680,2,190000,Ames
+Somerst,1200,2,155000,Ames
+Somerst,1200,2,151000,Ames
+Somerst,1200,2,149500,Ames
+Somerst,1236,2,152000,Ames
+Somerst,1478,2,222000,Ames
+Somerst,1573,3,177500,Ames
+Somerst,1512,2,177000,Ames
+Somerst,1416,3,155000,Ames
+Somerst,1080,2,147110,Ames
+Somerst,1418,1,267916,Ames
+Somerst,1848,3,254000,Ames
+Greens,788,1,155000,Ames
+Greens,1226,1,206000,Ames
+Sawyer,1479,3,130500,Ames
+Somerst,1492,3,230000,Ames
+NWAmes,1829,4,218500,Ames
+NWAmes,2495,4,243500,Ames
+NWAmes,1610,3,205000,Ames
+NWAmes,1891,3,212500,Ames
+NWAmes,1714,3,196500,Ames
+NWAmes,1381,3,197500,Ames
+NWAmes,1645,4,171000,Ames
+NAmes,1232,3,142250,Ames
+NWAmes,1328,3,143000,Ames
+NAmes,1225,3,128950,Ames
+NAmes,1209,3,159000,Ames
+NAmes,1510,3,178900,Ames
+NAmes,1775,3,136300,Ames
+NAmes,1152,3,180500,Ames
+NAmes,1054,3,137500,Ames
+NAmes,1728,6,84900,Ames
+NAmes,1078,2,142125,Ames
+NAmes,2461,3,197600,Ames
+NAmes,1556,3,172500,Ames
+BrkSide,858,2,116500,Ames
+BrkSide,1306,3,76500,Ames
+NAmes,1063,3,128000,Ames
+NAmes,1520,3,153000,Ames
+NAmes,1268,2,132000,Ames
+NAmes,1128,2,178000,Ames
+NAmes,2274,5,154300,Ames
+NAmes,2207,3,180000,Ames
+NAmes,1888,2,190000,Ames
+NAmes,1604,4,135000,Ames
+NAmes,1480,3,214000,Ames
+NAmes,1143,3,136000,Ames
+NAmes,1700,4,165500,Ames
+NAmes,1314,3,145000,Ames
+NAmes,1194,3,148000,Ames
+NAmes,1188,3,142000,Ames
+NAmes,1264,3,167500,Ames
+NAmes,1206,3,108538,Ames
+NAmes,1580,3,159500,Ames
+NAmes,1337,3,108000,Ames
+NAmes,1064,2,135000,Ames
+NAmes,972,3,122500,Ames
+NAmes,988,2,119000,Ames
+NAmes,1057,3,109000,Ames
+NAmes,985,2,105000,Ames
+NAmes,827,2,107500,Ames
+NAmes,1086,3,144900,Ames
+NAmes,936,2,129000,Ames
+NAmes,1458,3,97500,Ames
+OldTown,1056,0,144000,Ames
+NAmes,1287,3,162000,Ames
+NAmes,2978,5,242000,Ames
+NAmes,1224,3,132000,Ames
+NAmes,1246,3,154000,Ames
+NAmes,1385,4,166000,Ames
+NAmes,900,3,134800,Ames
+NAmes,1116,3,160000,Ames
+NAmes,1175,3,148000,Ames
+NAmes,1395,2,192000,Ames
+NAmes,1839,4,155000,Ames
+OldTown,1844,3,80400,Ames
+OldTown,1140,3,96500,Ames
+OldTown,936,2,109500,Ames
+OldTown,1028,2,115000,Ames
+OldTown,1347,3,143000,Ames
+OldTown,1605,3,107400,Ames
+OldTown,747,2,80000,Ames
+OldTown,804,2,119000,Ames
+OldTown,1316,3,130000,Ames
+OldTown,1251,3,119000,Ames
+OldTown,1633,3,129000,Ames
+OldTown,1245,3,1.00E+05,Ames
+OldTown,832,2,12789,Ames
+OldTown,720,2,105900,Ames
+OldTown,1566,3,150000,Ames
+OldTown,1652,4,139000,Ames
+OldTown,2268,3,240000,Ames
+OldTown,2256,4,76500,Ames
+OldTown,1236,2,149700,Ames
+OldTown,1363,3,125500,Ames
+OldTown,2290,4,122500,Ames
+OldTown,1470,2,140750,Ames
+BrkSide,1612,3,128500,Ames
+BrkSide,2068,3,209500,Ames
+BrkSide,765,2,87000,Ames
+BrkSide,1132,2,134000,Ames
+BrkSide,1196,3,128000,Ames
+BrkSide,1453,3,132000,Ames
+BrkSide,1416,3,139900,Ames
+BrkSide,1040,2,123900,Ames
+BrkSide,1536,4,138400,Ames
+OldTown,1068,2,109500,Ames
+OldTown,1710,3,140000,Ames
+OldTown,1962,4,149500,Ames
+OldTown,1560,3,159900,Ames
+OldTown,1324,3,122000,Ames
+IDOTRR,816,2,110000,Ames
+IDOTRR,1092,3,55000,Ames
+OldTown,1812,4,140000,Ames
+ClearCr,2403,4,244400,Ames
+ClearCr,1675,3,173000,Ames
+ClearCr,1224,3,107500,Ames
+SWISU,1392,3,1.00E+05,Ames
+SWISU,919,3,95000,Ames
+SWISU,1884,4,93369,Ames
+SWISU,1680,2,114900,Ames
+Sawyer,1020,2,94000,Ames
+Sawyer,1832,4,136000,Ames
+Sawyer,1768,4,136500,Ames
+Sawyer,1039,3,131500,Ames
+Sawyer,1392,3,121500,Ames
+Sawyer,912,3,125000,Ames
+Sawyer,1060,3,154000,Ames
+Sawyer,892,3,137900,Ames
+Sawyer,1352,4,158000,Ames
+Sawyer,864,2,137250,Ames
+Sawyer,1373,3,160250,Ames
+Sawyer,1440,4,163000,Ames
+Sawyer,1386,3,158900,Ames
+ClearCr,2260,3,328000,Ames
+ClearCr,1483,1,270000,Ames
+Sawyer,756,2,85000,Ames
+Sawyer,1067,2,128000,Ames
+ClearCr,1524,0,260000,Ames
+ClearCr,1981,4,230000,Ames
+Edwards,1610,4,124000,Ames
+Edwards,835,2,83000,Ames
+Edwards,1074,3,144500,Ames
+Edwards,1144,3,129000,Ames
+Edwards,1531,3,127000,Ames
+Edwards,1172,3,128000,Ames
+Edwards,1212,3,186000,Ames
+Edwards,1508,1,308030,Ames
+Edwards,1298,3,114000,Ames
+Edwards,930,2,84900,Ames
+SawyerW,1732,3,178000,Ames
+SawyerW,1433,1,270000,Ames
+SawyerW,1802,3,218000,Ames
+SawyerW,1949,3,236000,Ames
+SawyerW,996,2,147000,Ames
+CollgCr,1694,3,245350,Ames
+CollgCr,1208,2,206000,Ames
+CollgCr,1226,3,198900,Ames
+CollgCr,1222,2,187000,Ames
+SawyerW,3222,5,320000,Ames
+SawyerW,1445,3,138500,Ames
+ClearCr,1052,3,155000,Ames
+CollgCr,965,2,159000,Ames
+CollgCr,1692,3,191000,Ames
+CollgCr,1682,3,200500,Ames
+CollgCr,1026,3,150000,Ames
+CollgCr,1392,3,161750,Ames
+CollgCr,894,3,128200,Ames
+CollgCr,876,3,127000,Ames
+CollgCr,1978,3,318000,Ames
+CollgCr,1601,3,272000,Ames
+CollgCr,1829,3,237000,Ames
+CollgCr,2098,4,240000,Ames
+CollgCr,1661,3,224900,Ames
+CollgCr,848,1,143750,Ames
+CollgCr,848,1,143000,Ames
+CollgCr,1668,3,232000,Ames
+CollgCr,1484,3,213000,Ames
+CollgCr,1414,3,185500,Ames
+Edwards,640,2,84900,Ames
+Edwards,992,3,155891,Ames
+Edwards,1664,4,1.00E+05,Ames
+Edwards,1196,3,144000,Ames
+Edwards,1120,2,64000,Ames
+Edwards,1096,3,125200,Ames
+Edwards,1117,3,107000,Ames
+Edwards,960,3,90000,Ames
+Edwards,1121,2,140000,Ames
+Edwards,1487,3,113000,Ames
+Edwards,924,2,80000,Ames
+Edwards,1526,4,144500,Ames
+SWISU,1296,2,104000,Ames
+SWISU,1647,4,128000,Ames
+Edwards,864,2,58500,Ames
+SWISU,1691,3,127000,Ames
+SWISU,856,2,126000,Ames
+SWISU,2650,6,160000,Ames
+SWISU,1666,3,1.00E+05,Ames
+SWISU,2447,4,169000,Ames
+Crawfor,2133,4,257500,Ames
+Crawfor,2177,5,215000,Ames
+Crawfor,2340,4,266500,Ames
+Crawfor,1902,3,335000,Ames
+Crawfor,1652,3,203135,Ames
+Blueste,1034,1,185000,Ames
+Blueste,1191,2,162500,Ames
+Crawfor,1801,1,289000,Ames
+IDOTRR,1154,3,125500,Ames
+IDOTRR,540,1,82000,Ames
+IDOTRR,1107,2,110000,Ames
+IDOTRR,1128,2,68400,Ames
+IDOTRR,1178,2,102776,Ames
+IDOTRR,1044,2,55993,Ames
+IDOTRR,952,3,50138,Ames
+Crawfor,1646,2,246000,Ames
+Mitchel,1916,3,254900,Ames
+Mitchel,1285,3,190000,Ames
+Mitchel,1560,3,201000,Ames
+Mitchel,1034,3,169900,Ames
+Mitchel,2048,5,170000,Ames
+Timber,1687,3,160000,Ames
+Timber,1346,3,220000,Ames
+Timber,1214,2,179781,Ames
+Timber,1444,3,174000,Ames
+Timber,1968,4,269500,Ames
+Timber,1894,4,214900,Ames
+Timber,1908,4,202900,Ames
+Timber,2018,3,378500,Ames
+Mitchel,1264,2,169000,Ames
+Mitchel,1430,3,173500,Ames
+Mitchel,1824,4,139000,Ames
+Mitchel,1344,3,166500,Ames
+MeadowV,1092,3,83500,Ames
+MeadowV,945,2,119500,Ames
+MeadowV,1112,3,85000,Ames
+MeadowV,1092,3,76000,Ames
+MeadowV,630,1,75500,Ames
+MeadowV,1092,3,88250,Ames
+MeadowV,1092,3,85500,Ames
+Mitchel,874,3,130000,Ames
+Mitchel,1188,3,157900,Ames
+Mitchel,833,2,149900,Ames
+Mitchel,2432,4,159000,Ames
+Mitchel,1274,3,136000,Ames
+Mitchel,1479,5,161000,Ames
+Mitchel,1803,3,285000,Ames
+Mitchel,1797,3,231000,Ames
+NAmes,882,2,124500,Ames
+NAmes,1434,4,157000,Ames
+NAmes,2704,4,345000,Ames
+Gilbert,1608,3,189500,Ames
+Gilbert,2283,4,270000,Ames
+Gilbert,1628,3,189000,Ames
+Gilbert,1746,3,377500,Ames
+Gilbert,1474,3,168500,Ames
+StoneBr,2522,1,375000,Ames
+StoneBr,1659,2,278000,Ames
+StoneBr,1478,2,240000,Ames
+StoneBr,1734,2,239500,Ames
+Gilbert,1382,3,177500,Ames
+Gilbert,1718,3,185000,Ames
+Gilbert,1636,3,191000,Ames
+Gilbert,1571,3,178000,Ames
+Gilbert,1470,3,185000,Ames
+Gilbert,1516,3,181316,Ames
+Gilbert,1190,3,166000,Ames
+Gilbert,1593,3,178000,Ames
+Gilbert,1481,3,174000,Ames
+Gilbert,1167,3,173000,Ames
+Gilbert,1983,3,225000,Ames
+Gilbert,1442,3,180500,Ames
+StoneBr,1360,1,187500,Ames
+StoneBr,2234,1,501837,Ames
+StoneBr,2046,3,372500,Ames
+StoneBr,1530,3,260000,Ames
+Gilbert,1934,3,185000,Ames
+NWAmes,2353,4,260000,Ames
+NWAmes,1586,3,181000,Ames
+NWAmes,1411,3,82500,Ames
+NWAmes,1602,3,215000,Ames
+NWAmes,2050,4,154000,Ames
+NWAmes,1671,3,2.00E+05,Ames
+NWAmes,2673,4,249000,Ames
+NWAmes,1472,3,187500,Ames
+NWAmes,1707,3,184000,Ames
+NWAmes,2524,4,278000,Ames
+NWAmes,1601,3,157000,Ames
+NWAmes,1370,3,152000,Ames
+NWAmes,1868,4,197500,Ames
+Somerst,1884,3,240900,Ames
+Somerst,1935,3,263435,Ames
+Somerst,1874,3,220000,Ames
+Somerst,1811,3,235000,Ames
+NWAmes,1621,3,213000,Ames
+NWAmes,1116,3,167900,Ames
+NWAmes,1193,3,158000,Ames
+NWAmes,1350,3,165000,Ames
+NWAmes,2119,3,158000,Ames
+NAmes,1792,4,136000,Ames
+NAmes,1002,3,148500,Ames
+NAmes,1026,3,156000,Ames
+NAmes,1180,2,128000,Ames
+NAmes,1050,3,143000,Ames
+NAmes,864,3,76500,Ames
+NAmes,864,3,120500,Ames
+NAmes,864,3,124500,Ames
+NAmes,864,2,97000,Ames
+NAmes,864,3,130000,Ames
+BrDale,987,2,111000,Ames
+BrDale,1365,3,125000,Ames
+BrDale,1302,3,112000,Ames
+BrDale,987,2,97000,Ames
+BrDale,987,2,118000,Ames
+BrDale,1302,3,119500,Ames
+NPkVill,958,2,143750,Ames
+NPkVill,1548,3,146000,Ames
+NPkVill,1456,3,148500,Ames
+NPkVill,1055,2,123000,Ames
+NPkVill,1322,3,147000,Ames
+NPkVill,1456,3,137900,Ames
+NPkVill,1548,3,147000,Ames
+NPkVill,1441,3,148500,Ames
+NPkVill,1456,3,138000,Ames
+NPkVill,836,2,128500,Ames
+NAmes,892,3,1.00E+05,Ames
+NAmes,1120,3,148800,Ames
+NridgHt,1718,3,337500,Ames
+NridgHt,2772,4,462000,Ames
+NridgHt,3140,4,485000,Ames
+NridgHt,2402,2,555000,Ames
+NridgHt,1652,2,325000,Ames
+NridgHt,1600,3,256300,Ames
+NridgHt,2042,3,253293,Ames
+NridgHt,2690,3,398800,Ames
+NridgHt,2184,3,335000,Ames
+NridgHt,2020,3,404000,Ames
+NridgHt,2020,3,402861,Ames
+NridgHt,2296,3,451950,Ames
+NridgHt,2674,2,610000,Ames
+NridgHt,2822,4,582933,Ames
+NridgHt,1736,3,360000,Ames
+NridgHt,1782,3,296000,Ames
+NridgHt,2520,5,409900,Ames
+NridgHt,1717,3,255500,Ames
+NridgHt,1743,3,335000,Ames
+NridgHt,1713,3,274900,Ames
+NridgHt,1531,2,3.00E+05,Ames
+NridgHt,1808,3,324000,Ames
+NridgHt,2224,4,350000,Ames
+NridgHt,1836,3,280000,Ames
+NridgHt,1629,3,284000,Ames
+NridgHt,1760,3,269500,Ames
+NridgHt,1502,3,233170,Ames
+NridgHt,2392,3,386250,Ames
+NridgHt,2452,3,445000,Ames
+NridgHt,2400,4,290000,Ames
+NridgHt,1606,3,255900,Ames
+NridgHt,1358,2,213000,Ames
+NridgHt,1306,1,196000,Ames
+NridgHt,1306,1,184500,Ames
+NridgHt,1358,2,212500,Ames
+NridgHt,1314,2,230000,Ames
+NridgHt,2492,2,552000,Ames
+NridgHt,2200,3,382500,Ames
+NridgHt,1884,2,320000,Ames
+NridgHt,1456,2,248500,Ames
+NridgHt,1712,3,286500,Ames
+NridgHt,1324,2,254000,Ames
+NridgHt,1405,2,173000,Ames
+NridgHt,1626,2,173000,Ames
+Gilbert,1456,3,184000,Ames
+Gilbert,1490,3,167800,Ames
+Gilbert,1484,3,174000,Ames
+Gilbert,1560,3,174000,Ames
+Blmngtn,1555,2,174000,Ames
+Blmngtn,1569,1,175900,Ames
+Blmngtn,1555,2,192500,Ames
+Blmngtn,1504,1,181000,Ames
+Blmngtn,1220,2,180000,Ames
+Blmngtn,1145,2,160200,Ames
+Gilbert,1432,3,188500,Ames
+Gilbert,2267,4,2.00E+05,Ames
+Gilbert,1374,3,170000,Ames
+Gilbert,1630,3,189500,Ames
+Gilbert,1419,3,184100,Ames
+Gilbert,1594,3,195500,Ames
+Gilbert,1489,3,192000,Ames
+Gilbert,1342,3,178000,Ames
+NridgHt,1314,2,207500,Ames
+Gilbert,2256,4,236000,Ames
+Gilbert,2004,4,257500,Ames
+Gilbert,2054,3,244000,Ames
+Gilbert,1374,3,167000,Ames
+Gilbert,1800,3,179000,Ames
+Gilbert,1514,3,190000,Ames
+Gilbert,1430,3,156000,Ames
+Gilbert,2312,4,245000,Ames
+Gilbert,1675,3,181000,Ames
+Gilbert,2060,3,214000,Ames
+Gilbert,1430,3,168000,Ames
+NoRidge,2365,3,337000,Ames
+NoRidge,2794,4,403000,Ames
+NoRidge,2687,4,327000,Ames
+NoRidge,2450,3,340000,Ames
+NoRidge,2612,4,336000,Ames
+NoRidge,2344,3,265000,Ames
+NoRidge,2063,3,315000,Ames
+NoRidge,2646,4,260000,Ames
+NoRidge,2061,3,260000,Ames
+NoRidge,2232,3,263550,Ames
+NoRidge,2448,4,402000,Ames
+NoRidge,1850,3,248000,Ames
+Somerst,1468,3,244600,Ames
+Somerst,1696,3,275000,Ames
+Somerst,1658,3,257500,Ames
+Somerst,1578,3,287090,Ames
+Somerst,1702,3,275500,Ames
+Somerst,1432,3,245000,Ames
+Somerst,1971,3,253000,Ames
+Somerst,2490,2,468000,Ames
+Somerst,1852,3,252678,Ames
+Somerst,1590,3,210000,Ames
+Somerst,1218,2,208300,Ames
+Somerst,1436,3,225000,Ames
+Somerst,1314,3,229456,Ames
+Somerst,1402,3,229800,Ames
+Somerst,1530,3,250000,Ames
+Somerst,1766,2,370878,Ames
+Somerst,1448,2,238500,Ames
+Somerst,2007,3,310000,Ames
+Somerst,1795,3,270000,Ames
+Somerst,1953,3,252000,Ames
+Somerst,1550,2,241000,Ames
+Somerst,1836,3,264500,Ames
+Somerst,1662,3,291000,Ames
+Somerst,2094,4,263000,Ames
+Somerst,1221,2,185000,Ames
+Somerst,1553,3,234500,Ames
+Somerst,1653,3,209000,Ames
+SawyerW,1218,3,159000,Ames
+SawyerW,1141,3,152000,Ames
+SawyerW,1158,3,143500,Ames
+SawyerW,1812,3,193000,Ames
+SawyerW,1512,3,203000,Ames
+SawyerW,1200,2,184900,Ames
+SawyerW,1114,3,159000,Ames
+SawyerW,1114,3,142000,Ames
+SawyerW,1114,3,153000,Ames
+SawyerW,1450,2,224243,Ames
+SawyerW,2122,4,220000,Ames
+SawyerW,1844,2,257000,Ames
+SawyerW,1434,3,189000,Ames
+SawyerW,1730,3,171500,Ames
+SawyerW,1217,3,120000,Ames
+SawyerW,1332,2,145000,Ames
+SawyerW,1540,3,184000,Ames
+SawyerW,1400,3,162000,Ames
+SawyerW,1882,4,160000,Ames
+SawyerW,841,2,82000,Ames
+SawyerW,784,2,76000,Ames
+Sawyer,980,3,110000,Ames
+Sawyer,980,3,135000,Ames
+Sawyer,864,3,141000,Ames
+Sawyer,864,2,122000,Ames
+Sawyer,1020,3,124100,Ames
+Sawyer,912,3,129000,Ames
+Sawyer,1144,3,131400,Ames
+Sawyer,864,3,62383,Ames
+Sawyer,912,3,123000,Ames
+Veenker,2014,2,275000,Ames
+NoRidge,1755,3,235000,Ames
+Somerst,3005,3,280750,Ames
+Somerst,1224,2,164500,Ames
+Somerst,1224,2,173733,Ames
+Somerst,1726,2,222000,Ames
+Somerst,1256,1,195000,Ames
+Somerst,1471,3,172500,Ames
+Somerst,1512,2,180000,Ames
+Somerst,1452,3,156000,Ames
+Somerst,1739,3,172500,Ames
+Veenker,1694,2,318750,Ames
+Greens,1226,1,211500,Ames
+Veenker,1740,2,241600,Ames
+Veenker,2499,4,180500,Ames
+Sawyer,1620,3,150000,Ames
+NWAmes,1556,4,154000,Ames
+NWAmes,1442,2,185000,Ames
+NWAmes,1489,3,185750,Ames
+NWAmes,2090,3,2.00E+05,Ames
+NWAmes,2067,3,206000,Ames
+NWAmes,1395,3,162000,Ames
+NWAmes,2640,5,256900,Ames
+NWAmes,1724,3,197900,Ames
+NWAmes,1336,3,163000,Ames
+NWAmes,1216,3,113000,Ames
+NWAmes,2288,4,230000,Ames
+NWAmes,1334,2,167900,Ames
+NWAmes,1680,3,213250,Ames
+NWAmes,1665,3,227000,Ames
+NAmes,864,2,130000,Ames
+NAmes,1568,3,143000,Ames
+NAmes,925,2,117500,Ames
+NWAmes,2061,4,168500,Ames
+NWAmes,1320,3,172500,Ames
+NWAmes,1342,3,161500,Ames
+NAmes,894,2,141500,Ames
+NAmes,864,3,118000,Ames
+NAmes,864,2,127500,Ames
+NAmes,1362,3,140000,Ames
+NAmes,1728,3,177625,Ames
+NAmes,1776,4,110000,Ames
+NAmes,1516,3,167000,Ames
+NAmes,1313,3,153000,Ames
+NAmes,1292,3,145100,Ames
+NAmes,1154,3,154000,Ames
+NAmes,2140,4,177500,Ames
+NAmes,1445,3,158000,Ames
+NAmes,1041,3,124500,Ames
+NAmes,1576,4,174500,Ames
+NAmes,960,2,122000,Ames
+BrkSide,708,2,82500,Ames
+BrkSide,1203,3,110000,Ames
+NAmes,1505,2,149500,Ames
+NAmes,1691,2,175000,Ames
+NAmes,1644,3,167000,Ames
+NAmes,1050,2,128900,Ames
+NAmes,1668,3,140000,Ames
+NAmes,1113,3,147000,Ames
+NAmes,1584,4,124000,Ames
+NAmes,1453,3,187500,Ames
+NAmes,1394,3,159000,Ames
+NAmes,1567,2,256000,Ames
+NAmes,1986,3,205000,Ames
+NAmes,2142,4,193500,Ames
+NAmes,1392,2,110000,Ames
+NAmes,1738,4,104900,Ames
+NAmes,1144,3,150000,Ames
+NAmes,1478,3,156500,Ames
+NAmes,1329,3,176000,Ames
+NAmes,988,3,149500,Ames
+NAmes,1632,3,139000,Ames
+NAmes,1215,3,155000,Ames
+NAmes,1202,3,120000,Ames
+NAmes,1382,3,153000,Ames
+NAmes,1200,3,144000,Ames
+NAmes,1382,3,176000,Ames
+NAmes,1297,3,153000,Ames
+NAmes,1866,4,135000,Ames
+NAmes,1062,3,131000,Ames
+NAmes,1319,3,123000,Ames
+NAmes,1112,2,126000,Ames
+NAmes,1005,2,115000,Ames
+NAmes,1363,2,164900,Ames
+NAmes,793,2,113000,Ames
+NAmes,1031,2,145500,Ames
+NAmes,1210,2,102900,Ames
+OldTown,1699,3,95000,Ames
+NAmes,1527,3,152500,Ames
+NAmes,1200,3,129900,Ames
+NAmes,972,2,132000,Ames
+OldTown,792,2,99900,Ames
+OldTown,1656,3,135000,Ames
+OldTown,1352,4,149000,Ames
+OldTown,1039,2,114000,Ames
+OldTown,792,2,109500,Ames
+OldTown,1078,3,125000,Ames
+OldTown,2377,3,142900,Ames
+OldTown,1690,4,156500,Ames
+OldTown,599,2,59000,Ames
+OldTown,1374,2,105000,Ames
+OldTown,846,2,106000,Ames
+OldTown,725,1,78500,Ames
+NAmes,2544,6,190000,Ames
+NAmes,1380,3,154000,Ames
+NAmes,1040,3,163000,Ames
+NAmes,2634,6,2.00E+05,Ames
+NAmes,951,2,143500,Ames
+NAmes,1105,3,135000,Ames
+NAmes,1306,2,153000,Ames
+NAmes,1478,3,157500,Ames
+NAmes,1142,2,113500,Ames
+NAmes,1268,3,133000,Ames
+NAmes,1040,2,92900,Ames
+NAmes,1133,3,128500,Ames
+NAmes,1040,2,90000,Ames
+NAmes,1904,3,138000,Ames
+NAmes,1041,3,128000,Ames
+NAmes,1339,3,139000,Ames
+NAmes,732,2,118900,Ames
+NAmes,1183,3,138000,Ames
+NAmes,1148,3,132500,Ames
+NAmes,1461,4,133500,Ames
+NAmes,1495,3,135000,Ames
+NAmes,1806,4,144750,Ames
+NAmes,941,2,145000,Ames
+NAmes,1045,3,127000,Ames
+NAmes,894,2,109500,Ames
+OldTown,1224,3,115000,Ames
+OldTown,1230,2,110000,Ames
+OldTown,1378,3,128900,Ames
+OldTown,1944,4,103500,Ames
+OldTown,1131,3,66500,Ames
+OldTown,1306,3,130000,Ames
+OldTown,1464,3,129000,Ames
+OldTown,1558,3,150000,Ames
+OldTown,2372,4,107500,Ames
+OldTown,1701,4,94550,Ames
+OldTown,1960,4,124500,Ames
+OldTown,1389,3,135000,Ames
+OldTown,1447,3,103000,Ames
+OldTown,936,2,93000,Ames
+OldTown,1328,3,129500,Ames
+OldTown,1387,3,93000,Ames
+OldTown,861,2,80000,Ames
+OldTown,612,1,45000,Ames
+OldTown,968,2,37900,Ames
+OldTown,886,2,91300,Ames
+OldTown,792,2,99500,Ames
+OldTown,1452,2,113000,Ames
+OldTown,1510,3,87500,Ames
+OldTown,1284,2,110000,Ames
+OldTown,2138,2,106000,Ames
+OldTown,2640,4,265979,Ames
+OldTown,2007,3,160000,Ames
+OldTown,1288,3,119000,Ames
+OldTown,1742,4,168000,Ames
+OldTown,816,2,58500,Ames
+OldTown,1482,3,143000,Ames
+OldTown,1022,2,85000,Ames
+OldTown,1869,2,124900,Ames
+OldTown,1480,3,119000,Ames
+OldTown,1521,4,146500,Ames
+IDOTRR,720,2,34900,Ames
+IDOTRR,797,2,44000,Ames
+BrkSide,1576,3,223500,Ames
+BrkSide,1432,3,149000,Ames
+BrkSide,1548,3,205000,Ames
+BrkSide,1654,3,137000,Ames
+BrkSide,952,2,121000,Ames
+BrkSide,1324,3,128000,Ames
+BrkSide,1176,2,134900,Ames
+BrkSide,1348,3,117000,Ames
+BrkSide,1412,4,132500,Ames
+BrkSide,1142,3,93000,Ames
+BrkSide,904,2,119000,Ames
+BrkSide,1301,2,1.00E+05,Ames
+BrkSide,1539,3,141500,Ames
+BrkSide,1573,3,133000,Ames
+BrkSide,800,1,60000,Ames
+BrkSide,875,2,105000,Ames
+BrkSide,995,2,115000,Ames
+BrkSide,1582,3,150000,Ames
+BrkSide,1072,2,126500,Ames
+BrkSide,2134,5,214500,Ames
+BrkSide,2019,3,167500,Ames
+OldTown,1768,3,155000,Ames
+OldTown,1826,4,155000,Ames
+OldTown,1944,3,179900,Ames
+OldTown,2229,5,104000,Ames
+OldTown,2128,4,62500,Ames
+IDOTRR,1930,4,149000,Ames
+IDOTRR,1208,2,103000,Ames
+OldTown,1427,3,123000,Ames
+OldTown,1864,6,97500,Ames
+IDOTRR,1666,3,135000,Ames
+IDOTRR,892,1,70000,Ames
+IDOTRR,1403,3,116000,Ames
+Sawyer,704,2,88750,Ames
+Edwards,1200,3,179000,Ames
+Edwards,1200,3,179000,Ames
+Edwards,1152,2,159900,Ames
+Edwards,904,1,61000,Ames
+Edwards,1369,3,103600,Ames
+Edwards,1112,4,63000,Ames
+Sawyer,1464,3,175000,Ames
+Sawyer,1121,3,139000,Ames
+Sawyer,1683,3,172500,Ames
+Sawyer,1052,3,113500,Ames
+Sawyer,899,3,130000,Ames
+Sawyer,1034,3,149900,Ames
+Sawyer,858,2,134900,Ames
+Sawyer,860,2,137000,Ames
+Sawyer,1092,3,139000,Ames
+Sawyer,1774,4,165000,Ames
+Sawyer,1138,3,148000,Ames
+ClearCr,2071,4,165000,Ames
+Sawyer,660,2,63900,Ames
+ClearCr,1788,5,161500,Ames
+ClearCr,1473,1,143000,Ames
+Edwards,1229,3,135000,Ames
+Edwards,861,1,82500,Ames
+ClearCr,1867,2,190000,Ames
+Edwards,1733,4,139600,Ames
+Edwards,1383,2,122000,Ames
+Edwards,1689,3,127500,Ames
+Edwards,1073,2,121500,Ames
+Edwards,1276,3,60000,Ames
+Edwards,1639,3,154400,Ames
+Edwards,672,2,113000,Ames
+Edwards,1089,3,125000,Ames
+Edwards,845,3,84000,Ames
+Edwards,1049,2,139500,Ames
+Edwards,1716,3,131000,Ames
+Edwards,1258,2,105000,Ames
+Edwards,1510,4,108000,Ames
+SawyerW,1061,1,162000,Ames
+SawyerW,1338,2,156500,Ames
+SawyerW,2132,1,316600,Ames
+SawyerW,2196,3,271900,Ames
+SawyerW,1775,3,213000,Ames
+SawyerW,1879,3,239900,Ames
+SawyerW,2020,3,239500,Ames
+SawyerW,2016,4,131000,Ames
+SawyerW,1535,4,118964,Ames
+SawyerW,1224,2,153337,Ames
+SawyerW,2228,6,147983,Ames
+SawyerW,1535,4,118858,Ames
+SawyerW,1535,4,118858,Ames
+SawyerW,2240,6,142953,Ames
+SawyerW,1229,2,148325,Ames
+SawyerW,1513,4,113722,Ames
+SawyerW,2787,6,269500,Ames
+SawyerW,2787,6,269500,Ames
+SawyerW,2787,6,269500,Ames
+CollgCr,1680,1,323262,Ames
+CollgCr,1718,3,297000,Ames
+CollgCr,1630,3,295493,Ames
+CollgCr,1720,3,332000,Ames
+CollgCr,1468,3,239900,Ames
+CollgCr,1768,3,212000,Ames
+CollgCr,1838,3,272500,Ames
+CollgCr,1800,2,239000,Ames
+CollgCr,1604,3,220000,Ames
+CollgCr,1290,2,2.00E+05,Ames
+CollgCr,1254,2,221800,Ames
+CollgCr,1232,2,194500,Ames
+CollgCr,1498,3,237000,Ames
+CollgCr,1422,3,173000,Ames
+SawyerW,1644,2,275000,Ames
+ClearCr,1759,3,233500,Ames
+ClearCr,2126,3,185000,Ames
+CollgCr,1040,3,152000,Ames
+CollgCr,990,3,143000,Ames
+CollgCr,1764,3,231500,Ames
+CollgCr,1661,3,212000,Ames
+CollgCr,1463,3,207000,Ames
+CollgCr,1097,3,145000,Ames
+CollgCr,990,3,138000,Ames
+CollgCr,1779,3,197900,Ames
+CollgCr,1501,3,204000,Ames
+CollgCr,1431,3,192000,Ames
+CollgCr,1772,3,2.00E+05,Ames
+CollgCr,1660,3,195000,Ames
+CollgCr,1573,3,227000,Ames
+CollgCr,1840,3,230000,Ames
+CollgCr,1430,3,187100,Ames
+CollgCr,1444,3,203000,Ames
+CollgCr,1492,3,201000,Ames
+CollgCr,1040,3,124000,Ames
+CollgCr,907,3,140000,Ames
+CollgCr,914,2,134900,Ames
+CollgCr,1040,3,150500,Ames
+CollgCr,864,3,136500,Ames
+CollgCr,1268,3,143500,Ames
+CollgCr,864,3,133500,Ames
+CollgCr,894,2,123000,Ames
+CollgCr,768,2,133900,Ames
+CollgCr,768,2,133000,Ames
+CollgCr,1611,3,250000,Ames
+CollgCr,2184,4,254750,Ames
+CollgCr,1788,3,236500,Ames
+CollgCr,1872,3,261500,Ames
+CollgCr,2153,3,313000,Ames
+CollgCr,1725,3,198500,Ames
+CollgCr,1870,3,211000,Ames
+CollgCr,1513,2,220000,Ames
+CollgCr,1504,3,203000,Ames
+CollgCr,1828,3,279500,Ames
+CollgCr,1417,3,210000,Ames
+CollgCr,2034,3,219500,Ames
+CollgCr,1716,2,191000,Ames
+CollgCr,1212,3,178000,Ames
+CollgCr,1630,3,213000,Ames
+CollgCr,848,1,144000,Ames
+CollgCr,848,1,140000,Ames
+CollgCr,1602,3,293200,Ames
+CollgCr,1728,3,190000,Ames
+CollgCr,1500,3,190000,Ames
+CollgCr,1476,3,173500,Ames
+CollgCr,1396,3,170000,Ames
+Edwards,1126,2,108000,Ames
+Edwards,1486,3,167000,Ames
+Edwards,816,2,1.00E+05,Ames
+Edwards,1922,4,198500,Ames
+Edwards,1426,3,159500,Ames
+Edwards,1149,3,127000,Ames
+Edwards,1125,3,125000,Ames
+Edwards,1698,3,320000,Ames
+Edwards,1072,2,145500,Ames
+Edwards,698,2,118000,Ames
+Edwards,876,3,85000,Ames
+Edwards,1368,3,120000,Ames
+Edwards,1529,4,98000,Ames
+Edwards,864,2,99900,Ames
+Edwards,944,2,82000,Ames
+Edwards,1678,6,119900,Ames
+Edwards,1560,2,103500,Ames
+Edwards,960,3,112000,Ames
+Edwards,1196,3,110000,Ames
+Edwards,1298,3,122000,Ames
+Edwards,1604,3,117000,Ames
+SWISU,1268,3,160000,Ames
+SWISU,1520,3,159434,Ames
+SWISU,438,1,60000,Ames
+SWISU,1489,3,139500,Ames
+SWISU,3082,5,197000,Ames
+SWISU,1242,3,105000,Ames
+SWISU,1981,4,135000,Ames
+Crawfor,1232,3,147500,Ames
+SWISU,1608,3,137450,Ames
+SWISU,1135,3,155000,Ames
+Crawfor,1913,3,177000,Ames
+SWISU,1477,3,145000,Ames
+Crawfor,1228,3,137000,Ames
+Crawfor,2080,3,234000,Ames
+Crawfor,1567,2,205000,Ames
+Crawfor,1494,3,177500,Ames
+Crawfor,1308,2,160000,Ames
+Crawfor,1273,2,155000,Ames
+Crawfor,964,2,163500,Ames
+Crawfor,1343,3,154900,Ames
+Crawfor,2480,5,205000,Ames
+Crawfor,1112,2,144800,Ames
+Crawfor,1564,3,174500,Ames
+Crawfor,1561,3,193000,Ames
+Crawfor,1523,3,158000,Ames
+Crawfor,1152,3,158500,Ames
+Crawfor,1906,3,224000,Ames
+Blueste,1032,2,115000,Ames
+Blueste,1229,2,137000,Ames
+Blueste,1229,2,121000,Ames
+Blueste,1229,2,124000,Ames
+Crawfor,1982,3,208000,Ames
+Crawfor,2365,3,315000,Ames
+Crawfor,1680,3,222000,Ames
+IDOTRR,1344,3,147000,Ames
+IDOTRR,2168,5,123000,Ames
+IDOTRR,1192,3,78000,Ames
+IDOTRR,1526,2,85000,Ames
+IDOTRR,572,2,75000,Ames
+Crawfor,1648,2,230000,Ames
+IDOTRR,810,1,57625,Ames
+Mitchel,2052,3,251000,Ames
+Mitchel,2149,1,239686,Ames
+Mitchel,1710,3,240000,Ames
+Mitchel,1961,3,215000,Ames
+Mitchel,926,2,156450,Ames
+Mitchel,1287,2,173000,Ames
+Mitchel,1734,4,126000,Ames
+Mitchel,1217,3,173000,Ames
+Mitchel,1595,2,152000,Ames
+Timber,1344,3,137500,Ames
+Timber,2036,3,375000,Ames
+Timber,1620,2,315500,Ames
+Timber,1692,3,224500,Ames
+Timber,2036,3,410000,Ames
+Timber,1641,3,316500,Ames
+Timber,1466,3,201000,Ames
+Timber,1412,3,175000,Ames
+Timber,2237,3,204000,Ames
+Timber,1479,3,213500,Ames
+Timber,1296,2,220000,Ames
+Timber,2014,3,170000,Ames
+Timber,1838,2,315000,Ames
+Timber,1978,2,425000,Ames
+Mitchel,1008,3,139500,Ames
+Mitchel,1771,3,115000,Ames
+Mitchel,1204,2,162000,Ames
+Mitchel,1224,2,165000,Ames
+MeadowV,988,2,91000,Ames
+Mitchel,874,3,130000,Ames
+MeadowV,630,1,86000,Ames
+Mitchel,1404,3,160000,Ames
+MeadowV,630,1,80000,Ames
+MeadowV,1344,3,97000,Ames
+MeadowV,1092,3,88000,Ames
+Mitchel,796,2,131900,Ames
+Mitchel,1091,2,131250,Ames
+Mitchel,1110,1,165500,Ames
+Mitchel,833,3,112000,Ames
+Mitchel,883,2,149000,Ames
+Mitchel,1362,1,143000,Ames
+Mitchel,1287,3,130000,Ames
+Mitchel,1567,2,196000,Ames
+Mitchel,1632,4,173000,Ames
+NAmes,1414,3,176500,Ames
+NAmes,2117,4,237500,Ames
+NAmes,2112,4,206900,Ames
+Gilbert,1604,3,187500,Ames
+Gilbert,1470,3,165000,Ames
+Gilbert,1604,3,195500,Ames
+Gilbert,1638,3,192000,Ames
+Gilbert,1636,3,173000,Ames
+Gilbert,1384,3,177900,Ames
+Gilbert,1446,3,175000,Ames
+StoneBr,1593,0,286000,Ames
+StoneBr,1682,1,247900,Ames
+StoneBr,1337,2,180000,Ames
+StoneBr,1280,2,180000,Ames
+Gilbert,1604,3,181000,Ames
+Gilbert,1633,3,183000,Ames
+Gilbert,1658,3,188000,Ames
+Gilbert,1895,3,194500,Ames
+Gilbert,1709,3,185000,Ames
+StoneBr,1228,2,189000,Ames
+StoneBr,1337,2,188500,Ames
+StoneBr,2500,5,355000,Ames
+StoneBr,2504,4,325000,Ames
+StoneBr,1884,2,387000,Ames
+Gilbert,1474,3,115000,Ames
+StoneBr,1710,2,334000,Ames
+Gilbert,1488,3,133000,Ames
+NWAmes,2093,3,215000,Ames
+NWAmes,1688,2,226500,Ames
+NWAmes,1422,3,175500,Ames
+NWAmes,1260,3,181900,Ames
+NWAmes,2064,3,235000,Ames
+NWAmes,1782,3,220000,Ames
+NWAmes,2872,4,272000,Ames
+NWAmes,1211,3,161000,Ames
+NWAmes,1126,3,175000,Ames
+NWAmes,2044,3,185000,Ames
+NWAmes,1308,3,146900,Ames
+NWAmes,2840,4,292500,Ames
+NWAmes,1523,3,180000,Ames
+NWAmes,1444,2,159900,Ames
+NWAmes,1964,4,205000,Ames
+NWAmes,1178,3,157000,Ames
+NWAmes,2340,4,306000,Ames
+NAmes,1792,4,133000,Ames
+NAmes,1054,3,151000,Ames
+NAmes,936,2,111900,Ames
+NAmes,864,3,123000,Ames
+NAmes,864,3,111250,Ames
+NAmes,1337,2,181000,Ames
+BrDale,987,2,103400,Ames
+BrDale,987,2,1.00E+05,Ames
+BrDale,987,2,100500,Ames
+BrDale,987,2,106000,Ames
+BrDale,987,2,85400,Ames
+BrDale,987,2,89500,Ames
+BrDale,1302,3,111750,Ames
+NPkVill,1069,2,140000,Ames
+NPkVill,1456,4,143000,Ames
+NPkVill,1055,2,148500,Ames
+NAmes,892,3,110000,Ames
+NridgHt,1932,2,394617,Ames
+NridgHt,2332,3,426000,Ames
+NridgHt,2084,2,385000,Ames
+NridgHt,2713,3,446261,Ames
+NridgHt,1582,3,317500,Ames
+NridgHt,1710,2,372402,Ames
+NridgHt,2464,4,417500,Ames
+NridgHt,1950,2,383000,Ames
+NridgHt,2748,4,390000,Ames
+NridgHt,2790,4,460000,Ames
+NridgHt,2331,3,379000,Ames
+NridgHt,2088,4,250000,Ames
+NridgHt,2332,4,316000,Ames
+NridgHt,2470,1,615000,Ames
+NridgHt,2668,3,412500,Ames
+NridgHt,2046,3,284000,Ames
+NridgHt,1575,2,284000,Ames
+NridgHt,2649,4,421250,Ames
+NridgHt,2690,4,370000,Ames
+NridgHt,1866,2,336860,Ames
+NridgHt,1702,1,367294,Ames
+NridgHt,1367,2,192000,Ames
+NridgHt,1518,1,274000,Ames
+NridgHt,1684,2,266000,Ames
+NridgHt,1800,2,370967,Ames
+NridgHt,1342,2,234250,Ames
+NridgHt,1342,2,219500,Ames
+NridgHt,1626,2,155000,Ames
+NridgHt,1626,2,154000,Ames
+NridgHt,1358,2,207000,Ames
+Blmngtn,1455,2,195000,Ames
+Blmngtn,1576,2,219990,Ames
+Blmngtn,1504,2,191000,Ames
+Blmngtn,1266,2,159895,Ames
+Blmngtn,1246,2,187687,Ames
+Gilbert,1515,3,179000,Ames
+Gilbert,1593,3,193000,Ames
+Gilbert,1166,2,190000,Ames
+Gilbert,1456,3,176000,Ames
+Gilbert,1720,3,188000,Ames
+Gilbert,1986,4,213000,Ames
+NridgHt,1358,2,217300,Ames
+Gilbert,1792,3,186500,Ames
+Gilbert,1892,3,226750,Ames
+Gilbert,1490,3,184000,Ames
+Gilbert,1414,3,176000,Ames
+Gilbert,2322,4,225000,Ames
+Gilbert,1651,3,185900,Ames
+NoRidge,2199,3,284500,Ames
+NoRidge,2630,4,315000,Ames
+NoRidge,2198,4,250000,Ames
+NoRidge,2172,4,291000,Ames
+NoRidge,2006,2,350000,Ames
+NoRidge,2125,4,279500,Ames
+NoRidge,2501,4,290000,Ames
+NoRidge,2113,2,350000,Ames
+NoRidge,2418,3,341000,Ames
+NoRidge,2197,4,287500,Ames
+NoRidge,2127,3,271000,Ames
+NoRidge,1987,2,301500,Ames
+Somerst,1580,3,235128,Ames
+Somerst,1933,4,214000,Ames
+Somerst,1574,3,232000,Ames
+Somerst,1578,3,240000,Ames
+Somerst,1506,2,264132,Ames
+Somerst,1563,3,245000,Ames
+Somerst,1428,3,227680,Ames
+Somerst,1861,3,257000,Ames
+Somerst,1874,3,297900,Ames
+Somerst,1460,3,247000,Ames
+Somerst,1372,3,212700,Ames
+Somerst,1372,3,250580,Ames
+Somerst,1428,3,182000,Ames
+Somerst,1768,3,226700,Ames
+Somerst,1992,3,250000,Ames
+Somerst,1958,3,250000,Ames
+Somerst,2078,3,339750,Ames
+Somerst,1665,3,205950,Ames
+Somerst,1660,3,256000,Ames
+Somerst,1218,2,230348,Ames
+Somerst,1728,3,207500,Ames
+SawyerW,1080,3,141000,Ames
+SawyerW,1696,3,188000,Ames
+SawyerW,1663,3,192500,Ames
+SawyerW,1175,3,146000,Ames
+SawyerW,1114,3,159000,Ames
+SawyerW,1114,3,155000,Ames
+SawyerW,1640,3,173000,Ames
+SawyerW,1162,3,170000,Ames
+SawyerW,1609,3,182000,Ames
+SawyerW,1680,3,163000,Ames
+SawyerW,1679,3,193500,Ames
+SawyerW,1657,3,189000,Ames
+SawyerW,1677,3,190500,Ames
+SawyerW,1737,3,175000,Ames
+SawyerW,1294,3,179200,Ames
+SawyerW,1710,3,187000,Ames
+SawyerW,1617,2,193000,Ames
+SawyerW,1199,2,153900,Ames
+Sawyer,984,3,128000,Ames
+Sawyer,912,2,144000,Ames
+Sawyer,864,3,135000,Ames
+Sawyer,890,3,115000,Ames
+Sawyer,864,3,119916,Ames
+Sawyer,912,3,142000,Ames
+Veenker,1430,3,192000,Ames
+Sawyer,1641,4,140000,Ames
+NoRidge,2683,4,290000,Ames
+NoRidge,2786,4,372500,Ames
+Somerst,1391,2,196000,Ames
+Somerst,1250,2,171900,Ames
+Somerst,1245,1,178000,Ames
+Somerst,1200,2,165000,Ames
+Somerst,1392,2,146000,Ames
+Somerst,1392,2,146000,Ames
+Somerst,1501,3,179400,Ames
+Somerst,1549,3,172900,Ames
+Somerst,1638,2,3.00E+05,Ames
+Somerst,1310,1,285000,Ames
+Somerst,1419,2,290000,Ames
+Somerst,1557,2,305000,Ames
+Somerst,1709,2,328900,Ames
+Somerst,1252,2,160000,Ames
+Somerst,1404,3,170000,Ames
+Somerst,1789,3,223000,Ames
+Somerst,1586,3,170000,Ames
+Somerst,1607,3,2.00E+05,Ames
+Somerst,2393,2,345000,Ames
+Veenker,1288,1,245500,Ames
+Veenker,1239,1,217500,Ames
+Veenker,1719,1,324000,Ames
+Veenker,1232,3,162500,Ames
+Veenker,2944,3,150000,Ames
+Veenker,1671,3,290000,Ames
+Somerst,1812,3,205000,Ames
+NWAmes,1682,3,174000,Ames
+NWAmes,1427,4,183000,Ames
+NWAmes,1740,4,150000,Ames
+NWAmes,1258,3,145000,Ames
+NWAmes,1620,4,215000,Ames
+NWAmes,1625,4,140500,Ames
+NWAmes,2614,4,240000,Ames
+NAmes,1464,4,141000,Ames
+NAmes,912,2,147000,Ames
+NAmes,925,3,135000,Ames
+NAmes,1728,6,145000,Ames
+NAmes,1728,6,142600,Ames
+NWAmes,1656,4,135000,Ames
+NWAmes,1670,4,170000,Ames
+NWAmes,2715,4,299800,Ames
+NWAmes,1876,4,185000,Ames
+NWAmes,1632,4,173000,Ames
+NAmes,999,3,178400,Ames
+NWAmes,1978,4,176000,Ames
+NAmes,1014,2,98000,Ames
+NAmes,907,3,109008,Ames
+NAmes,952,2,135750,Ames
+NAmes,1128,3,155000,Ames
+NAmes,1425,3,180500,Ames
+NAmes,1165,3,174900,Ames
+NAmes,1136,3,140000,Ames
+NAmes,1092,3,145000,Ames
+NAmes,1265,3,179900,Ames
+NAmes,1350,3,168500,Ames
+NAmes,1114,3,140000,Ames
+NAmes,1053,3,145500,Ames
+NAmes,1252,3,142000,Ames
+NAmes,1100,3,141000,Ames
+NAmes,1118,3,153000,Ames
+BrkSide,720,2,72500,Ames
+BrkSide,729,2,52000,Ames
+BrkSide,1077,2,118000,Ames
+BrkSide,906,2,87000,Ames
+NAmes,1496,3,141500,Ames
+NAmes,1252,3,119000,Ames
+NAmes,1337,3,141500,Ames
+NAmes,1661,3,165500,Ames
+NAmes,1036,3,112900,Ames
+NAmes,1820,4,201800,Ames
+NAmes,1362,3,163000,Ames
+NAmes,1144,3,139950,Ames
+NAmes,1537,3,174000,Ames
+NAmes,1431,3,165000,Ames
+NAmes,1988,4,227000,Ames
+NAmes,1098,3,135000,Ames
+NAmes,1144,3,124000,Ames
+NAmes,1283,3,140000,Ames
+NAmes,1176,3,136500,Ames
+NAmes,1440,2,185000,Ames
+NAmes,1261,3,163000,Ames
+NAmes,1570,3,166800,Ames
+NAmes,1196,2,139000,Ames
+NAmes,1392,3,166000,Ames
+NAmes,1080,3,136000,Ames
+NAmes,1104,3,133000,Ames
+NAmes,882,2,116000,Ames
+NAmes,1152,3,137500,Ames
+NAmes,950,2,130000,Ames
+NAmes,1790,3,180000,Ames
+NAmes,952,2,139000,Ames
+NAmes,773,2,110000,Ames
+NAmes,1764,4,1.00E+05,Ames
+NAmes,1216,2,118500,Ames
+NAmes,1824,5,146000,Ames
+OldTown,869,1,89900,Ames
+OldTown,1159,3,114000,Ames
+NAmes,1558,3,140000,Ames
+OldTown,672,2,86900,Ames
+OldTown,1436,3,139000,Ames
+OldTown,1294,3,106250,Ames
+NAmes,1716,4,171000,Ames
+NAmes,1044,3,139000,Ames
+NAmes,1312,3,186000,Ames
+NAmes,1253,2,157000,Ames
+NAmes,1081,3,148000,Ames
+NAmes,2069,4,242000,Ames
+NAmes,910,3,116000,Ames
+NAmes,876,2,94000,Ames
+NAmes,1048,3,98300,Ames
+NAmes,1507,4,127000,Ames
+NAmes,1256,3,159000,Ames
+NAmes,1027,3,125900,Ames
+NAmes,1269,3,155000,Ames
+NAmes,1320,3,138000,Ames
+NAmes,984,2,112500,Ames
+NAmes,832,2,105500,Ames
+NAmes,1278,4,127500,Ames
+NAmes,1800,6,130000,Ames
+NAmes,1588,3,150000,Ames
+NAmes,825,2,109500,Ames
+NAmes,1796,4,140000,Ames
+NAmes,1611,4,167900,Ames
+NAmes,1117,3,136870,Ames
+OldTown,1133,3,143000,Ames
+OldTown,764,2,73000,Ames
+OldTown,1539,3,157500,Ames
+OldTown,1323,3,122600,Ames
+OldTown,1360,2,111000,Ames
+OldTown,2792,5,256000,Ames
+OldTown,672,2,64000,Ames
+OldTown,1456,4,139500,Ames
+OldTown,1594,3,118000,Ames
+OldTown,2082,3,2.00E+05,Ames
+OldTown,1656,2,119164,Ames
+OldTown,1740,2,122250,Ames
+OldTown,1027,2,120000,Ames
+OldTown,1436,3,155000,Ames
+OldTown,899,2,78000,Ames
+OldTown,1080,3,95000,Ames
+OldTown,789,2,115000,Ames
+OldTown,1122,2,147000,Ames
+OldTown,1499,3,140000,Ames
+OldTown,407,1,46500,Ames
+OldTown,928,3,112500,Ames
+OldTown,901,2,107900,Ames
+OldTown,1588,5,65000,Ames
+OldTown,3493,3,295000,Ames
+OldTown,1627,4,139500,Ames
+OldTown,1416,4,153900,Ames
+OldTown,1450,3,132000,Ames
+OldTown,1344,4,98000,Ames
+OldTown,1017,2,114000,Ames
+OldTown,2350,4,130000,Ames
+OldTown,2058,3,129500,Ames
+OldTown,1540,3,129400,Ames
+OldTown,1378,3,161000,Ames
+OldTown,1912,3,163000,Ames
+OldTown,1484,3,128000,Ames
+OldTown,2358,4,122000,Ames
+OldTown,1111,2,116900,Ames
+OldTown,2775,3,325000,Ames
+OldTown,1086,2,55000,Ames
+OldTown,2495,5,184000,Ames
+OldTown,984,2,110000,Ames
+OldTown,1795,4,131500,Ames
+OldTown,882,2,97000,Ames
+OldTown,1093,2,115500,Ames
+BrkSide,1143,2,138000,Ames
+BrkSide,1668,3,108000,Ames
+BrkSide,935,2,79500,Ames
+BrkSide,1738,3,153000,Ames
+BrkSide,784,2,109500,Ames
+BrkSide,1210,3,124000,Ames
+BrkSide,1290,3,106900,Ames
+BrkSide,1672,3,164900,Ames
+BrkSide,949,2,119000,Ames
+BrkSide,1158,3,120000,Ames
+BrkSide,1497,3,157000,Ames
+BrkSide,1342,2,105000,Ames
+BrkSide,1013,3,113000,Ames
+BrkSide,1216,3,115000,Ames
+BrkSide,896,2,79000,Ames
+BrkSide,1136,2,123000,Ames
+BrkSide,808,1,81300,Ames
+BrkSide,1573,3,162900,Ames
+BrkSide,2009,4,150000,Ames
+OldTown,1902,4,123500,Ames
+OldTown,1774,2,129900,Ames
+BrkSide,1362,3,128000,Ames
+BrkSide,520,1,68500,Ames
+BrkSide,1285,2,127000,Ames
+BrkSide,1848,4,207000,Ames
+BrkSide,1820,4,184000,Ames
+BrkSide,1716,4,162500,Ames
+BrkSide,1505,3,145000,Ames
+BrkSide,838,2,130000,Ames
+OldTown,1984,5,160000,Ames
+OldTown,1666,3,161000,Ames
+OldTown,1609,3,127500,Ames
+IDOTRR,768,1,93850,Ames
+IDOTRR,1536,4,136000,Ames
+IDOTRR,1969,4,141000,Ames
+IDOTRR,1308,2,120000,Ames
+IDOTRR,1040,2,127500,Ames
+IDOTRR,1236,3,127000,Ames
+IDOTRR,1406,3,89500,Ames
+OldTown,825,2,125000,Ames
+OldTown,1198,4,79900,Ames
+IDOTRR,759,1,85000,Ames
+IDOTRR,1344,3,82375,Ames
+IDOTRR,1469,3,135000,Ames
+Sawyer,1054,3,124000,Ames
+Sawyer,1211,3,134000,Ames
+Sawyer,1271,4,135000,Ames
+ClearCr,1588,4,134432,Ames
+Edwards,1355,4,127500,Ames
+Sawyer,1075,3,148000,Ames
+Sawyer,1040,3,129500,Ames
+Sawyer,1096,3,157500,Ames
+Sawyer,904,3,109900,Ames
+Sawyer,992,3,145000,Ames
+Sawyer,894,3,130000,Ames
+Sawyer,1034,3,153000,Ames
+Sawyer,1073,3,120000,Ames
+Sawyer,1126,2,152000,Ames
+Sawyer,1258,0,108959,Ames
+Sawyer,1140,3,95541,Ames
+Sawyer,1006,3,80000,Ames
+Sawyer,1228,3,149350,Ames
+Sawyer,960,3,144900,Ames
+Sawyer,1188,1,185000,Ames
+Sawyer,1383,3,165000,Ames
+ClearCr,1252,1,235000,Ames
+Sawyer,1601,3,140000,Ames
+Sawyer,672,2,108000,Ames
+ClearCr,1721,3,145000,Ames
+Sawyer,1350,2,152400,Ames
+Sawyer,904,3,144000,Ames
+ClearCr,1291,2,173000,Ames
+ClearCr,2022,4,192000,Ames
+ClearCr,1524,3,245000,Ames
+ClearCr,1363,2,241500,Ames
+ClearCr,1663,2,256000,Ames
+Edwards,1357,2,177000,Ames
+Edwards,1079,2,125600,Ames
+Edwards,1094,3,155000,Ames
+ClearCr,2358,5,240000,Ames
+Edwards,1518,2,260000,Ames
+Edwards,1674,4,185000,Ames
+Edwards,2108,4,235000,Ames
+Edwards,1509,3,159900,Ames
+Edwards,864,2,99600,Ames
+Edwards,1269,3,134500,Ames
+Edwards,1367,4,119000,Ames
+Edwards,1347,3,107500,Ames
+Edwards,1164,3,125000,Ames
+Edwards,1096,2,79000,Ames
+Edwards,1111,3,95000,Ames
+SawyerW,2329,4,262280,Ames
+SawyerW,2814,4,260000,Ames
+SawyerW,1626,3,226500,Ames
+SawyerW,2200,4,225000,Ames
+SawyerW,2037,3,229000,Ames
+CollgCr,1356,3,177439,Ames
+CollgCr,1615,3,248500,Ames
+CollgCr,2276,3,475000,Ames
+CollgCr,1766,3,395039,Ames
+SawyerW,2097,3,228000,Ames
+SawyerW,1511,3,225000,Ames
+ClearCr,1643,2,195000,Ames
+ClearCr,1688,4,2.00E+05,Ames
+CollgCr,990,3,155000,Ames
+CollgCr,1099,3,144000,Ames
+CollgCr,990,3,145000,Ames
+CollgCr,1418,3,226001,Ames
+CollgCr,1771,3,215700,Ames
+CollgCr,1652,3,207500,Ames
+CollgCr,1790,3,193000,Ames
+CollgCr,1724,3,188000,Ames
+CollgCr,1479,3,191000,Ames
+CollgCr,1494,3,221000,Ames
+CollgCr,1792,3,231500,Ames
+CollgCr,1823,3,235000,Ames
+CollgCr,1786,3,223500,Ames
+CollgCr,938,3,130250,Ames
+CollgCr,985,3,149900,Ames
+CollgCr,1174,3,158000,Ames
+CollgCr,1026,3,147000,Ames
+CollgCr,1076,3,143195,Ames
+CollgCr,1558,2,163000,Ames
+CollgCr,924,3,110000,Ames
+CollgCr,864,3,127000,Ames
+CollgCr,780,2,124900,Ames
+CollgCr,1795,3,230000,Ames
+CollgCr,2031,3,237000,Ames
+CollgCr,1865,3,235000,Ames
+CollgCr,2161,3,230500,Ames
+CollgCr,1852,3,230000,Ames
+CollgCr,2031,3,222500,Ames
+CollgCr,2263,3,287000,Ames
+CollgCr,1947,3,274000,Ames
+CollgCr,1786,3,3.00E+05,Ames
+CollgCr,2290,4,255900,Ames
+CollgCr,1768,3,224900,Ames
+CollgCr,2327,4,240000,Ames
+CollgCr,1640,3,183000,Ames
+CollgCr,1764,3,207000,Ames
+CollgCr,1908,4,210000,Ames
+CollgCr,848,1,136500,Ames
+CollgCr,848,1,145000,Ames
+CollgCr,1493,3,208900,Ames
+CollgCr,1838,2,185000,Ames
+CollgCr,1536,3,214000,Ames
+CollgCr,1710,3,208500,Ames
+CollgCr,1445,3,186500,Ames
+CollgCr,1436,3,210000,Ames
+CollgCr,1582,3,185900,Ames
+CollgCr,1234,3,179900,Ames
+CollgCr,1564,3,218836,Ames
+CollgCr,1361,3,193000,Ames
+CollgCr,1456,3,189000,Ames
+CollgCr,848,1,149300,Ames
+CollgCr,848,1,141000,Ames
+CollgCr,848,1,149000,Ames
+CollgCr,848,1,144500,Ames
+Edwards,796,2,85000,Ames
+Edwards,2200,4,145900,Ames
+Edwards,1092,3,123000,Ames
+Edwards,1256,3,147500,Ames
+Edwards,1033,3,165000,Ames
+Edwards,1127,3,135000,Ames
+Edwards,996,3,108000,Ames
+Edwards,1181,3,137500,Ames
+Edwards,1656,3,165400,Ames
+Edwards,1117,3,147000,Ames
+Edwards,1398,3,160500,Ames
+Edwards,1132,2,176000,Ames
+Edwards,3820,5,284700,Ames
+Edwards,5642,3,160000,Ames
+Edwards,1072,2,148000,Ames
+Edwards,1152,2,82000,Ames
+Edwards,1152,2,82000,Ames
+Edwards,1440,4,118000,Ames
+Edwards,1152,2,82500,Ames
+Edwards,784,2,91900,Ames
+Edwards,1053,2,120000,Ames
+Edwards,1137,4,96000,Ames
+Edwards,930,2,99000,Ames
+Edwards,1200,3,130500,Ames
+Edwards,1470,4,135000,Ames
+Edwards,1393,3,135500,Ames
+Edwards,1204,3,1.00E+05,Ames
+Edwards,1292,3,108000,Ames
+Edwards,864,2,98000,Ames
+Edwards,864,2,67000,Ames
+SWISU,1716,6,135900,Ames
+SWISU,1482,4,140000,Ames
+SWISU,2192,4,179500,Ames
+SWISU,1694,4,136500,Ames
+SWISU,1424,2,168000,Ames
+SWISU,1964,4,130000,Ames
+SWISU,2601,4,189000,Ames
+SWISU,1920,4,161900,Ames
+Crawfor,1316,2,145000,Ames
+Crawfor,2555,3,191000,Ames
+Crawfor,1680,4,177000,Ames
+Crawfor,1264,3,147500,Ames
+SWISU,790,2,91000,Ames
+Crawfor,1512,3,231000,Ames
+SWISU,1639,3,115000,Ames
+Crawfor,1603,4,138000,Ames
+Crawfor,1502,3,149000,Ames
+Crawfor,1660,3,188700,Ames
+Crawfor,1938,4,198000,Ames
+Crawfor,1374,3,110000,Ames
+Crawfor,1091,2,104000,Ames
+Crawfor,1873,4,257076,Ames
+Crawfor,3447,4,381000,Ames
+Crawfor,1954,3,311500,Ames
+Crawfor,2161,3,263400,Ames
+Crawfor,1898,3,236500,Ames
+Crawfor,1640,3,224000,Ames
+Blueste,1032,2,116500,Ames
+Blueste,1556,3,151000,Ames
+IDOTRR,919,2,126000,Ames
+IDOTRR,1090,3,120000,Ames
+IDOTRR,796,2,55000,Ames
+IDOTRR,816,2,120500,Ames
+IDOTRR,778,2,120500,Ames
+IDOTRR,1200,4,119000,Ames
+IDOTRR,1656,3,126000,Ames
+IDOTRR,912,2,99500,Ames
+IDOTRR,1955,4,165500,Ames
+IDOTRR,733,2,13100,Ames
+IDOTRR,1361,2,89000,Ames
+IDOTRR,1317,3,40000,Ames
+IDOTRR,1049,2,80900,Ames
+IDOTRR,894,2,81000,Ames
+IDOTRR,864,3,65000,Ames
+Crawfor,1652,2,392500,Ames
+Crawfor,1648,2,294464,Ames
+Crawfor,1646,2,250000,Ames
+Crawfor,1646,2,275000,Ames
+Mitchel,2032,3,3.00E+05,Ames
+Mitchel,1689,3,271000,Ames
+Mitchel,1820,3,213000,Ames
+Mitchel,1118,3,171000,Ames
+Mitchel,1279,3,171500,Ames
+Mitchel,1872,4,1.00E+05,Ames
+Mitchel,1689,3,228500,Ames
+Timber,1786,3,228950,Ames
+Timber,1501,2,241500,Ames
+Timber,2898,2,287000,Ames
+Timber,1537,3,294000,Ames
+Timber,1646,3,293077,Ames
+Timber,1780,3,264966,Ames
+Timber,1442,3,172500,Ames
+Timber,1394,3,167500,Ames
+Timber,1612,3,218689,Ames
+Timber,1495,3,150000,Ames
+Timber,1651,3,184000,Ames
+Timber,1256,3,180000,Ames
+Timber,1509,3,175000,Ames
+Timber,1440,3,232500,Ames
+Timber,1675,3,195000,Ames
+Timber,2262,4,305000,Ames
+Timber,1728,3,298751,Ames
+Timber,1964,3,370000,Ames
+Mitchel,1344,2,209200,Ames
+Mitchel,1344,2,206300,Ames
+Mitchel,1092,2,146000,Ames
+Mitchel,1189,2,160500,Ames
+Mitchel,1200,3,173000,Ames
+MeadowV,1040,3,124000,Ames
+MeadowV,1304,3,115000,Ames
+MeadowV,1475,4,129500,Ames
+MeadowV,988,2,105000,Ames
+MeadowV,988,1,94900,Ames
+Mitchel,1160,3,152500,Ames
+MeadowV,1092,3,98000,Ames
+MeadowV,630,1,81000,Ames
+Mitchel,988,2,113000,Ames
+Mitchel,816,2,128500,Ames
+Mitchel,923,3,119500,Ames
+Mitchel,816,3,130500,Ames
+Mitchel,816,2,138000,Ames
+Mitchel,845,3,134500,Ames
+Mitchel,1750,4,160000,Ames
+Mitchel,889,3,137500,Ames
+Mitchel,1968,4,172000,Ames
+IDOTRR,1836,4,103000,Ames
+NAmes,1587,3,167300,Ames
+NAmes,1277,2,167000,Ames
+NAmes,2223,3,244000,Ames
+NAmes,2217,4,268000,Ames
+Gilbert,1733,3,225000,Ames
+Gilbert,1572,3,168000,Ames
+Gilbert,1470,3,177000,Ames
+Gilbert,1600,3,169000,Ames
+Gilbert,1384,3,161500,Ames
+StoneBr,1652,2,251000,Ames
+Gilbert,1694,3,160000,Ames
+Gilbert,1714,3,180000,Ames
+Gilbert,1553,3,178750,Ames
+Gilbert,1253,3,176000,Ames
+Gilbert,2299,5,204000,Ames
+Gilbert,1187,3,160000,Ames
+Gilbert,1472,3,160000,Ames
+Gilbert,1482,3,163900,Ames
+Gilbert,1642,3,168000,Ames
+Gilbert,1128,3,154204,Ames
+StoneBr,1088,2,170000,Ames
+StoneBr,2090,3,207500,Ames
+StoneBr,1179,2,182000,Ames
+StoneBr,1321,1,212000,Ames
+StoneBr,1922,3,377426,Ames
+StoneBr,2541,4,349265,Ames
+StoneBr,2338,4,591587,Ames
+Gilbert,1424,3,155000,Ames
+StoneBr,1612,2,319900,Ames
+StoneBr,1419,2,392000,Ames
+StoneBr,2234,1,441929,Ames
+StoneBr,2042,3,455000,Ames
+NWAmes,1440,3,182900,Ames
+NWAmes,1284,3,174000,Ames
+NWAmes,1868,3,178000,Ames
+NWAmes,1479,3,176000,Ames
+NWAmes,1664,3,213000,Ames
+NWAmes,1930,4,192000,Ames
+NWAmes,1969,3,190000,Ames
+NWAmes,2030,4,195000,Ames
+NWAmes,1032,3,148000,Ames
+NWAmes,1177,3,151500,Ames
+NWAmes,1725,3,197000,Ames
+NWAmes,1353,2,192350,Ames
+NWAmes,1620,4,152000,Ames
+NWAmes,1220,2,170000,Ames
+NWAmes,1484,3,175000,Ames
+NWAmes,1743,3,175000,Ames
+NWAmes,1935,3,197900,Ames
+NWAmes,1324,3,174000,Ames
+NWAmes,1877,4,178900,Ames
+NAmes,1109,3,139000,Ames
+NAmes,981,3,143250,Ames
+NAmes,1479,4,184000,Ames
+NAmes,1422,3,155000,Ames
+NAmes,914,3,133000,Ames
+NAmes,950,3,119500,Ames
+NAmes,872,3,123000,Ames
+NAmes,858,2,110000,Ames
+NAmes,914,2,128000,Ames
+NAmes,864,3,120500,Ames
+NAmes,767,1,133000,Ames
+NAmes,1337,2,155000,Ames
+NAmes,1337,2,177000,Ames
+BrDale,1092,3,113500,Ames
+BrDale,1218,3,113000,Ames
+BrDale,1218,4,113700,Ames
+BrDale,1302,3,106000,Ames
+BrDale,1365,2,122500,Ames
+NPkVill,958,2,128000,Ames
+NPkVill,1548,3,155000,Ames
+NPkVill,1055,2,142500,Ames
+NAmes,988,3,129250,Ames
+NridgHt,1816,3,356000,Ames
+NridgHt,1828,3,314813,Ames
+NridgHt,1694,3,318000,Ames
+NridgHt,1694,3,322400,Ames
+NridgHt,1734,3,318000,Ames
+NridgHt,2122,2,345474,Ames
+NridgHt,2121,3,415298,Ames
+NridgHt,2656,3,492000,Ames
+NridgHt,2550,4,338931,Ames
+NridgHt,2046,2,450000,Ames
+NridgHt,2172,3,280000,Ames
+NridgHt,2552,3,479069,Ames
+NridgHt,1973,3,395000,Ames
+NridgHt,2643,3,380000,Ames
+NridgHt,1634,3,250000,Ames
+NridgHt,1976,2,440000,Ames
+NridgHt,2758,4,418000,Ames
+NridgHt,2290,2,500067,Ames
+NridgHt,2152,3,260116,Ames
+NridgHt,2473,4,317000,Ames
+NridgHt,2100,3,319500,Ames
+NridgHt,2161,3,325624,Ames
+NridgHt,1802,3,372000,Ames
+NridgHt,2956,5,342000,Ames
+NridgHt,2468,4,354000,Ames
+NridgHt,2385,3,350000,Ames
+NridgHt,2374,4,285000,Ames
+NridgHt,1818,3,281500,Ames
+NridgHt,1614,3,245700,Ames
+NridgHt,1721,3,232698,Ames
+NridgHt,1828,3,250000,Ames
+NridgHt,1362,2,194700,Ames
+NridgHt,1302,1,204000,Ames
+NridgHt,1302,1,2.00E+05,Ames
+NridgHt,1362,2,207000,Ames
+NridgHt,1554,2,209500,Ames
+NridgHt,1554,2,209500,Ames
+NridgHt,1370,2,202500,Ames
+NridgHt,1577,2,280000,Ames
+NridgHt,1561,2,277500,Ames
+NridgHt,1869,2,318061,Ames
+NridgHt,1324,2,221370,Ames
+NridgHt,1405,2,2.00E+05,Ames
+Gilbert,1496,3,181755,Ames
+Gilbert,1536,3,176000,Ames
+Gilbert,1484,3,178900,Ames
+Gilbert,1458,3,168165,Ames
+Gilbert,1495,3,171925,Ames
+Gilbert,1746,3,198444,Ames
+Gilbert,1326,3,203000,Ames
+Gilbert,1456,3,179540,Ames
+Gilbert,1302,3,176485,Ames
+Gilbert,1340,3,181134,Ames
+Gilbert,1412,3,156932,Ames
+Gilbert,1504,3,166000,Ames
+Gilbert,1456,3,177594,Ames
+Gilbert,1258,3,173500,Ames
+Blmngtn,1258,2,172500,Ames
+Blmngtn,1402,2,194201,Ames
+Blmngtn,1589,2,226500,Ames
+Blmngtn,1266,2,185485,Ames
+Gilbert,1530,3,259000,Ames
+Gilbert,1119,2,188500,Ames
+Gilbert,1374,3,175000,Ames
+Gilbert,1959,4,215000,Ames
+Gilbert,1525,3,206580,Ames
+Gilbert,1720,3,183500,Ames
+Gilbert,1394,3,165500,Ames
+Gilbert,1948,4,211000,Ames
+Gilbert,1690,3,181000,Ames
+Gilbert,1995,4,219500,Ames
+Gilbert,1647,3,175000,Ames
+Gilbert,1430,3,170000,Ames
+Gilbert,1320,3,162000,Ames
+Gilbert,1690,3,187000,Ames
+Gilbert,1644,3,185000,Ames
+NoRidge,4476,4,745000,Ames
+NoRidge,2551,4,384500,Ames
+NoRidge,2285,4,248000,Ames
+NoRidge,2633,2,466500,Ames
+NoRidge,3078,4,410000,Ames
+NoRidge,2582,4,322500,Ames
+NoRidge,2385,4,252000,Ames
+NoRidge,4316,4,755000,Ames
+NoRidge,2013,3,269790,Ames
+NoRidge,2398,3,315750,Ames
+NoRidge,2520,4,290000,Ames
+NoRidge,2531,4,290000,Ames
+NoRidge,3228,4,430000,Ames
+NoRidge,2202,4,263000,Ames
+NoRidge,2538,4,330000,Ames
+Somerst,1369,3,213133,Ames
+Somerst,1542,3,260261,Ames
+Somerst,1905,3,320000,Ames
+Somerst,1464,3,282922,Ames
+Somerst,1534,3,215000,Ames
+Somerst,1966,1,419005,Ames
+Somerst,1636,3,255000,Ames
+Somerst,1795,2,147000,Ames
+Somerst,1528,3,235876,Ames
+Somerst,1726,3,311872,Ames
+Somerst,1689,3,248328,Ames
+Somerst,1588,3,227000,Ames
+Somerst,1538,3,260000,Ames
+Somerst,1496,3,225000,Ames
+Somerst,1506,3,249000,Ames
+Somerst,1694,3,307000,Ames
+Somerst,1977,3,250000,Ames
+Somerst,1830,3,221300,Ames
+Somerst,1338,3,208900,Ames
+Somerst,1335,3,210400,Ames
+Somerst,1792,3,255000,Ames
+Somerst,1588,3,212109,Ames
+Somerst,1959,3,270000,Ames
+Somerst,2610,4,303477,Ames
+Somerst,1880,3,310013,Ames
+Somerst,1656,3,249700,Ames
+Somerst,1761,3,227875,Ames
+Somerst,1584,2,261329,Ames
+Somerst,1685,2,253000,Ames
+Somerst,2443,4,265000,Ames
+Somerst,2466,4,340000,Ames
+SawyerW,1100,3,146000,Ames
+SawyerW,1143,3,147000,Ames
+SawyerW,1094,3,149000,Ames
+SawyerW,1486,3,181000,Ames
+SawyerW,1721,3,201000,Ames
+SawyerW,1820,3,191750,Ames
+SawyerW,1349,3,179000,Ames
+SawyerW,1494,3,215000,Ames
+SawyerW,1575,2,179200,Ames
+SawyerW,1266,2,128000,Ames
+SawyerW,884,2,144000,Ames
+SawyerW,2020,4,144000,Ames
+Sawyer,894,2,120750,Ames
+Sawyer,970,2,132500,Ames
+Sawyer,1057,3,132000,Ames
+Sawyer,999,3,132500,Ames
+Sawyer,1120,3,129000,Ames
+Sawyer,1696,3,143900,Ames
+Sawyer,1040,3,145000,Ames
+Sawyer,988,3,128500,Ames
+Sawyer,902,3,125500,Ames
+Veenker,2503,3,3.00E+05,Ames
+Veenker,2167,3,294000,Ames
+Sawyer,1037,2,129000,Ames
+Sawyer,1701,3,171000,Ames
+Sawyer,1055,2,147000,Ames
+NoRidge,2810,4,302000,Ames
+NoRidge,2872,4,285000,Ames
+Somerst,1378,2,214000,Ames
+Somerst,1151,2,166000,Ames
+Somerst,1565,2,193800,Ames
+Somerst,1352,2,208900,Ames
+Somerst,1352,2,194000,Ames
+Somerst,1550,2,207500,Ames
+Somerst,1241,1,199900,Ames
+Somerst,1250,2,164700,Ames
+Somerst,1501,3,176500,Ames
+Somerst,1458,2,176000,Ames
+Somerst,1512,2,168500,Ames
+Somerst,1573,3,177000,Ames
+Somerst,1525,3,177000,Ames
+Somerst,1102,2,148800,Ames
+Somerst,1441,2,174000,Ames
+Somerst,1950,3,239000,Ames
+Somerst,1358,3,204000,Ames
+Somerst,2048,3,301000,Ames
+Somerst,2362,3,312500,Ames
+Veenker,1494,1,279700,Ames
+Veenker,2362,3,255000,Ames
+Veenker,1432,2,194000,Ames
+Veenker,1437,3,218000,Ames
+Greens,1295,1,213750,Ames
+Veenker,1855,3,187000,Ames
+Veenker,1262,3,181500,Ames
+Veenker,2497,2,373000,Ames
+Sawyer,2620,4,190000,Ames
+Somerst,1929,3,226000,Ames
+NWAmes,1152,3,143450,Ames
+NWAmes,2411,4,240050,Ames
+NWAmes,1082,3,162500,Ames
+NWAmes,1295,3,164000,Ames
+NWAmes,1610,3,185000,Ames
+NWAmes,1594,2,188500,Ames
+NWAmes,2075,3,255000,Ames
+NWAmes,1680,4,136905,Ames
+NWAmes,1093,3,158500,Ames
+NWAmes,1242,3,175500,Ames
+NWAmes,1052,3,127000,Ames
+NAmes,1107,3,127000,Ames
+NAmes,1214,3,143000,Ames
+NAmes,1073,3,156000,Ames
+NAmes,1344,2,144000,Ames
+NAmes,1728,6,119000,Ames
+NAmes,1224,2,103000,Ames
+NAmes,1422,3,139900,Ames
+NAmes,958,2,151500,Ames
+NAmes,1065,3,126500,Ames
+NAmes,1138,3,145000,Ames
+NAmes,912,2,120000,Ames
+NAmes,1074,2,124000,Ames
+NAmes,882,3,106500,Ames
+NAmes,1187,2,140500,Ames
+NAmes,964,3,137500,Ames
+NAmes,894,3,117600,Ames
+NAmes,1200,3,163500,Ames
+NAmes,1042,3,161000,Ames
+NAmes,1302,3,158000,Ames
+NAmes,2154,5,224500,Ames
+NAmes,1374,3,147000,Ames
+NAmes,1652,3,2.00E+05,Ames
+NAmes,1429,3,181900,Ames
+NAmes,1327,3,150750,Ames
+NAmes,1224,2,101800,Ames
+NAmes,932,2,124000,Ames
+NAmes,908,2,138500,Ames
+BrkSide,334,1,39300,Ames
+BrkSide,666,2,64500,Ames
+BrkSide,670,2,64000,Ames
+BrkSide,808,2,112000,Ames
+NAmes,1977,4,165000,Ames
+NAmes,1150,2,144000,Ames
+NAmes,1920,4,137000,Ames
+NAmes,1376,3,105000,Ames
+NAmes,1644,3,146500,Ames
+NAmes,1560,4,126000,Ames
+NAmes,1280,3,175000,Ames
+NAmes,1254,3,158500,Ames
+NAmes,912,2,114500,Ames
+NAmes,1524,3,144000,Ames
+NAmes,2380,3,129000,Ames
+NAmes,936,2,141000,Ames
+NAmes,1008,3,131000,Ames
+NAmes,1053,3,142100,Ames
+NAmes,1056,3,139000,Ames
+NAmes,1442,4,157900,Ames
+NAmes,1056,3,139400,Ames
+NAmes,1244,3,150000,Ames
+NAmes,1144,3,120000,Ames
+NAmes,1721,4,174850,Ames
+NAmes,922,2,116000,Ames
+NAmes,1048,3,135000,Ames
+NAmes,1657,3,163500,Ames
+NAmes,1411,3,130000,Ames
+NAmes,1216,3,129500,Ames
+NAmes,1154,3,142000,Ames
+NAmes,1560,4,128600,Ames
+NAmes,948,2,125000,Ames
+NAmes,1040,3,136000,Ames
+NAmes,1008,2,134500,Ames
+NAmes,925,3,127000,Ames
+NAmes,1360,3,130000,Ames
+NAmes,1540,4,115000,Ames
+NAmes,925,3,116900,Ames
+NAmes,928,2,132000,Ames
+NAmes,1647,3,153000,Ames
+OldTown,924,2,112500,Ames
+OldTown,1544,3,138000,Ames
+NAmes,893,2,135000,Ames
+NAmes,1728,3,156000,Ames
+NAmes,3086,4,301600,Ames
+OldTown,1034,2,109000,Ames
+OldTown,882,1,103200,Ames
+OldTown,1281,1,128500,Ames
+OldTown,968,4,64500,Ames
+OldTown,1534,3,148000,Ames
+OldTown,691,2,86000,Ames
+NAmes,1651,4,172000,Ames
+NAmes,888,3,120000,Ames
+NAmes,952,3,128500,Ames
+NAmes,2080,5,135000,Ames
+NAmes,924,3,122900,Ames
+NAmes,1082,2,119200,Ames
+NAmes,1846,3,143000,Ames
+NAmes,988,3,119000,Ames
+NAmes,1238,3,102000,Ames
+NAmes,864,3,129000,Ames
+NAmes,1134,2,135000,Ames
+NAmes,1040,3,152000,Ames
+NAmes,1170,3,140000,Ames
+NAmes,1242,3,152000,Ames
+NAmes,1377,3,156500,Ames
+NAmes,1800,6,141000,Ames
+NAmes,925,3,99000,Ames
+NAmes,1851,3,187000,Ames
+NAmes,1812,4,169500,Ames
+NAmes,864,2,125500,Ames
+NAmes,936,3,130000,Ames
+OldTown,960,2,103000,Ames
+OldTown,1432,2,132000,Ames
+OldTown,1296,3,127500,Ames
+OldTown,1022,2,89500,Ames
+OldTown,936,2,140000,Ames
+OldTown,967,2,99900,Ames
+OldTown,1047,2,1.00E+05,Ames
+OldTown,1072,2,130000,Ames
+OldTown,1174,2,135000,Ames
+OldTown,1183,2,120000,Ames
+OldTown,1131,2,89471,Ames
+OldTown,1141,3,85000,Ames
+OldTown,960,2,108500,Ames
+OldTown,1798,4,137000,Ames
+OldTown,866,2,110500,Ames
+OldTown,968,2,1.00E+05,Ames
+OldTown,1772,3,184900,Ames
+OldTown,1642,4,145000,Ames
+OldTown,1472,3,125000,Ames
+OldTown,1232,3,114000,Ames
+OldTown,2337,5,90000,Ames
+OldTown,1650,3,144100,Ames
+OldTown,2210,5,117500,Ames
+OldTown,1358,3,124500,Ames
+OldTown,2454,3,185000,Ames
+OldTown,2291,4,133900,Ames
+OldTown,1616,3,152000,Ames
+OldTown,1559,2,153500,Ames
+OldTown,2554,3,159500,Ames
+OldTown,1248,2,87000,Ames
+OldTown,968,2,104500,Ames
+OldTown,1382,1,110000,Ames
+BrkSide,1060,1,136500,Ames
+BrkSide,1435,3,128250,Ames
+BrkSide,1167,3,144000,Ames
+BrkSide,1635,3,210000,Ames
+BrkSide,1274,3,135000,Ames
+BrkSide,1232,3,128000,Ames
+BrkSide,1218,3,131000,Ames
+BrkSide,884,2,113000,Ames
+BrkSide,1409,3,126000,Ames
+BrkSide,1322,4,132000,Ames
+BrkSide,1426,3,131750,Ames
+BrkSide,1281,2,132500,Ames
+BrkSide,1513,4,137500,Ames
+BrkSide,854,2,132000,Ames
+BrkSide,1367,3,127500,Ames
+BrkSide,986,2,102000,Ames
+OldTown,2264,4,2.00E+05,Ames
+BrkSide,1824,3,180500,Ames
+BrkSide,1376,3,165000,Ames
+BrkSide,1316,4,90000,Ames
+BrkSide,1396,3,153575,Ames
+OldTown,1344,3,140000,Ames
+OldTown,2526,5,136000,Ames
+OldTown,1173,3,113000,Ames
+OldTown,1214,2,117000,Ames
+IDOTRR,1818,4,169500,Ames
+IDOTRR,1108,3,139400,Ames
+IDOTRR,2294,5,202500,Ames
+IDOTRR,1355,3,127000,Ames
+IDOTRR,1375,3,141000,Ames
+IDOTRR,1952,4,212300,Ames
+IDOTRR,2180,3,161000,Ames
+IDOTRR,1315,3,99500,Ames
+IDOTRR,1111,3,101000,Ames
+IDOTRR,1196,2,109900,Ames
+OldTown,1382,2,128500,Ames
+OldTown,1889,4,122000,Ames
+OldTown,840,3,87000,Ames
+IDOTRR,1484,3,50000,Ames
+Sawyer,2267,3,219000,Ames
+ClearCr,3086,3,200500,Ames
+Edwards,1134,3,126000,Ames
+SWISU,1282,2,108500,Ames
+Sawyer,999,3,130000,Ames
+Sawyer,1452,2,158450,Ames
+Sawyer,1005,3,115400,Ames
+Sawyer,1029,3,118500,Ames
+Sawyer,1020,3,165000,Ames
+Sawyer,1040,3,123000,Ames
+Sawyer,913,3,129000,Ames
+Sawyer,894,3,125000,Ames
+Sawyer,948,3,108000,Ames
+Sawyer,868,2,119900,Ames
+Sawyer,897,3,115000,Ames
+Sawyer,943,2,134500,Ames
+Sawyer,955,3,127000,Ames
+Sawyer,894,3,129000,Ames
+Sawyer,1285,3,143500,Ames
+Sawyer,912,3,129000,Ames
+Sawyer,1375,3,187000,Ames
+Sawyer,2654,4,158000,Ames
+Sawyer,1416,3,112000,Ames
+Sawyer,1302,2,165250,Ames
+Sawyer,1299,3,150000,Ames
+Sawyer,1176,3,137000,Ames
+Sawyer,998,3,89500,Ames
+ClearCr,1824,2,302000,Ames
+ClearCr,1522,3,182000,Ames
+ClearCr,2060,4,211000,Ames
+Edwards,1325,3,216000,Ames
+Edwards,1630,3,130000,Ames
+Edwards,1242,2,109900,Ames
+ClearCr,2422,4,255000,Ames
+Edwards,2158,4,243000,Ames
+Edwards,1626,3,154000,Ames
+SWISU,864,3,118000,Ames
+Edwards,943,3,80000,Ames
+Edwards,1440,4,150000,Ames
+Edwards,605,2,86000,Ames
+Edwards,1038,2,130000,Ames
+Edwards,1342,4,125000,Ames
+Edwards,1480,4,136500,Ames
+Edwards,1362,4,96000,Ames
+Edwards,1340,3,120000,Ames
+SawyerW,1822,4,228500,Ames
+SawyerW,1442,3,179900,Ames
+SawyerW,2243,4,225000,Ames
+SawyerW,2730,4,301000,Ames
+SawyerW,2127,4,238000,Ames
+SawyerW,1982,3,228500,Ames
+SawyerW,1958,3,220000,Ames
+CollgCr,2696,4,383970,Ames
+CollgCr,2828,4,424870,Ames
+CollgCr,1651,3,250000,Ames
+CollgCr,2140,3,360000,Ames
+CollgCr,1494,3,279500,Ames
+CollgCr,1316,3,200141,Ames
+CollgCr,1651,3,246500,Ames
+CollgCr,2574,3,276000,Ames
+CollgCr,1274,3,203000,Ames
+CollgCr,1456,3,155835,Ames
+CollgCr,1240,2,194000,Ames
+CollgCr,1208,2,195400,Ames
+CollgCr,1546,3,217000,Ames
+CollgCr,1500,3,212999,Ames
+CollgCr,1270,2,175900,Ames
+CollgCr,1795,3,191000,Ames
+CollgCr,1314,3,176432,Ames
+SawyerW,2062,3,277000,Ames
+SawyerW,1873,3,207000,Ames
+ClearCr,2144,4,277000,Ames
+ClearCr,1953,3,240000,Ames
+ClearCr,2087,5,187500,Ames
+ClearCr,1743,0,279000,Ames
+CollgCr,1022,3,139500,Ames
+CollgCr,990,3,126000,Ames
+CollgCr,1200,3,177500,Ames
+CollgCr,1308,3,175000,Ames
+CollgCr,1796,3,211000,Ames
+CollgCr,990,3,146000,Ames
+CollgCr,1097,3,147900,Ames
+CollgCr,990,3,123600,Ames
+CollgCr,1786,3,204750,Ames
+CollgCr,1873,3,235500,Ames
+CollgCr,1753,3,217000,Ames
+CollgCr,1690,3,190550,Ames
+CollgCr,1842,3,217500,Ames
+CollgCr,1479,3,226000,Ames
+CollgCr,1668,3,180000,Ames
+CollgCr,894,3,131000,Ames
+CollgCr,1025,3,153500,Ames
+CollgCr,1009,3,160000,Ames
+CollgCr,1040,3,134900,Ames
+CollgCr,907,3,130000,Ames
+CollgCr,879,3,120000,Ames
+CollgCr,882,3,112500,Ames
+CollgCr,969,3,122000,Ames
+CollgCr,864,3,127000,Ames
+CollgCr,875,3,117000,Ames
+CollgCr,2000,3,305900,Ames
+CollgCr,2169,3,228500,Ames
+CollgCr,1673,3,270000,Ames
+CollgCr,1459,3,192000,Ames
+CollgCr,1932,3,213000,Ames
+CollgCr,1729,3,2.00E+05,Ames
+CollgCr,2452,4,267000,Ames
+CollgCr,1592,3,228000,Ames
+CollgCr,2439,4,275000,Ames
+CollgCr,1992,3,211000,Ames
+CollgCr,1668,3,285000,Ames
+CollgCr,2090,3,240000,Ames
+CollgCr,848,1,131500,Ames
+CollgCr,1341,1,246900,Ames
+CollgCr,1928,4,219500,Ames
+CollgCr,1337,3,185000,Ames
+CollgCr,1476,3,179400,Ames
+CollgCr,1797,3,213500,Ames
+CollgCr,1422,3,179600,Ames
+CollgCr,1190,2,173500,Ames
+CollgCr,1330,3,167840,Ames
+CollgCr,1491,3,168675,Ames
+CollgCr,1536,3,167000,Ames
+Edwards,1214,2,140000,Ames
+Edwards,936,2,118500,Ames
+Edwards,1088,2,110000,Ames
+Edwards,960,3,94750,Ames
+Edwards,1351,3,122000,Ames
+Edwards,1179,2,110000,Ames
+Edwards,816,3,118500,Ames
+Edwards,1044,3,133500,Ames
+Edwards,1113,3,148000,Ames
+Edwards,2233,5,141000,Ames
+Edwards,1125,2,155000,Ames
+Edwards,1090,2,157000,Ames
+Edwards,1408,3,171500,Ames
+Edwards,5095,2,183850,Ames
+Edwards,4676,3,184750,Ames
+Edwards,1072,2,140000,Ames
+Edwards,960,2,131750,Ames
+Edwards,1152,2,61500,Ames
+Edwards,948,3,111000,Ames
+Edwards,1195,4,98500,Ames
+Edwards,774,3,79000,Ames
+Edwards,865,2,108500,Ames
+Edwards,894,3,110000,Ames
+Edwards,1346,2,112000,Ames
+Edwards,768,2,125000,Ames
+Edwards,864,3,79275,Ames
+Edwards,948,3,119000,Ames
+SWISU,3395,8,2.00E+05,Ames
+SWISU,2592,6,150000,Ames
+Crawfor,1502,3,165000,Ames
+Crawfor,789,2,96500,Ames
+Crawfor,1422,3,136500,Ames
+Crawfor,1298,2,146500,Ames
+SWISU,1768,3,175000,Ames
+Crawfor,1098,2,148500,Ames
+Crawfor,1436,3,141500,Ames
+Crawfor,1426,3,189950,Ames
+Crawfor,1461,3,135000,Ames
+Crawfor,1646,4,164000,Ames
+Crawfor,694,2,90350,Ames
+Crawfor,1250,3,139000,Ames
+Crawfor,954,2,119750,Ames
+Crawfor,1958,4,145000,Ames
+Crawfor,2002,4,145000,Ames
+Crawfor,1718,4,238000,Ames
+Crawfor,1226,2,153500,Ames
+Crawfor,2624,4,239000,Ames
+Crawfor,3194,4,359100,Ames
+Crawfor,1755,4,188000,Ames
+Crawfor,1991,3,220000,Ames
+Crawfor,1355,3,140000,Ames
+Crawfor,2727,3,315000,Ames
+Crawfor,2320,3,259500,Ames
+Crawfor,1839,3,257500,Ames
+Crawfor,1740,3,219500,Ames
+Crawfor,2259,3,217000,Ames
+Crawfor,1560,3,201000,Ames
+Crawfor,1488,3,215000,Ames
+Blueste,1045,2,123900,Ames
+Crawfor,1680,4,170000,Ames
+Blueste,1020,1,2.00E+05,Ames
+Crawfor,1696,3,198000,Ames
+Crawfor,2515,4,200624,Ames
+Crawfor,2726,2,315000,Ames
+IDOTRR,1517,3,115000,Ames
+IDOTRR,1215,3,141000,Ames
+IDOTRR,803,2,87000,Ames
+IDOTRR,1601,3,129850,Ames
+IDOTRR,1123,3,1.00E+05,Ames
+IDOTRR,1828,3,150909,Ames
+IDOTRR,816,2,75200,Ames
+IDOTRR,1012,2,118400,Ames
+IDOTRR,1077,2,67000,Ames
+IDOTRR,1558,4,152000,Ames
+IDOTRR,845,1,68104,Ames
+IDOTRR,1991,4,119600,Ames
+IDOTRR,1073,3,140000,Ames
+IDOTRR,1001,2,124900,Ames
+Crawfor,1625,2,375000,Ames
+Crawfor,1625,2,235000,Ames
+Mitchel,1299,2,183500,Ames
+Mitchel,912,2,156000,Ames
+Mitchel,1080,3,134000,Ames
+Mitchel,1392,3,215000,Ames
+Mitchel,1409,1,245000,Ames
+Mitchel,1478,3,210000,Ames
+Mitchel,918,3,148000,Ames
+Mitchel,1026,2,143000,Ames
+Timber,1501,2,244000,Ames
+GrnHill,1502,1,330000,Ames
+Timber,1328,2,170000,Ames
+Timber,2279,4,257000,Ames
+Timber,1689,3,231713,Ames
+Timber,1564,2,267300,Ames
+Timber,1484,2,265900,Ames
+Timber,1571,3,239000,Ames
+Timber,1646,3,248900,Ames
+Timber,1240,3,174000,Ames
+Timber,1717,3,187500,Ames
+Timber,1756,3,204000,Ames
+Timber,1312,2,180500,Ames
+Timber,1146,3,187500,Ames
+Timber,1922,2,282000,Ames
+Timber,1491,3,178000,Ames
+Timber,1629,3,270000,Ames
+Timber,2486,5,279900,Ames
+Timber,1572,3,186700,Ames
+Timber,1776,3,283463,Ames
+Timber,1824,3,392000,Ames
+Timber,2482,4,281213,Ames
+Mitchel,1120,3,147000,Ames
+Mitchel,2034,2,130000,Ames
+Mitchel,936,0,140000,Ames
+Mitchel,1040,3,132250,Ames
+Mitchel,1632,4,143000,Ames
+Mitchel,1622,3,168000,Ames
+MeadowV,1060,3,129900,Ames
+MeadowV,1142,3,134000,Ames
+MeadowV,1092,3,85500,Ames
+MeadowV,992,2,106500,Ames
+MeadowV,1092,3,93900,Ames
+MeadowV,1092,3,75000,Ames
+MeadowV,630,1,84500,Ames
+MeadowV,1092,3,75190,Ames
+Mitchel,1062,3,146800,Ames
+Mitchel,1008,1,153500,Ames
+Mitchel,1356,3,188000,Ames
+Mitchel,1676,3,196000,Ames
+Mitchel,1432,3,157000,Ames
+Mitchel,796,2,138000,Ames
+Mitchel,768,2,129500,Ames
+Mitchel,1608,3,80000,Ames
+Mitchel,845,2,129500,Ames
+Mitchel,1178,3,135000,Ames
+Mitchel,816,2,124500,Ames
+Mitchel,816,2,139000,Ames
+Mitchel,974,3,93500,Ames
+Mitchel,887,3,124500,Ames
+NAmes,1293,2,149900,Ames
+NAmes,1024,2,157500,Ames
+NAmes,1797,3,169000,Ames
+NAmes,1390,1,252000,Ames
+NAmes,1851,3,192100,Ames
+Gilbert,1525,3,183500,Ames
+Gilbert,2236,4,222000,Ames
+Gilbert,1671,3,170000,Ames
+Gilbert,1498,3,187500,Ames
+Gilbert,1776,3,202000,Ames
+Gilbert,1511,3,185000,Ames
+Gilbert,2462,4,320000,Ames
+Gilbert,1670,3,240000,Ames
+Gilbert,2064,4,250000,Ames
+Gilbert,1801,3,239900,Ames
+Gilbert,2212,3,309000,Ames
+Gilbert,2021,3,274725,Ames
+StoneBr,2687,4,270000,Ames
+Gilbert,1169,3,183500,Ames
+Gilbert,1501,3,165600,Ames
+Gilbert,1632,3,176500,Ames
+StoneBr,1204,2,130000,Ames
+StoneBr,1767,2,239000,Ames
+StoneBr,1742,2,275000,Ames
+StoneBr,2798,3,457347,Ames
+StoneBr,3390,5,545224,Ames
+StoneBr,2473,4,356383,Ames
+StoneBr,2868,4,556581,Ames
+StoneBr,2576,4,361919,Ames
+StoneBr,2698,4,535000,Ames
+StoneBr,2795,4,401179,Ames
+StoneBr,2945,3,438780,Ames
+Gilbert,2320,2,169000,Ames
+Gilbert,1056,3,145000,Ames
+StoneBr,1714,2,318000,Ames
+StoneBr,1826,3,319000,Ames
+StoneBr,2000,3,470000,Ames
+NWAmes,1621,3,202500,Ames
+NWAmes,2183,4,229000,Ames
+NWAmes,2263,3,235000,Ames
+NWAmes,1574,3,190000,Ames
+NWAmes,1102,2,169000,Ames
+NWAmes,1872,3,241500,Ames
+NWAmes,1857,4,188900,Ames
+NWAmes,1686,3,207500,Ames
+NWAmes,2784,5,250000,Ames
+NWAmes,1552,3,179900,Ames
+NWAmes,1083,2,172000,Ames
+Somerst,2318,3,294323,Ames
+NWAmes,1875,3,184500,Ames
+NWAmes,1074,3,153500,Ames
+NWAmes,1664,4,162900,Ames
+NWAmes,1309,3,181000,Ames
+NWAmes,1103,3,155000,Ames
+NAmes,1096,3,138800,Ames
+NAmes,864,3,116050,Ames
+NAmes,858,3,88000,Ames
+NAmes,874,3,97500,Ames
+NAmes,1419,2,190000,Ames
+BrDale,1092,3,105500,Ames
+BrDale,1365,3,125500,Ames
+BrDale,987,2,83000,Ames
+BrDale,1030,3,116000,Ames
+BrDale,1218,3,91500,Ames
+BrDale,1218,3,118000,Ames
+BrDale,948,2,89000,Ames
+BrDale,1092,3,108000,Ames
+BrDale,987,2,94500,Ames
+NPkVill,1069,2,146300,Ames
+NAmes,1387,3,145000,Ames
+NAmes,900,3,123000,Ames
+NPkVill,1055,2,137500,Ames
+NPkVill,1456,3,144000,Ames
+NridgHt,1980,3,315000,Ames
+NridgHt,2589,4,412083,Ames
+NridgHt,2596,4,342643,Ames
+NridgHt,1618,2,252000,Ames
+NridgHt,2076,2,465000,Ames
+NridgHt,1740,4,293000,Ames
+NridgHt,1868,2,415000,Ames
+NridgHt,1850,3,326000,Ames
+NridgHt,2376,4,325300,Ames
+NridgHt,2452,4,309000,Ames
+NridgHt,2206,4,3.00E+05,Ames
+NridgHt,2098,3,275500,Ames
+NridgHt,2091,3,338500,Ames
+NridgHt,2324,4,345000,Ames
+NridgHt,2253,3,344133,Ames
+NridgHt,2389,4,298236,Ames
+NridgHt,2358,4,329900,Ames
+NridgHt,1944,3,360000,Ames
+NridgHt,1970,3,281000,Ames
+NridgHt,1792,2,372397,Ames
+NridgHt,1780,2,378000,Ames
+NridgHt,1792,2,374000,Ames
+NridgHt,2728,4,437154,Ames
+NridgHt,1904,3,275000,Ames
+NridgHt,1914,3,279000,Ames
+NridgHt,1364,2,185850,Ames
+NridgHt,1565,2,282500,Ames
+NridgHt,1368,2,202500,Ames
+NridgHt,1368,2,202665,Ames
+NridgHt,1686,1,332200,Ames
+NridgHt,1666,2,310090,Ames
+NridgHt,1405,2,171750,Ames
+Gilbert,1316,3,169990,Ames
+Gilbert,1456,3,170440,Ames
+Gilbert,1492,3,169985,Ames
+Gilbert,1496,3,179665,Ames
+Gilbert,1863,4,219210,Ames
+Gilbert,1326,3,174190,Ames
+Gilbert,1456,3,172785,Ames
+Gilbert,2373,4,258000,Ames
+Gilbert,1492,3,185101,Ames
+Blmngtn,1364,2,210250,Ames
+Blmngtn,1557,2,234000,Ames
+Blmngtn,1456,2,215000,Ames
+Blmngtn,1511,2,246990,Ames
+Blmngtn,1414,2,178740,Ames
+Blmngtn,1548,2,225000,Ames
+Blmngtn,1248,2,167240,Ames
+Blmngtn,1142,2,156820,Ames
+Blmngtn,1506,2,213490,Ames
+Blmngtn,1567,1,264561,Ames
+Blmngtn,1500,2,246578,Ames
+Gilbert,1838,4,192140,Ames
+Gilbert,1509,3,183200,Ames
+Gilbert,1414,3,178000,Ames
+Gilbert,1598,3,201490,Ames
+Gilbert,1936,3,230500,Ames
+Gilbert,1509,3,180000,Ames
+Gilbert,1664,3,172400,Ames
+Gilbert,1889,3,215000,Ames
+Gilbert,1886,4,199900,Ames
+Gilbert,1671,3,173000,Ames
+Gilbert,2322,4,287602,Ames
+Gilbert,2291,4,230000,Ames
+NoRidge,2392,3,348000,Ames
+NoRidge,1976,3,286000,Ames
+NoRidge,2234,3,3.00E+05,Ames
+NoRidge,3627,4,625000,Ames
+NoRidge,2855,4,405000,Ames
+NoRidge,1924,3,280000,Ames
+NoRidge,2263,4,258000,Ames
+NoRidge,2726,4,350000,Ames
+NoRidge,3500,4,584500,Ames
+NoRidge,2494,4,321000,Ames
+NoRidge,2526,4,290000,Ames
+NoRidge,2799,3,315000,Ames
+Somerst,1964,3,252000,Ames
+Somerst,1670,2,336820,Ames
+Somerst,2097,1,423000,Ames
+Somerst,1660,3,290000,Ames
+Somerst,1616,3,232000,Ames
+Somerst,1504,3,199000,Ames
+Somerst,1278,2,198600,Ames
+Somerst,2640,3,405749,Ames
+Somerst,1489,3,232600,Ames
+Somerst,1939,3,266000,Ames
+Somerst,1553,3,186500,Ames
+Somerst,1716,3,200825,Ames
+Somerst,1576,3,197000,Ames
+Somerst,1262,2,185000,Ames
+Somerst,1266,3,176000,Ames
+Somerst,1301,2,187750,Ames
+SawyerW,1142,3,139500,Ames
+SawyerW,1400,3,186800,Ames
+SawyerW,1131,3,132000,Ames
+SawyerW,1141,3,142500,Ames
+SawyerW,1158,3,158000,Ames
+SawyerW,1686,3,184000,Ames
+SawyerW,1585,3,184900,Ames
+SawyerW,1837,3,187000,Ames
+SawyerW,1603,3,175900,Ames
+SawyerW,1731,3,248500,Ames
+SawyerW,1398,2,172000,Ames
+SawyerW,1217,2,151000,Ames
+SawyerW,1320,3,150000,Ames
+SawyerW,1056,2,107000,Ames
+SawyerW,965,3,119900,Ames
+Sawyer,988,3,129500,Ames
+Sawyer,1728,6,125000,Ames
+Sawyer,1654,4,119500,Ames
+Sawyer,1211,2,144000,Ames
+Sawyer,1212,3,151000,Ames
+Sawyer,984,3,126000,Ames
+Sawyer,909,3,116000,Ames
+Sawyer,925,2,133500,Ames
+Sawyer,1024,3,120875,Ames
+Sawyer,935,3,137000,Ames
+Sawyer,912,3,124000,Ames
+Sawyer,1236,3,135000,Ames
+Sawyer,941,3,129200,Ames
+Veenker,2646,3,260000,Ames
+NoRidge,2417,4,260000,Ames
+NoRidge,2826,3,334000,Ames
+NoRidge,2520,5,310000,Ames
+NoRidge,2295,4,268000,Ames
+NoRidge,1624,2,262000,Ames
+Somerst,1143,1,176400,Ames
+Somerst,1247,1,197000,Ames
+Somerst,1200,2,151000,Ames
+Somerst,1223,2,147400,Ames
+Somerst,1223,2,149900,Ames
+Somerst,1200,2,144152,Ames
+Somerst,1524,2,166000,Ames
+Somerst,1452,3,183900,Ames
+Somerst,1382,3,165000,Ames
+Somerst,1080,2,139000,Ames
+Somerst,1694,3,2.00E+05,Ames
+Somerst,1568,3,221000,Ames
+Veenker,1494,2,270000,Ames
+Veenker,1208,3,165000,Ames
+Greens,1235,1,214000,Ames
+Greens,1036,1,188000,Ames
+Greens,1226,1,190000,Ames
+Greens,1226,1,170000,Ames
+Veenker,1842,0,385000,Ames
+NWAmes,1193,2,146500,Ames
+NWAmes,1920,4,170000,Ames
+NWAmes,2156,3,262500,Ames
+NWAmes,1416,3,179900,Ames
+NWAmes,2654,4,250000,Ames
+NWAmes,1790,4,165150,Ames
+NWAmes,1334,3,164500,Ames
+NWAmes,1164,3,140000,Ames
+NAmes,980,3,135500,Ames
+NAmes,1051,3,142000,Ames
+NAmes,1770,4,155000,Ames
+NAmes,976,2,157500,Ames
+NAmes,1052,3,138500,Ames
+NAmes,898,3,140000,Ames
+NAmes,1051,3,124400,Ames
+NAmes,1141,3,158000,Ames
+NAmes,1200,1,146000,Ames
+NWAmes,1993,4,190000,Ames
+NAmes,1050,3,136500,Ames
+NAmes,864,3,129900,Ames
+NAmes,1712,4,145000,Ames
+NAmes,1565,3,185900,Ames
+NAmes,1251,3,160000,Ames
+NAmes,1488,3,167000,Ames
+NAmes,1440,4,157500,Ames
+NAmes,1095,2,140000,Ames
+NAmes,1053,3,150000,Ames
+NAmes,1248,3,151500,Ames
+NAmes,816,2,129800,Ames
+NAmes,1008,2,137000,Ames
+NAmes,1043,2,137000,Ames
+BrkSide,1230,3,121600,Ames
+BrkSide,869,2,85500,Ames
+BrkSide,747,1,79900,Ames
+BrkSide,1252,3,127000,Ames
+NAmes,1433,3,161000,Ames
+NAmes,1624,2,146500,Ames
+NAmes,1216,3,135000,Ames
+NAmes,2136,4,137900,Ames
+NAmes,1578,3,133000,Ames
+NAmes,1728,3,137000,Ames
+NAmes,936,2,121000,Ames
+NAmes,1584,4,119000,Ames
+NAmes,1246,3,172000,Ames
+NAmes,1235,2,98600,Ames
+NAmes,2157,4,226000,Ames
+NAmes,1128,2,118000,Ames
+NAmes,3112,4,235000,Ames
+NAmes,1008,2,135000,Ames
+NAmes,1190,3,132500,Ames
+NAmes,1144,3,143000,Ames
+NAmes,1364,3,132000,Ames
+NAmes,1383,3,145250,Ames
+NAmes,1336,3,162000,Ames
+NAmes,1370,3,148000,Ames
+NAmes,1092,2,141000,Ames
+NAmes,1124,3,153000,Ames
+NAmes,1236,2,134450,Ames
+NAmes,943,2,135960,Ames
+NAmes,1050,3,156000,Ames
+NAmes,1375,2,140000,Ames
+NAmes,1008,2,139500,Ames
+NAmes,1575,2,155000,Ames
+NAmes,1145,3,127000,Ames
+NAmes,1005,2,133500,Ames
+NAmes,1056,3,125000,Ames
+NAmes,884,2,142000,Ames
+NAmes,2039,3,167000,Ames
+NAmes,1384,2,159000,Ames
+OldTown,2640,5,180000,Ames
+NAmes,1312,3,127000,Ames
+OldTown,1310,2,112000,Ames
+OldTown,713,2,99800,Ames
+OldTown,833,2,117000,Ames
+OldTown,1073,2,108480,Ames
+NAmes,715,2,68000,Ames
+OldTown,720,1,86900,Ames
+OldTown,1130,2,120000,Ames
+OldTown,1595,3,155500,Ames
+OldTown,1760,4,80000,Ames
+OldTown,1214,3,105000,Ames
+OldTown,2414,3,160000,Ames
+OldTown,1466,3,170000,Ames
+NAmes,1324,3,160000,Ames
+NAmes,1086,3,159950,Ames
+NAmes,1146,3,165000,Ames
+NAmes,1734,3,159000,Ames
+NAmes,1207,3,147000,Ames
+NAmes,912,2,115000,Ames
+NAmes,1194,3,159500,Ames
+NAmes,864,2,120000,Ames
+NAmes,816,2,129900,Ames
+NAmes,1773,3,183000,Ames
+NAmes,1472,2,157500,Ames
+NAmes,2448,3,277500,Ames
+NAmes,1600,2,207500,Ames
+NAmes,1521,3,147500,Ames
+NAmes,1192,4,135000,Ames
+NAmes,1040,2,109500,Ames
+NAmes,1040,2,109900,Ames
+NAmes,1040,3,133700,Ames
+NAmes,1040,2,81400,Ames
+NAmes,1040,2,87500,Ames
+NAmes,1040,2,93500,Ames
+NAmes,1556,4,119000,Ames
+NAmes,1150,3,141000,Ames
+NAmes,1150,3,146000,Ames
+NAmes,1348,3,155000,Ames
+NAmes,999,3,134500,Ames
+NAmes,1045,3,120000,Ames
+NAmes,864,3,105000,Ames
+NAmes,1025,3,124000,Ames
+OldTown,2014,5,169000,Ames
+OldTown,1328,3,107000,Ames
+OldTown,1668,3,135000,Ames
+OldTown,1657,4,111500,Ames
+OldTown,1416,3,156500,Ames
+OldTown,1641,3,178000,Ames
+OldTown,1428,4,139900,Ames
+OldTown,1004,2,105000,Ames
+OldTown,813,2,110000,Ames
+OldTown,1951,4,111500,Ames
+OldTown,1032,2,108000,Ames
+OldTown,844,2,111500,Ames
+OldTown,1750,3,124000,Ames
+OldTown,864,2,105000,Ames
+OldTown,1118,2,116000,Ames
+OldTown,1376,2,96900,Ames
+OldTown,960,3,135500,Ames
+OldTown,1566,5,139000,Ames
+OldTown,492,1,61500,Ames
+OldTown,1182,3,120000,Ames
+OldTown,1163,3,126175,Ames
+OldTown,840,2,64000,Ames
+OldTown,1928,4,137000,Ames
+OldTown,1774,4,87000,Ames
+OldTown,1768,2,163000,Ames
+OldTown,2104,5,155000,Ames
+OldTown,1440,3,79000,Ames
+OldTown,1690,3,144000,Ames
+OldTown,1368,3,114504,Ames
+OldTown,1762,4,157000,Ames
+OldTown,1200,4,125000,Ames
+OldTown,3608,4,475000,Ames
+OldTown,1248,2,93500,Ames
+OldTown,960,3,125000,Ames
+IDOTRR,1020,2,64500,Ames
+BrkSide,788,2,1.00E+05,Ames
+BrkSide,1577,3,140200,Ames
+BrkSide,1827,2,202500,Ames
+BrkSide,1664,3,159000,Ames
+OldTown,1118,3,119900,Ames
+BrkSide,1176,3,114500,Ames
+BrkSide,1344,3,115000,Ames
+BrkSide,1162,3,75000,Ames
+BrkSide,1015,3,88000,Ames
+BrkSide,912,2,80500,Ames
+BrkSide,1576,3,149000,Ames
+BrkSide,1324,3,110000,Ames
+OldTown,1103,2,110500,Ames
+BrkSide,616,2,89000,Ames
+BrkSide,1048,2,113000,Ames
+BrkSide,816,2,109000,Ames
+OldTown,2486,5,220000,Ames
+BrkSide,960,3,129000,Ames
+OldTown,1635,2,117000,Ames
+OldTown,693,2,52500,Ames
+IDOTRR,1430,3,107000,Ames
+IDOTRR,1330,3,116500,Ames
+IDOTRR,819,2,72000,Ames
+IDOTRR,1376,3,119500,Ames
+IDOTRR,1360,2,125500,Ames
+IDOTRR,1077,3,91000,Ames
+IDOTRR,754,2,84500,Ames
+IDOTRR,984,3,90000,Ames
+Sawyer,1422,3,137500,Ames
+Sawyer,1921,4,150000,Ames
+Sawyer,1640,3,131000,Ames
+ClearCr,1352,3,130000,Ames
+Edwards,1032,2,125000,Ames
+SWISU,879,2,80000,Ames
+SWISU,1073,2,157000,Ames
+Sawyer,1382,3,148000,Ames
+Sawyer,1296,2,90000,Ames
+Sawyer,1068,3,154500,Ames
+Sawyer,1064,3,153600,Ames
+Sawyer,1320,3,164500,Ames
+Sawyer,934,2,132000,Ames
+Sawyer,1059,3,142500,Ames
+Sawyer,1159,3,158000,Ames
+Sawyer,1400,3,149500,Ames
+Sawyer,1458,3,165000,Ames
+Sawyer,1721,3,180000,Ames
+Sawyer,1040,3,160500,Ames
+Sawyer,1967,6,156500,Ames
+Sawyer,1949,6,157000,Ames
+Sawyer,1920,4,172500,Ames
+Sawyer,1803,3,155000,Ames
+Sawyer,1779,3,170000,Ames
+Sawyer,872,2,105000,Ames
+Sawyer,960,0,145000,Ames
+Sawyer,1437,3,168000,Ames
+ClearCr,1830,2,278000,Ames
+ClearCr,1000,1,164000,Ames
+ClearCr,2287,3,225000,Ames
+Sawyer,810,2,130000,Ames
+Sawyer,894,3,142500,Ames
+ClearCr,1700,2,148400,Ames
+ClearCr,1453,2,190000,Ames
+Edwards,1350,3,146000,Ames
+Edwards,1150,3,128000,Ames
+Edwards,2008,3,225000,Ames
+Edwards,2201,4,274970,Ames
+Edwards,2009,4,235000,Ames
+Edwards,3672,5,415000,Ames
+Edwards,1560,3,182000,Ames
+Edwards,1488,3,135000,Ames
+Edwards,1057,3,137000,Ames
+Edwards,1855,4,136900,Ames
+Edwards,1609,5,149900,Ames
+Edwards,1148,2,123500,Ames
+Edwards,1124,3,93000,Ames
+Edwards,1456,4,91500,Ames
+SawyerW,1298,3,180000,Ames
+SawyerW,2559,4,209000,Ames
+SawyerW,1911,3,215000,Ames
+SawyerW,1440,2,224500,Ames
+CollgCr,1876,3,229800,Ames
+CollgCr,1208,2,183600,Ames
+CollgCr,1220,2,194000,Ames
+CollgCr,1294,2,193879,Ames
+CollgCr,1614,3,221500,Ames
+CollgCr,1498,2,204900,Ames
+CollgCr,1962,3,239799,Ames
+CollgCr,1846,3,233555,Ames
+CollgCr,1734,3,260000,Ames
+CollgCr,1590,2,294900,Ames
+CollgCr,1809,3,209700,Ames
+CollgCr,1614,3,225000,Ames
+CollgCr,1596,3,181000,Ames
+SawyerW,1915,3,220000,Ames
+ClearCr,1582,4,190000,Ames
+ClearCr,988,1,180000,Ames
+ClearCr,1533,2,280000,Ames
+ClearCr,1388,3,158900,Ames
+CollgCr,914,2,148000,Ames
+CollgCr,1100,3,145000,Ames
+CollgCr,1499,3,187000,Ames
+CollgCr,1425,3,193000,Ames
+CollgCr,990,3,156000,Ames
+CollgCr,1525,3,235000,Ames
+CollgCr,1494,3,217000,Ames
+CollgCr,1588,3,214000,Ames
+CollgCr,1749,3,196000,Ames
+CollgCr,1779,3,217000,Ames
+CollgCr,1861,3,2.00E+05,Ames
+CollgCr,1776,3,192500,Ames
+CollgCr,1541,3,205000,Ames
+CollgCr,954,3,132500,Ames
+CollgCr,1388,3,157500,Ames
+CollgCr,1282,3,174000,Ames
+CollgCr,971,3,128500,Ames
+CollgCr,864,3,128500,Ames
+CollgCr,894,3,149900,Ames
+CollgCr,864,3,119900,Ames
+Landmrk,1320,3,137000,Ames
+CollgCr,1989,3,255000,Ames
+CollgCr,1762,3,222000,Ames
+CollgCr,1755,3,214000,Ames
+CollgCr,1358,1,220000,Ames
+CollgCr,1787,3,275000,Ames
+CollgCr,1909,4,197000,Ames
+CollgCr,1654,3,230000,Ames
+CollgCr,2214,3,268500,Ames
+CollgCr,2049,4,210900,Ames
+CollgCr,1939,3,227000,Ames
+CollgCr,1995,4,237000,Ames
+CollgCr,2097,3,274300,Ames
+CollgCr,1836,3,216837,Ames
+CollgCr,848,1,133000,Ames
+CollgCr,848,1,155900,Ames
+CollgCr,1919,3,233230,Ames
+CollgCr,1390,3,207000,Ames
+CollgCr,1948,4,195000,Ames
+CollgCr,1700,3,2.00E+05,Ames
+CollgCr,1737,3,203160,Ames
+CollgCr,1611,3,195800,Ames
+CollgCr,1552,3,212900,Ames
+CollgCr,1720,3,196500,Ames
+CollgCr,1336,3,198000,Ames
+CollgCr,1500,3,173900,Ames
+CollgCr,1456,3,163990,Ames
+CollgCr,1310,3,164990,Ames
+Edwards,1436,3,98000,Ames
+Edwards,1466,3,149900,Ames
+Edwards,1220,2,102000,Ames
+Edwards,1012,4,127500,Ames
+Edwards,980,4,127500,Ames
+Edwards,1176,2,119900,Ames
+Edwards,1724,3,196500,Ames
+Edwards,914,2,117250,Ames
+Edwards,2314,3,229000,Ames
+Edwards,1072,2,145000,Ames
+Edwards,1072,2,140000,Ames
+Edwards,1072,2,142500,Ames
+Edwards,1709,3,134000,Ames
+Edwards,1709,3,130000,Ames
+Edwards,1709,3,130000,Ames
+Edwards,1709,3,137500,Ames
+Edwards,1708,3,130000,Ames
+Edwards,936,3,97900,Ames
+Edwards,1338,3,92000,Ames
+Edwards,1669,4,107000,Ames
+Edwards,1184,5,81000,Ames
+Edwards,1221,4,104900,Ames
+Edwards,864,2,115000,Ames
+Edwards,1482,3,125000,Ames
+Edwards,1250,3,116000,Ames
+Edwards,1414,3,83000,Ames
+SWISU,2230,5,118500,Ames
+Edwards,498,1,35000,Ames
+Edwards,1273,3,121000,Ames
+SWISU,1928,5,160000,Ames
+SWISU,1595,2,140000,Ames
+SWISU,1551,3,137000,Ames
+SWISU,1340,3,128000,Ames
+SWISU,1479,3,160000,Ames
+Crawfor,1784,4,138887,Ames
+SWISU,1510,3,149000,Ames
+SWISU,1522,4,102000,Ames
+Crawfor,1636,4,167000,Ames
+Crawfor,1802,4,200100,Ames
+SWISU,1465,3,131000,Ames
+SWISU,1288,4,112000,Ames
+Crawfor,1717,3,140000,Ames
+Crawfor,1550,3,195000,Ames
+Crawfor,1517,3,230000,Ames
+Crawfor,1717,2,194000,Ames
+Crawfor,1180,2,137500,Ames
+Crawfor,2057,3,250000,Ames
+Crawfor,1671,4,218000,Ames
+Crawfor,2345,4,239000,Ames
+Crawfor,1609,3,199500,Ames
+Crawfor,1801,3,210000,Ames
+Crawfor,1811,2,230000,Ames
+Crawfor,1647,3,217500,Ames
+Crawfor,2315,4,257000,Ames
+Crawfor,1336,2,157000,Ames
+Crawfor,1844,3,223000,Ames
+IDOTRR,976,2,102000,Ames
+IDOTRR,1285,3,145400,Ames
+IDOTRR,672,2,72000,Ames
+IDOTRR,641,2,85000,Ames
+IDOTRR,951,2,106500,Ames
+IDOTRR,1638,4,139000,Ames
+IDOTRR,1336,3,108000,Ames
+IDOTRR,729,2,51689,Ames
+IDOTRR,480,1,35311,Ames
+IDOTRR,1396,4,115000,Ames
+IDOTRR,936,2,78000,Ames
+Crawfor,1778,2,375000,Ames
+Crawfor,1646,2,3.00E+05,Ames
+Mitchel,1625,3,242500,Ames
+Mitchel,1664,4,145000,Ames
+Mitchel,1491,3,209000,Ames
+Mitchel,1004,2,135000,Ames
+Mitchel,1210,3,148000,Ames
+Mitchel,1959,5,171000,Ames
+Timber,2519,4,335000,Ames
+GrnHill,1295,2,230000,Ames
+Timber,1650,2,250764,Ames
+Timber,1707,2,228000,Ames
+Timber,1137,2,176000,Ames
+Timber,1339,2,180000,Ames
+Timber,2514,4,250000,Ames
+Timber,1403,2,202000,Ames
+Timber,1800,3,312500,Ames
+Timber,1960,3,320000,Ames
+Timber,2028,2,369900,Ames
+Timber,1838,3,359900,Ames
+Mitchel,1600,3,81500,Ames
+Mitchel,1368,2,215000,Ames
+Mitchel,1216,2,164000,Ames
+Mitchel,1337,2,153500,Ames
+Mitchel,1140,3,84500,Ames
+MeadowV,1304,3,104500,Ames
+MeadowV,1475,4,127000,Ames
+MeadowV,2521,5,151400,Ames
+Mitchel,874,3,126500,Ames
+Mitchel,1652,4,146500,Ames
+MeadowV,630,1,73000,Ames
+MeadowV,1092,3,79400,Ames
+Mitchel,1360,3,140000,Ames
+MeadowV,630,1,92000,Ames
+MeadowV,1092,3,87550,Ames
+MeadowV,1092,3,79500,Ames
+MeadowV,1092,3,90500,Ames
+MeadowV,1092,3,71000,Ames
+Mitchel,1728,4,150900,Ames
+Mitchel,1728,4,188000,Ames
+Mitchel,1126,3,160000,Ames
+Mitchel,1224,4,131000,Ames
+Mitchel,1003,3,142500,Ames
+Mitchel,902,2,131000,Ames
+Mitchel,970,3,132000,Ames
+Mitchel,1389,2,170000,Ames
+Mitchel,2000,3,188000,Ames
+San Francisco,828,4,452600,California
+San Francisco,299,4,358500,California
+Bakersfield,133,4,352100,California
+San Diego,1055,3,341300,California
+San Jose,543,4,342200,California
+Fresno,160,3,269700,California
+Sacramento,669,3,299200,California
+San Jose,427,3,241400,California
+Santa Ana,162,4,226700,California
+Bakersfield,902,2,261100,California
+Fresno,552,5,281500,California
+San Francisco,119,3,241800,California
+Santa Ana,733,3,213500,California
+Santa Ana,447,2,191300,California
+Santa Ana,150,3,159200,California
+San Francisco,1640,4,140000,California
+Long Beach,584,5,152500,California
+Bakersfield,186,2,155500,California
+Oakland,432,4,158700,California
+Bakersfield,691,4,162900,California
+Santa Ana,184,2,147500,California
+San Francisco,587,5,159800,California
+Sacramento,558,2,113900,California
+Los Angeles,100,2,99700,California
+Oakland,539,2,132600,California
+Fresno,352,4,107500,California
+Bakersfield,88,5,93800,California
+Oakland,432,3,105500,California
+Santa Ana,446,4,108900,California
+Santa Ana,99,3,132000,California
+Bakersfield,546,2,122300,California
+Oakland,364,3,115200,California
+Fresno,107,4,110400,California
+Oakland,728,5,104900,California
+Fresno,279,3,109700,California
+San Jose,146,2,97200,California
+Santa Ana,1167,4,104500,California
+San Diego,568,4,103900,California
+Fresno,194,2,191400,California
+Long Beach,772,5,176000,California
+San Diego,514,4,155400,California
+Los Angeles,170,5,150000,California
+Santa Ana,911,3,118800,California
+Santa Ana,512,2,188800,California
+San Jose,236,4,184400,California
+Fresno,679,2,182300,California
+Santa Ana,899,2,142500,California
+Bakersfield,225,3,137500,California
+Sacramento,876,4,187500,California
+San Jose,457,4,112500,California
+Long Beach,163,5,171900,California
+San Jose,662,2,93800,California
+San Jose,382,4,97500,California
+Oakland,127,2,104200,California
+Los Angeles,687,4,87500,California
+San Jose,653,5,83100,California
+San Diego,173,3,87500,California
+Los Angeles,715,2,85300,California
+San Diego,678,3,80300,California
+Sacramento,260,2,60000,California
+Fresno,1238,2,75700,California
+San Jose,573,5,75000,California
+San Francisco,262,5,86100,California
+Santa Ana,1135,4,76100,California
+Sacramento,613,2,73500,California
+San Jose,324,3,78400,California
+Santa Ana,798,2,84400,California
+Santa Ana,406,2,81300,California
+Oakland,155,4,85000,California
+San Francisco,783,2,129200,California
+Long Beach,649,3,82500,California
+Santa Ana,147,2,95200,California
+San Francisco,1042,4,75000,California
+Oakland,553,2,67500,California
+San Francisco,211,4,137500,California
+Oakland,462,3,177500,California
+San Jose,615,5,102100,California
+Bakersfield,92,4,108300,California
+Fresno,376,5,112500,California
+Fresno,581,5,131300,California
+Long Beach,110,3,162500,California
+San Francisco,782,3,112500,California
+Bakersfield,337,4,112500,California
+San Diego,190,5,137500,California
+Bakersfield,578,3,118800,California
+San Diego,298,3,98200,California
+Bakersfield,90,4,118800,California
+San Jose,520,4,162500,California
+Sacramento,347,5,137500,California
+Los Angeles,149,2,500001,California
+San Jose,962,3,162500,California
+San Francisco,783,3,137500,California
+Long Beach,223,2,162500,California
+San Francisco,744,3,187500,California
+Long Beach,560,5,179200,California
+Los Angeles,120,2,130000,California
+Oakland,600,2,183800,California
+Oakland,400,3,125000,California
+Oakland,124,4,170000,California
+Bakersfield,739,4,193100,California
+San Jose,524,2,257800,California
+Oakland,151,5,273400,California
+Bakersfield,708,3,237500,California
+Fresno,360,2,350000,California
+San Jose,142,5,335700,California
+Long Beach,924,3,313400,California
+Fresno,263,2,268500,California
+Oakland,123,4,259400,California
+Sacramento,740,4,275700,California
+San Francisco,497,5,225000,California
+Santa Ana,183,5,262500,California
+Oakland,1248,3,218500,California
+San Jose,537,5,255000,California
+Bakersfield,189,4,224100,California
+Santa Ana,857,2,243100,California
+Oakland,460,3,231600,California
+San Diego,165,3,218500,California
+San Francisco,616,5,234100,California
+Long Beach,443,4,327600,California
+Sacramento,123,3,347600,California
+Oakland,605,2,366100,California
+Sacramento,503,5,335000,California
+Los Angeles,178,4,373600,California
+Long Beach,576,4,389500,California
+Sacramento,351,4,391100,California
+Santa Ana,173,3,337300,California
+Long Beach,539,3,295200,California
+San Jose,820,4,292300,California
+Sacramento,156,2,411500,California
+Long Beach,429,2,311500,California
+San Francisco,435,5,325900,California
+Sacramento,106,4,392600,California
+Sacramento,760,3,319300,California
+San Jose,423,3,333300,California
+Los Angeles,113,3,335200,California
+Bakersfield,1137,5,351200,California
+Sacramento,736,3,368900,California
+Santa Ana,189,3,365900,California
+Oakland,802,3,366700,California
+Long Beach,493,4,362800,California
+Fresno,114,5,483300,California
+San Diego,850,5,331400,California
+San Jose,438,3,323500,California
+Santa Ana,119,2,216700,California
+Long Beach,594,3,233100,California
+Bakersfield,421,3,296400,California
+Sacramento,121,3,273700,California
+Fresno,790,4,227700,California
+Oakland,446,5,199600,California
+Los Angeles,106,3,239800,California
+Long Beach,486,4,270100,California
+Long Beach,329,3,302100,California
+Bakersfield,106,4,269500,California
+Santa Ana,493,5,314700,California
+Long Beach,276,2,390100,California
+San Diego,109,4,410300,California
+Fresno,468,4,352400,California
+Santa Ana,486,4,287300,California
+Oakland,106,2,348700,California
+Oakland,644,4,243800,California
+Bakersfield,993,4,211500,California
+Bakersfield,122,3,218400,California
+Long Beach,623,3,269900,California
+San Jose,462,3,218800,California
+Oakland,90,4,225000,California
+Bakersfield,558,5,250000,California
+Los Angeles,392,4,171400,California
+Santa Ana,140,4,193800,California
+San Francisco,920,3,125000,California
+Bakersfield,615,2,97500,California
+Fresno,114,3,125000,California
+San Jose,468,5,138800,California
+Santa Ana,343,5,116700,California
+Sacramento,135,5,151800,California
+Bakersfield,803,2,127000,California
+Oakland,249,4,128600,California
+Santa Ana,80,4,140600,California
+Oakland,658,5,182700,California
+Bakersfield,417,5,146900,California
+Sacramento,163,3,122800,California
+Long Beach,623,5,169300,California
+Santa Ana,277,2,126600,California
+Santa Ana,72,4,127900,California
+Santa Ana,783,2,123500,California
+Fresno,551,4,111900,California
+Oakland,227,3,112800,California
+San Jose,1128,3,107900,California
+Los Angeles,412,2,137500,California
+Bakersfield,136,4,105500,California
+Bakersfield,1145,3,95500,California
+Los Angeles,490,5,116100,California
+Bakersfield,161,2,112200,California
+Los Angeles,1034,4,75000,California
+Bakersfield,255,5,112500,California
+Fresno,113,5,125000,California
+Oakland,598,4,115000,California
+Fresno,484,4,95000,California
+Bakersfield,142,5,96400,California
+Santa Ana,520,2,72000,California
+Sacramento,512,5,71300,California
+San Jose,107,3,80800,California
+San Diego,855,3,128800,California
+Los Angeles,654,5,112500,California
+Fresno,156,2,119400,California
+Santa Ana,662,5,118100,California
+Sacramento,272,5,122500,California
+San Francisco,109,3,106300,California
+Santa Ana,906,4,132500,California
+Los Angeles,801,5,122700,California
+San Diego,168,5,113300,California
+Sacramento,612,5,109500,California
+Bakersfield,464,4,164700,California
+Los Angeles,92,2,125000,California
+Fresno,942,5,124700,California
+Fresno,560,5,136700,California
+Santa Ana,102,5,141700,California
+Long Beach,916,3,150000,California
+Oakland,589,2,138800,California
+Santa Ana,104,3,139200,California
+Fresno,696,4,143800,California
+San Diego,304,5,156500,California
+Bakersfield,106,4,151000,California
+San Jose,446,2,273000,California
+Oakland,451,4,217100,California
+Santa Ana,86,5,187100,California
+Los Angeles,687,3,239600,California
+Fresno,480,2,229700,California
+Fresno,139,2,257300,California
+Long Beach,1130,3,246900,California
+Fresno,494,4,179900,California
+Oakland,76,2,169600,California
+Sacramento,534,3,203300,California
+San Diego,508,3,263400,California
+Los Angeles,198,2,231800,California
+Los Angeles,805,5,140500,California
+San Diego,278,5,126000,California
+Los Angeles,107,5,122000,California
+San Diego,572,3,134700,California
+Long Beach,510,5,139400,California
+Los Angeles,117,2,115400,California
+San Francisco,606,2,137300,California
+San Diego,503,3,137000,California
+San Diego,130,2,142600,California
+Fresno,465,5,137500,California
+Santa Ana,577,4,111700,California
+Bakersfield,143,2,126800,California
+San Jose,901,2,111300,California
+Bakersfield,650,5,114800,California
+Bakersfield,100,5,102300,California
+San Jose,847,3,131900,California
+San Francisco,403,2,119100,California
+Sacramento,123,5,80600,California
+San Francisco,611,3,80600,California
+Oakland,1074,2,88800,California
+San Francisco,145,2,102400,California
+San Diego,526,2,98700,California
+Oakland,322,4,1.00E+05,California
+San Francisco,169,4,92300,California
+Santa Ana,841,3,94800,California
+Oakland,342,2,102000,California
+Santa Ana,139,5,158400,California
+Sacramento,447,3,121600,California
+San Diego,292,5,129100,California
+San Jose,198,4,121400,California
+Bakersfield,801,3,102800,California
+Santa Ana,610,4,160000,California
+Oakland,210,3,143900,California
+Fresno,831,4,151200,California
+Los Angeles,283,2,164400,California
+San Francisco,85,2,156500,California
+San Diego,834,2,225000,California
+Fresno,495,2,174200,California
+Los Angeles,141,4,166900,California
+San Francisco,320,3,163500,California
+Santa Ana,331,2,253000,California
+San Diego,166,3,240700,California
+San Jose,598,2,208100,California
+San Francisco,373,4,198100,California
+San Francisco,110,4,172800,California
+Santa Ana,559,2,336700,California
+San Diego,320,5,318200,California
+Los Angeles,112,3,285800,California
+San Jose,744,4,293000,California
+Bakersfield,308,2,371000,California
+Long Beach,153,4,157300,California
+Bakersfield,648,3,135300,California
+Bakersfield,549,5,136700,California
+Sacramento,86,5,160700,California
+San Jose,846,2,140600,California
+Sacramento,285,5,144000,California
+Sacramento,265,2,161900,California
+Santa Ana,833,2,156300,California
+Long Beach,816,2,176000,California
+Oakland,213,2,145800,California
+Bakersfield,1089,4,141900,California
+Los Angeles,780,3,90700,California
+San Diego,190,3,90600,California
+Long Beach,826,3,107900,California
+San Francisco,345,4,107000,California
+Bakersfield,119,2,98200,California
+Oakland,901,3,89500,California
+Los Angeles,385,3,93800,California
+San Diego,54,2,96700,California
+San Francisco,554,3,97500,California
+San Francisco,376,2,97300,California
+San Jose,118,2,91200,California
+Bakersfield,522,3,91400,California
+Fresno,317,4,96200,California
+Sacramento,165,2,120100,California
+San Diego,958,4,1.00E+05,California
+Los Angeles,428,5,94700,California
+Los Angeles,156,2,85700,California
+Fresno,517,3,89300,California
+San Diego,683,2,101400,California
+San Diego,169,5,72500,California
+San Francisco,673,3,74100,California
+Fresno,405,3,70000,California
+San Jose,144,3,84600,California
+Bakersfield,984,4,81800,California
+San Francisco,631,2,81400,California
+San Francisco,191,2,81800,California
+Los Angeles,1009,5,85800,California
+Long Beach,421,2,87100,California
+Los Angeles,143,2,83500,California
+Sacramento,912,5,79700,California
+Long Beach,448,4,83400,California
+Bakersfield,109,2,84700,California
+Bakersfield,473,3,80000,California
+Long Beach,371,2,76400,California
+Oakland,109,3,79700,California
+San Diego,315,5,82400,California
+Los Angeles,364,3,97700,California
+Sacramento,109,2,97200,California
+Santa Ana,437,2,101600,California
+Fresno,396,2,86500,California
+Long Beach,83,2,90500,California
+San Diego,1216,5,107600,California
+Fresno,425,4,84200,California
+San Diego,148,2,88900,California
+San Jose,902,2,80700,California
+Bakersfield,599,2,87100,California
+Bakersfield,88,3,85100,California
+Santa Ana,717,3,82000,California
+Oakland,901,4,82800,California
+San Jose,161,3,84600,California
+San Francisco,1142,4,82100,California
+Long Beach,543,2,89300,California
+Oakland,175,2,98300,California
+Sacramento,737,5,92300,California
+Long Beach,841,2,88800,California
+San Francisco,166,2,90000,California
+Long Beach,739,2,95500,California
+San Jose,578,5,91700,California
+Sacramento,138,4,100400,California
+Oakland,859,2,94800,California
+Bakersfield,545,5,164300,California
+Long Beach,157,2,155500,California
+Sacramento,735,4,196900,California
+Bakersfield,505,4,279100,California
+Santa Ana,119,5,252800,California
+San Jose,797,3,275400,California
+San Francisco,494,2,250000,California
+Sacramento,117,2,329800,California
+Santa Ana,992,2,195500,California
+Santa Ana,481,3,255900,California
+Sacramento,136,2,311100,California
+Sacramento,1117,3,330000,California
+San Jose,682,2,248900,California
+Fresno,153,5,142900,California
+Los Angeles,967,2,126300,California
+Long Beach,784,4,135800,California
+Oakland,159,4,130600,California
+Fresno,706,3,107900,California
+San Jose,534,3,111100,California
+San Francisco,205,2,122000,California
+Long Beach,836,4,118000,California
+Bakersfield,891,5,95200,California
+Fresno,147,2,94300,California
+Oakland,854,2,92500,California
+Sacramento,841,3,91800,California
+Santa Ana,160,2,109400,California
+San Francisco,685,3,129500,California
+Bakersfield,623,3,143400,California
+Oakland,188,3,98200,California
+San Diego,968,3,103100,California
+Santa Ana,625,5,276800,California
+San Jose,181,5,270900,California
+Sacramento,811,5,246200,California
+San Jose,372,5,224200,California
+San Diego,119,4,229100,California
+San Diego,675,5,211600,California
+Long Beach,706,4,256100,California
+Long Beach,179,4,206300,California
+Fresno,501,4,221300,California
+Santa Ana,342,2,207400,California
+Oakland,118,4,350000,California
+San Francisco,525,4,218200,California
+Oakland,288,4,216700,California
+Long Beach,86,5,270600,California
+Bakersfield,432,3,261400,California
+Fresno,288,4,261300,California
+Los Angeles,86,4,232200,California
+Oakland,494,4,375400,California
+San Jose,455,2,357300,California
+Long Beach,130,2,374400,California
+Sacramento,494,4,358800,California
+San Jose,329,3,417500,California
+Los Angeles,130,4,430500,California
+San Francisco,479,3,362900,California
+Sacramento,516,2,397000,California
+Los Angeles,146,5,346800,California
+Fresno,528,3,327100,California
+Sacramento,441,3,290100,California
+San Diego,146,3,292000,California
+Oakland,774,5,270900,California
+San Francisco,480,2,371100,California
+Bakersfield,146,5,335600,California
+San Francisco,418,2,371300,California
+Los Angeles,297,2,344000,California
+Oakland,112,4,342200,California
+San Jose,859,4,370900,California
+Sacramento,924,2,350000,California
+Fresno,314,2,368600,California
+Oakland,1201,4,391800,California
+San Francisco,551,2,415300,California
+San Diego,160,4,284900,California
+Long Beach,1021,5,287500,California
+Sacramento,897,3,272900,California
+San Jose,218,2,259600,California
+Bakersfield,1010,2,254500,California
+Oakland,673,4,235600,California
+San Jose,230,5,218400,California
+Los Angeles,1337,3,229200,California
+San Jose,941,4,192100,California
+Long Beach,174,3,179300,California
+San Francisco,891,2,187500,California
+San Diego,840,3,138800,California
+San Francisco,172,4,150000,California
+Los Angeles,872,3,140600,California
+San Diego,571,4,120000,California
+San Diego,153,4,144800,California
+Long Beach,904,2,144800,California
+Bakersfield,741,3,245500,California
+Sacramento,184,5,2.00E+05,California
+Santa Ana,815,2,173700,California
+Oakland,587,3,185600,California
+Long Beach,150,3,182600,California
+San Francisco,1196,5,227900,California
+San Jose,817,3,220700,California
+San Jose,240,5,212000,California
+Long Beach,803,3,271400,California
+Los Angeles,453,2,268800,California
+San Diego,131,5,277800,California
+Fresno,653,3,332500,California
+Long Beach,453,5,338900,California
+Long Beach,131,2,287500,California
+Oakland,1246,5,384600,California
+Fresno,733,3,371400,California
+Los Angeles,188,2,350000,California
+Bakersfield,728,5,500001,California
+Santa Ana,571,5,175000,California
+Santa Ana,132,4,241700,California
+Oakland,703,3,216700,California
+Bakersfield,542,2,211300,California
+Sacramento,146,4,210200,California
+Long Beach,745,3,196400,California
+Sacramento,495,5,191700,California
+San Francisco,156,4,182300,California
+Oakland,778,3,175000,California
+Los Angeles,523,4,165900,California
+San Jose,156,4,156900,California
+Bakersfield,752,2,164300,California
+Bakersfield,407,5,150000,California
+Los Angeles,115,3,150500,California
+Oakland,716,4,169900,California
+Fresno,756,2,147400,California
+San Jose,137,2,152700,California
+Bakersfield,815,4,182700,California
+San Jose,473,3,179300,California
+Santa Ana,159,4,157700,California
+Long Beach,745,3,153100,California
+Los Angeles,447,3,250000,California
+San Jose,131,3,206300,California
+San Diego,1128,5,218800,California
+Long Beach,668,2,198200,California
+Bakersfield,205,5,253600,California
+Long Beach,687,3,257400,California
+Santa Ana,600,2,289500,California
+Long Beach,151,5,241700,California
+Santa Ana,715,5,489600,California
+Santa Ana,771,2,446200,California
+Sacramento,168,5,456300,California
+Los Angeles,1030,2,336800,California
+San Francisco,477,5,500001,California
+Long Beach,237,3,500001,California
+San Diego,1397,3,376900,California
+Los Angeles,896,5,309600,California
+Santa Ana,245,4,182300,California
+Oakland,1306,4,172700,California
+Oakland,781,2,150800,California
+Sacramento,206,3,153600,California
+Oakland,1323,5,106300,California
+Sacramento,687,5,142300,California
+Santa Ana,223,3,119400,California
+Sacramento,1224,4,147900,California
+Bakersfield,617,4,132900,California
+Santa Ana,147,4,132500,California
+Long Beach,848,4,126900,California
+Oakland,553,3,143800,California
+Santa Ana,158,2,500001,California
+San Francisco,851,5,500001,California
+Los Angeles,477,2,500001,California
+Oakland,197,5,500001,California
+San Francisco,1245,4,466100,California
+Oakland,617,5,500001,California
+Bakersfield,159,5,457800,California
+San Francisco,609,5,471600,California
+San Jose,479,2,500001,California
+Oakland,131,3,398600,California
+Sacramento,701,3,340700,California
+Bakersfield,510,5,289900,California
+Los Angeles,177,5,335300,California
+Long Beach,724,4,333000,California
+Fresno,669,3,241000,California
+San Francisco,180,2,189600,California
+Fresno,977,5,206300,California
+Fresno,517,4,215700,California
+San Jose,184,2,210200,California
+Santa Ana,831,2,208800,California
+Los Angeles,698,4,197900,California
+Sacramento,122,5,201300,California
+San Francisco,777,5,190800,California
+Fresno,551,3,207900,California
+San Diego,122,2,215300,California
+Los Angeles,571,2,212900,California
+Sacramento,386,3,292700,California
+Sacramento,181,3,275000,California
+Bakersfield,756,3,2.00E+05,California
+Bakersfield,400,3,173400,California
+Fresno,111,2,102200,California
+San Jose,557,4,220800,California
+Sacramento,371,4,242800,California
+San Francisco,145,3,265400,California
+San Francisco,1061,5,219000,California
+Los Angeles,615,5,282100,California
+Oakland,143,4,372000,California
+Fresno,865,4,225800,California
+Oakland,406,5,220800,California
+Santa Ana,133,5,234500,California
+Santa Ana,770,4,254200,California
+Long Beach,467,3,351800,California
+Los Angeles,188,4,275000,California
+Fresno,421,5,405400,California
+Fresno,261,5,228100,California
+Long Beach,98,5,234000,California
+San Diego,490,4,162500,California
+San Jose,288,3,243400,California
+San Diego,86,5,273800,California
+Sacramento,510,3,248500,California
+Bakersfield,304,5,244000,California
+Oakland,114,4,240900,California
+San Jose,432,3,306300,California
+Long Beach,304,5,240000,California
+Los Angeles,201,4,247100,California
+Long Beach,878,5,286600,California
+Fresno,1002,3,266700,California
+Santa Ana,122,5,229800,California
+Long Beach,612,5,229300,California
+Bakersfield,575,3,228400,California
+Sacramento,126,2,206200,California
+Santa Ana,736,3,350700,California
+Santa Ana,504,4,231000,California
+Sacramento,145,5,252900,California
+San Francisco,870,2,353900,California
+Oakland,565,2,291700,California
+Sacramento,123,5,1.00E+05,California
+Long Beach,870,4,341600,California
+Long Beach,833,5,412500,California
+Fresno,162,3,248600,California
+Fresno,778,2,254900,California
+Long Beach,481,2,241500,California
+San Jose,149,5,295200,California
+Sacramento,1045,4,340400,California
+San Francisco,689,4,274700,California
+Bakersfield,140,5,238600,California
+Oakland,1320,4,266400,California
+Fresno,575,2,330200,California
+Long Beach,134,3,206800,California
+Santa Ana,608,3,209200,California
+Bakersfield,763,4,195800,California
+San Francisco,133,4,253500,California
+Bakersfield,840,5,241800,California
+Long Beach,555,4,252500,California
+San Francisco,86,5,263900,California
+San Diego,784,4,227000,California
+Bakersfield,308,3,220900,California
+Long Beach,206,2,259300,California
+Bakersfield,660,4,232500,California
+Oakland,447,5,231600,California
+Oakland,89,5,209400,California
+San Jose,432,5,223200,California
+Los Angeles,288,3,209900,California
+Sacramento,136,5,208200,California
+Los Angeles,864,2,203800,California
+Fresno,592,4,195700,California
+Bakersfield,152,4,190500,California
+Bakersfield,657,4,181000,California
+San Diego,431,3,184900,California
+Oakland,115,2,190800,California
+Long Beach,1070,3,242200,California
+San Francisco,482,4,188300,California
+San Diego,104,2,183500,California
+San Jose,788,3,204200,California
+San Francisco,320,2,251900,California
+Santa Ana,71,3,187500,California
+Oakland,602,3,198200,California
+Santa Ana,502,5,219000,California
+San Jose,169,4,275000,California
+Long Beach,822,3,245400,California
+Santa Ana,350,3,177500,California
+Fresno,167,3,171600,California
+Oakland,557,3,183300,California
+Santa Ana,528,3,175000,California
+San Diego,145,5,156700,California
+Long Beach,697,5,157500,California
+Santa Ana,522,4,179800,California
+Long Beach,199,2,205500,California
+Sacramento,1071,2,178900,California
+Oakland,464,4,262500,California
+Long Beach,174,4,165000,California
+San Diego,572,4,159700,California
+San Jose,493,5,158300,California
+Los Angeles,133,4,144800,California
+Bakersfield,494,3,166300,California
+San Jose,544,2,191000,California
+Fresno,122,2,175000,California
+Bakersfield,601,4,137500,California
+Santa Ana,461,3,141700,California
+San Diego,120,5,210900,California
+San Francisco,691,5,198300,California
+San Francisco,432,3,157400,California
+San Diego,187,5,264700,California
+Bakersfield,531,4,218400,California
+Long Beach,440,5,235100,California
+Long Beach,111,5,341800,California
+San Diego,503,2,367300,California
+San Jose,454,4,243500,California
+Oakland,79,5,167900,California
+Los Angeles,516,4,371200,California
+Oakland,403,5,218900,California
+Long Beach,170,2,202700,California
+San Jose,764,2,186200,California
+Bakersfield,400,4,188900,California
+Los Angeles,97,4,180000,California
+Oakland,396,5,202700,California
+Oakland,552,3,181700,California
+San Francisco,135,3,166800,California
+Los Angeles,520,5,183700,California
+Long Beach,264,4,218000,California
+Bakersfield,108,3,191500,California
+Los Angeles,1189,4,194700,California
+Los Angeles,563,4,187200,California
+San Diego,60,3,223100,California
+San Diego,687,4,271300,California
+Sacramento,282,4,194100,California
+Bakersfield,73,2,190400,California
+Bakersfield,1272,4,189100,California
+Fresno,460,2,184600,California
+Santa Ana,104,3,197300,California
+San Francisco,1317,5,192600,California
+Oakland,317,5,192200,California
+Oakland,111,2,194600,California
+San Diego,653,4,193500,California
+San Diego,493,4,202600,California
+Fresno,114,3,83300,California
+Long Beach,634,5,212600,California
+Sacramento,347,5,187800,California
+Sacramento,113,3,205700,California
+Oakland,520,2,192900,California
+Bakersfield,635,3,205200,California
+Fresno,104,4,213400,California
+San Diego,670,4,183600,California
+San Diego,244,4,178400,California
+San Francisco,118,3,219200,California
+San Jose,574,2,183100,California
+San Diego,487,3,157100,California
+Bakersfield,150,5,157800,California
+Santa Ana,903,4,161700,California
+San Francisco,314,3,152100,California
+San Jose,105,4,144900,California
+San Francisco,447,5,179900,California
+Long Beach,408,4,179100,California
+Los Angeles,123,2,159900,California
+San Diego,689,3,161400,California
+Fresno,648,3,170400,California
+Fresno,113,3,137500,California
+Sacramento,653,5,178400,California
+Oakland,488,5,155200,California
+San Francisco,156,3,160900,California
+Bakersfield,1186,5,167300,California
+Oakland,567,3,340000,California
+Bakersfield,196,2,431000,California
+Oakland,695,2,301100,California
+San Diego,482,4,241900,California
+San Diego,94,5,162500,California
+San Diego,664,2,299200,California
+San Francisco,462,4,315500,California
+Long Beach,86,4,216800,California
+Santa Ana,306,3,218100,California
+Los Angeles,323,5,170300,California
+Oakland,89,4,275000,California
+Long Beach,396,3,184100,California
+Los Angeles,484,2,160000,California
+Santa Ana,151,5,175000,California
+San Francisco,642,2,197500,California
+Santa Ana,713,5,150000,California
+San Diego,264,5,205600,California
+Sacramento,1004,3,170300,California
+Long Beach,429,2,190900,California
+Sacramento,174,4,196900,California
+San Diego,408,3,174000,California
+San Jose,494,5,170200,California
+San Francisco,102,5,180900,California
+Oakland,935,5,150500,California
+San Francisco,493,3,167100,California
+Oakland,152,4,148900,California
+Oakland,360,2,196400,California
+Oakland,266,5,191100,California
+Oakland,158,2,187500,California
+Long Beach,716,3,180600,California
+Long Beach,516,4,182800,California
+Los Angeles,165,2,179300,California
+Fresno,476,2,179400,California
+Santa Ana,441,4,210300,California
+Los Angeles,118,4,192300,California
+San Jose,674,3,198100,California
+Santa Ana,471,5,196200,California
+Bakersfield,114,2,181600,California
+Bakersfield,452,5,186900,California
+Long Beach,434,4,188300,California
+Long Beach,154,4,184000,California
+Oakland,787,4,184700,California
+Oakland,267,5,179900,California
+Los Angeles,88,2,167200,California
+Bakersfield,498,4,165400,California
+Santa Ana,527,4,154000,California
+Long Beach,107,2,153500,California
+San Francisco,1067,3,135400,California
+Long Beach,673,2,158300,California
+San Jose,177,3,240700,California
+Los Angeles,913,5,180700,California
+Sacramento,648,3,230600,California
+San Francisco,223,2,210800,California
+Fresno,1064,4,165300,California
+Oakland,643,2,254200,California
+San Diego,121,3,332600,California
+Long Beach,714,3,350000,California
+Long Beach,621,2,161200,California
+Sacramento,167,3,179300,California
+Long Beach,446,2,154300,California
+Bakersfield,468,5,161800,California
+San Jose,70,2,161900,California
+San Diego,600,5,165400,California
+Los Angeles,400,3,166600,California
+Santa Ana,115,3,149700,California
+San Francisco,452,5,162100,California
+Fresno,456,3,152600,California
+Fresno,111,5,195200,California
+Santa Ana,732,3,190600,California
+Sacramento,374,5,193800,California
+Bakersfield,168,4,200600,California
+San Francisco,526,2,150000,California
+San Francisco,300,5,185300,California
+San Jose,103,2,172700,California
+Bakersfield,429,2,174100,California
+Sacramento,287,5,194400,California
+Oakland,109,2,206700,California
+Santa Ana,887,4,204500,California
+San Francisco,379,5,175000,California
+San Jose,207,3,137500,California
+Fresno,330,2,187200,California
+Santa Ana,596,2,173600,California
+Sacramento,147,4,163000,California
+San Francisco,615,4,331600,California
+Oakland,287,2,197600,California
+Sacramento,187,2,197900,California
+Fresno,867,5,228100,California
+Long Beach,461,3,189500,California
+Oakland,169,5,184200,California
+Long Beach,537,5,180900,California
+San Jose,425,4,172000,California
+Long Beach,164,5,177900,California
+Oakland,336,2,173100,California
+Los Angeles,363,5,172600,California
+San Jose,85,2,182100,California
+Bakersfield,525,4,179500,California
+San Jose,572,2,176000,California
+Bakersfield,126,5,192600,California
+Sacramento,755,3,182700,California
+Santa Ana,354,3,134900,California
+Santa Ana,134,4,157600,California
+Bakersfield,1066,2,190900,California
+Sacramento,732,5,158200,California
+Fresno,178,5,350000,California
+Santa Ana,940,4,158200,California
+San Francisco,673,2,146100,California
+San Francisco,202,4,226700,California
+San Diego,768,4,198700,California
+Oakland,408,2,221200,California
+Los Angeles,223,4,208500,California
+San Francisco,768,4,204200,California
+Oakland,512,4,193200,California
+San Diego,224,4,209500,California
+Santa Ana,615,4,164900,California
+Fresno,504,3,161400,California
+Los Angeles,279,4,187000,California
+Bakersfield,1394,3,190400,California
+Santa Ana,929,4,156600,California
+Santa Ana,168,5,157300,California
+Oakland,859,3,168100,California
+San Diego,543,2,177600,California
+Long Beach,172,5,208900,California
+Oakland,734,5,169200,California
+San Jose,589,2,163900,California
+Oakland,184,4,164700,California
+Bakersfield,900,5,156900,California
+San Diego,535,5,168800,California
+San Diego,129,2,174100,California
+Fresno,627,3,206500,California
+Oakland,411,2,203900,California
+Bakersfield,150,3,217000,California
+Santa Ana,711,5,159600,California
+Oakland,548,3,159800,California
+San Jose,176,2,154300,California
+Sacramento,1063,2,149600,California
+San Francisco,347,5,188600,California
+San Francisco,99,3,238500,California
+Bakersfield,882,5,235300,California
+San Diego,554,4,261400,California
+San Francisco,146,2,234400,California
+Los Angeles,549,3,231700,California
+Los Angeles,330,2,156300,California
+Los Angeles,178,5,222000,California
+Sacramento,751,5,254400,California
+San Francisco,477,3,244300,California
+San Diego,177,5,247000,California
+Oakland,830,4,236500,California
+San Diego,524,3,151400,California
+San Diego,184,3,213700,California
+Oakland,715,4,243600,California
+Bakersfield,481,2,212500,California
+Sacramento,149,3,214700,California
+Sacramento,520,5,213200,California
+Long Beach,302,4,256000,California
+Santa Ana,91,4,237500,California
+San Francisco,520,2,178100,California
+Santa Ana,288,4,231800,California
+San Francisco,127,2,147900,California
+San Jose,432,2,191700,California
+Fresno,298,4,247600,California
+San Diego,77,2,283500,California
+San Jose,384,2,216900,California
+Los Angeles,537,4,282500,California
+Fresno,218,5,295600,California
+San Francisco,894,2,281800,California
+San Francisco,624,2,269800,California
+San Francisco,215,2,231200,California
+San Jose,863,5,318300,California
+Santa Ana,623,5,253400,California
+San Francisco,151,5,278200,California
+San Diego,752,3,3.00E+05,California
+Fresno,609,3,273500,California
+Fresno,142,3,223400,California
+Oakland,1017,5,214500,California
+San Diego,572,3,220200,California
+Long Beach,121,4,240300,California
+Oakland,815,4,158000,California
+Oakland,283,3,224200,California
+Long Beach,85,5,177200,California
+Fresno,801,2,216100,California
+San Diego,576,5,269700,California
+San Francisco,150,4,231200,California
+Santa Ana,738,2,162500,California
+San Francisco,465,4,254000,California
+San Francisco,113,4,196200,California
+Fresno,743,4,189400,California
+Oakland,272,2,220800,California
+Long Beach,192,5,213800,California
+Bakersfield,713,3,442900,California
+Sacramento,383,4,333400,California
+San Francisco,113,4,352400,California
+Oakland,849,5,305300,California
+Long Beach,357,5,259600,California
+Los Angeles,70,2,248900,California
+Oakland,438,2,356000,California
+Santa Ana,456,2,236000,California
+San Francisco,153,5,218800,California
+Bakersfield,432,4,228000,California
+San Jose,315,4,235900,California
+Sacramento,168,5,203200,California
+Santa Ana,780,5,197000,California
+Fresno,320,5,236400,California
+Santa Ana,120,2,223200,California
+Santa Ana,649,2,222700,California
+Fresno,535,5,225000,California
+San Jose,127,3,240100,California
+San Jose,760,5,227900,California
+San Jose,146,4,268600,California
+Long Beach,149,4,275100,California
+Sacramento,1541,3,256300,California
+Long Beach,414,5,332400,California
+Oakland,198,2,287600,California
+Oakland,616,4,298900,California
+Fresno,536,2,287600,California
+Long Beach,114,5,222200,California
+Los Angeles,957,5,232600,California
+Oakland,492,2,258300,California
+Bakersfield,123,4,230900,California
+Oakland,1040,3,196900,California
+Fresno,522,4,223500,California
+Los Angeles,149,4,223900,California
+Oakland,654,5,243500,California
+Oakland,424,4,451100,California
+San Francisco,96,3,500001,California
+San Francisco,672,2,193100,California
+Santa Ana,827,4,264400,California
+Los Angeles,111,5,246900,California
+Santa Ana,782,5,337300,California
+Oakland,520,4,284800,California
+San Jose,152,3,217300,California
+Los Angeles,576,3,291700,California
+Long Beach,635,5,223800,California
+Fresno,103,5,223100,California
+Bakersfield,615,5,211300,California
+Santa Ana,410,3,218500,California
+Fresno,123,5,156300,California
+San Francisco,991,4,248200,California
+Los Angeles,788,4,186000,California
+San Jose,168,3,178200,California
+Sacramento,672,2,190400,California
+Long Beach,723,5,210300,California
+Santa Ana,119,5,208000,California
+Santa Ana,763,2,183300,California
+Long Beach,191,2,245700,California
+Oakland,165,3,242200,California
+Sacramento,405,2,181700,California
+Long Beach,684,3,299400,California
+Fresno,215,3,219500,California
+Los Angeles,855,4,231800,California
+Los Angeles,654,4,221300,California
+Fresno,93,4,213800,California
+San Francisco,644,5,206000,California
+Sacramento,578,4,271100,California
+San Francisco,122,3,336500,California
+San Diego,798,3,315600,California
+Bakersfield,448,3,500001,California
+San Francisco,204,4,285400,California
+Bakersfield,810,4,323000,California
+Fresno,564,4,291900,California
+Long Beach,204,2,225600,California
+Los Angeles,821,4,259600,California
+Fresno,489,2,262900,California
+San Francisco,141,4,257300,California
+San Jose,1119,3,259200,California
+San Diego,493,5,339700,California
+Los Angeles,130,5,337200,California
+Oakland,1007,2,334100,California
+Los Angeles,613,2,311500,California
+Long Beach,198,2,296900,California
+San Francisco,504,4,247900,California
+San Diego,590,5,300400,California
+Bakersfield,120,2,332400,California
+San Francisco,612,3,389800,California
+Fresno,329,5,233000,California
+Long Beach,87,2,238500,California
+Los Angeles,315,4,233300,California
+San Diego,468,5,231300,California
+Sacramento,63,4,475800,California
+Oakland,672,5,393200,California
+Fresno,364,4,247200,California
+Bakersfield,80,5,229400,California
+Sacramento,546,3,282500,California
+Long Beach,370,5,300600,California
+Los Angeles,83,4,293200,California
+Fresno,442,3,278500,California
+Oakland,454,2,352900,California
+San Jose,129,4,4.00E+05,California
+Bakersfield,784,5,375000,California
+Los Angeles,544,3,313700,California
+Bakersfield,141,3,139300,California
+Oakland,1059,2,327500,California
+San Diego,704,3,430600,California
+Bakersfield,160,2,125000,California
+Fresno,735,3,450000,California
+San Francisco,535,4,200200,California
+San Diego,164,4,192400,California
+San Jose,818,3,418800,California
+San Diego,461,3,216800,California
+San Francisco,145,5,215500,California
+San Francisco,797,5,227700,California
+Sacramento,561,2,184400,California
+Santa Ana,134,5,158400,California
+Fresno,640,3,174600,California
+San Diego,535,4,168400,California
+Santa Ana,163,3,188400,California
+Los Angeles,829,4,256700,California
+Oakland,632,2,183800,California
+Los Angeles,171,5,183400,California
+San Jose,614,3,177500,California
+Los Angeles,446,4,186900,California
+San Jose,250,2,238900,California
+Long Beach,1252,5,172500,California
+Bakersfield,628,3,179200,California
+San Diego,147,4,204400,California
+Fresno,855,3,209400,California
+Bakersfield,496,2,264200,California
+San Diego,209,4,350000,California
+Fresno,844,4,199800,California
+San Francisco,474,5,211000,California
+San Jose,126,5,201100,California
+San Jose,1032,4,193000,California
+Santa Ana,594,2,245000,California
+San Jose,287,5,117600,California
+Sacramento,606,4,97900,California
+San Diego,375,3,140600,California
+Oakland,204,3,120900,California
+Santa Ana,654,3,119000,California
+Sacramento,947,4,129200,California
+Los Angeles,152,2,99100,California
+Long Beach,722,2,108900,California
+San Francisco,655,3,111700,California
+Santa Ana,118,3,68900,California
+San Jose,1170,5,96400,California
+San Francisco,597,4,116700,California
+San Francisco,105,3,123800,California
+Sacramento,468,3,97900,California
+San Jose,288,2,129800,California
+San Diego,86,4,121300,California
+Oakland,669,2,107200,California
+San Jose,329,4,121900,California
+Oakland,99,4,113400,California
+Sacramento,494,4,99100,California
+Oakland,329,4,103000,California
+Bakersfield,99,3,114200,California
+Sacramento,494,3,144100,California
+Santa Ana,434,5,128600,California
+Fresno,107,5,157200,California
+Santa Ana,728,5,118500,California
+Santa Ana,352,2,116700,California
+San Francisco,89,2,134800,California
+Los Angeles,966,5,109900,California
+Santa Ana,777,5,144300,California
+Santa Ana,208,5,123600,California
+San Francisco,1357,4,112600,California
+Sacramento,527,3,107300,California
+Oakland,171,2,117800,California
+Santa Ana,1232,3,89900,California
+Bakersfield,650,3,102300,California
+Long Beach,275,5,87300,California
+San Francisco,1395,3,142600,California
+San Jose,777,5,153100,California
+Los Angeles,209,2,126600,California
+Santa Ana,1166,4,118300,California
+Santa Ana,823,4,147000,California
+Oakland,267,3,78100,California
+Long Beach,1023,3,85800,California
+Los Angeles,525,3,84500,California
+Bakersfield,265,2,137500,California
+Long Beach,1345,4,88900,California
+San Diego,622,2,120200,California
+Long Beach,170,3,74500,California
+San Jose,684,4,85100,California
+Santa Ana,506,5,130300,California
+San Diego,168,2,125200,California
+Oakland,900,2,111400,California
+Oakland,447,3,97000,California
+Santa Ana,134,5,122600,California
+San Francisco,813,4,116300,California
+San Francisco,542,2,179200,California
+Fresno,136,3,85800,California
+San Diego,728,5,94800,California
+Sacramento,525,2,2.00E+05,California
+Bakersfield,150,2,112500,California
+Los Angeles,633,4,69000,California
+Bakersfield,415,5,55000,California
+Fresno,152,4,77900,California
+Bakersfield,797,4,98800,California
+Long Beach,389,4,78700,California
+Fresno,146,4,81300,California
+San Jose,860,3,60300,California
+Santa Ana,662,4,66300,California
+San Francisco,136,3,116700,California
+Los Angeles,896,4,159700,California
+Santa Ana,631,3,139200,California
+San Diego,149,4,89600,California
+Los Angeles,707,3,153100,California
+Long Beach,774,3,87500,California
+Santa Ana,165,4,158600,California
+San Diego,1100,5,95100,California
+San Francisco,877,3,93800,California
+San Jose,220,2,95300,California
+Los Angeles,1086,4,141300,California
+Oakland,669,2,67500,California
+San Diego,213,4,73000,California
+Fresno,1251,3,119600,California
+Bakersfield,704,5,93200,California
+San Francisco,242,2,117900,California
+Oakland,1099,2,97200,California
+San Diego,709,4,97600,California
+Long Beach,199,2,95300,California
+San Francisco,790,3,107700,California
+Sacramento,644,4,102900,California
+San Francisco,157,5,88300,California
+San Francisco,789,5,86500,California
+San Diego,502,5,58000,California
+Sacramento,156,4,84000,California
+Sacramento,714,5,89500,California
+San Jose,620,3,93400,California
+San Jose,187,3,115200,California
+San Francisco,730,3,105700,California
+Santa Ana,457,4,97300,California
+Fresno,137,5,108600,California
+Fresno,714,4,104900,California
+Long Beach,589,4,110200,California
+Fresno,199,3,103800,California
+Fresno,979,5,80800,California
+San Francisco,693,2,87300,California
+Oakland,167,4,85500,California
+Los Angeles,830,4,85000,California
+San Diego,406,4,93500,California
+Los Angeles,173,4,96700,California
+Long Beach,540,4,109700,California
+Los Angeles,565,4,85800,California
+San Diego,166,5,92800,California
+Bakersfield,588,5,70500,California
+San Diego,371,2,121800,California
+San Jose,111,2,102600,California
+San Francisco,820,5,101200,California
+Long Beach,387,2,168300,California
+Los Angeles,161,2,126100,California
+San Jose,840,2,83800,California
+Long Beach,560,3,92600,California
+Los Angeles,166,2,111200,California
+Sacramento,839,3,87500,California
+Long Beach,579,3,87500,California
+San Francisco,129,5,94700,California
+Los Angeles,855,5,62500,California
+San Jose,539,5,83300,California
+San Francisco,120,5,85700,California
+Fresno,492,5,79500,California
+Los Angeles,304,4,53600,California
+San Jose,86,5,65200,California
+Fresno,445,4,84100,California
+Los Angeles,288,2,142300,California
+Long Beach,91,3,93800,California
+Santa Ana,715,3,90800,California
+Fresno,547,2,91800,California
+Fresno,268,5,97500,California
+Long Beach,1393,4,91200,California
+Sacramento,464,4,73800,California
+Sacramento,125,5,86400,California
+Sacramento,623,3,62100,California
+Fresno,400,2,72200,California
+Sacramento,139,5,57600,California
+San Jose,696,4,58300,California
+Bakersfield,500,3,51700,California
+Sacramento,155,2,57900,California
+Los Angeles,819,4,53100,California
+Long Beach,437,5,56100,California
+Fresno,142,3,58000,California
+Fresno,779,5,56700,California
+Bakersfield,570,3,57600,California
+San Francisco,125,5,63300,California
+Los Angeles,702,5,59800,California
+San Diego,596,5,65200,California
+San Francisco,159,3,42500,California
+Sacramento,804,3,45100,California
+Bakersfield,798,3,39400,California
+Sacramento,129,2,50300,California
+Sacramento,620,2,53800,California
+Bakersfield,573,4,53900,California
+Los Angeles,123,2,41800,California
+Santa Ana,1472,2,88900,California
+Los Angeles,557,4,82600,California
+Fresno,181,2,63600,California
+Sacramento,841,5,59400,California
+Los Angeles,476,5,60600,California
+Oakland,174,3,57100,California
+Santa Ana,629,4,49000,California
+Fresno,540,4,80400,California
+Santa Ana,163,3,96200,California
+San Jose,1307,3,60000,California
+Santa Ana,488,2,61300,California
+San Francisco,91,5,73800,California
+Santa Ana,463,4,86300,California
+Los Angeles,576,4,86400,California
+San Francisco,173,2,84600,California
+San Jose,828,5,73500,California
+San Diego,557,4,56200,California
+Los Angeles,272,2,57000,California
+Bakersfield,938,2,63900,California
+Fresno,544,5,56000,California
+Los Angeles,100,3,63000,California
+San Jose,989,2,85500,California
+San Jose,338,2,81300,California
+Long Beach,91,2,57600,California
+Los Angeles,476,5,59400,California
+San Jose,376,2,81900,California
+Los Angeles,143,2,82100,California
+San Jose,583,2,116000,California
+San Jose,379,4,116100,California
+Fresno,109,4,94900,California
+Bakersfield,633,5,92200,California
+Santa Ana,450,2,79900,California
+Bakersfield,111,5,133000,California
+San Francisco,527,2,122600,California
+Santa Ana,417,4,90400,California
+Fresno,110,5,93200,California
+Oakland,559,5,125900,California
+San Diego,240,5,133100,California
+San Jose,73,3,130600,California
+Bakersfield,539,3,104000,California
+Oakland,302,5,101600,California
+Santa Ana,150,5,92600,California
+San Francisco,626,4,122300,California
+Santa Ana,446,4,112500,California
+San Jose,166,3,86600,California
+San Jose,518,5,77400,California
+Long Beach,607,4,91900,California
+Sacramento,136,5,100900,California
+San Jose,572,5,94700,California
+Los Angeles,512,4,84800,California
+Sacramento,143,2,139900,California
+San Jose,994,3,121400,California
+Bakersfield,366,5,155800,California
+Oakland,114,3,111500,California
+Oakland,642,3,123500,California
+Fresno,392,3,113700,California
+Los Angeles,144,5,103800,California
+San Francisco,631,2,108300,California
+Long Beach,523,2,77500,California
+Los Angeles,120,3,65800,California
+Long Beach,696,3,67500,California
+Oakland,360,5,59200,California
+San Francisco,110,2,72000,California
+Los Angeles,441,5,92800,California
+Long Beach,384,4,112500,California
+Long Beach,95,2,75000,California
+Oakland,895,4,108000,California
+Santa Ana,317,4,65500,California
+Los Angeles,77,3,61500,California
+Long Beach,882,4,62700,California
+Los Angeles,405,4,68800,California
+San Jose,182,5,69100,California
+San Diego,435,4,75800,California
+Fresno,386,2,75000,California
+Bakersfield,156,4,112500,California
+San Francisco,336,2,192400,California
+Bakersfield,479,4,209400,California
+Sacramento,129,2,183800,California
+Long Beach,858,2,189100,California
+San Jose,348,3,156500,California
+Santa Ana,131,3,168800,California
+Fresno,627,2,162800,California
+Los Angeles,360,2,172900,California
+Los Angeles,207,2,129700,California
+San Diego,455,4,213500,California
+Bakersfield,292,2,119400,California
+Santa Ana,105,2,131100,California
+Los Angeles,754,3,125400,California
+San Diego,419,2,151400,California
+Santa Ana,103,2,263100,California
+Los Angeles,635,4,187100,California
+San Diego,440,3,156700,California
+Sacramento,98,5,186300,California
+Long Beach,416,5,152500,California
+Long Beach,426,4,241400,California
+Fresno,180,3,340900,California
+Santa Ana,794,5,154400,California
+Bakersfield,275,4,253900,California
+Los Angeles,180,2,109400,California
+Sacramento,806,5,105100,California
+Oakland,372,3,128500,California
+San Jose,113,5,93800,California
+San Diego,382,3,99100,California
+Oakland,513,3,96400,California
+San Francisco,132,3,127000,California
+San Diego,680,3,87500,California
+Los Angeles,931,5,133900,California
+San Jose,67,2,146800,California
+San Jose,728,4,124700,California
+Sacramento,531,3,110200,California
+Fresno,208,4,130800,California
+Fresno,828,3,174500,California
+Bakersfield,580,2,168100,California
+Long Beach,103,4,170400,California
+San Jose,718,3,150800,California
+Bakersfield,300,5,165200,California
+Oakland,108,4,93500,California
+San Francisco,395,3,113400,California
+Los Angeles,374,4,97300,California
+San Diego,150,4,131000,California
+Bakersfield,204,3,133400,California
+Fresno,309,5,1.00E+05,California
+Fresno,90,3,103600,California
+Oakland,794,5,145300,California
+Los Angeles,1164,5,152400,California
+Los Angeles,163,3,145900,California
+Bakersfield,708,4,142500,California
+San Diego,483,2,75800,California
+San Diego,134,5,126100,California
+Fresno,509,2,142600,California
+Los Angeles,783,2,164700,California
+San Francisco,206,5,108500,California
+Bakersfield,770,4,178600,California
+Santa Ana,459,2,164700,California
+San Francisco,191,3,122500,California
+San Diego,742,4,179500,California
+Los Angeles,786,2,205100,California
+Santa Ana,111,3,158600,California
+San Francisco,1388,3,90200,California
+San Diego,362,4,67500,California
+Santa Ana,250,3,99400,California
+Bakersfield,492,5,101400,California
+Bakersfield,598,3,87700,California
+San Jose,88,4,87000,California
+San Jose,547,3,94600,California
+Long Beach,381,5,181800,California
+Sacramento,167,5,117800,California
+San Diego,468,5,140300,California
+Los Angeles,579,2,150000,California
+San Diego,78,4,134400,California
+Oakland,605,2,151900,California
+Oakland,430,4,165200,California
+Sacramento,167,4,161700,California
+Fresno,475,3,170500,California
+Bakersfield,386,5,174200,California
+Los Angeles,150,4,144100,California
+Bakersfield,671,4,163900,California
+Santa Ana,338,3,103900,California
+Oakland,122,5,122200,California
+Fresno,448,4,136000,California
+Oakland,379,2,156500,California
+Fresno,81,3,99200,California
+San Diego,787,3,110600,California
+Long Beach,670,2,162200,California
+Oakland,190,2,177500,California
+Bakersfield,887,4,166000,California
+Long Beach,454,4,160800,California
+Santa Ana,52,4,154800,California
+San Francisco,643,5,143100,California
+San Jose,616,3,87100,California
+Oakland,182,4,95300,California
+San Francisco,858,4,100700,California
+Long Beach,502,3,113900,California
+Los Angeles,84,4,100200,California
+Santa Ana,992,2,125000,California
+San Jose,555,4,129800,California
+Santa Ana,161,4,83500,California
+San Francisco,384,4,139800,California
+San Francisco,512,3,98500,California
+San Jose,197,3,156900,California
+Santa Ana,654,2,165900,California
+Santa Ana,347,2,133900,California
+San Francisco,124,4,225000,California
+Fresno,703,3,166000,California
+Oakland,275,5,144800,California
+San Diego,120,5,178300,California
+San Jose,380,4,139300,California
+Long Beach,448,4,150800,California
+Fresno,147,5,196100,California
+San Francisco,527,2,116100,California
+Bakersfield,404,3,129400,California
+Fresno,127,4,166400,California
+Sacramento,794,2,126500,California
+Sacramento,452,4,135700,California
+Oakland,108,3,172400,California
+Los Angeles,520,3,113700,California
+San Diego,365,4,159700,California
+Fresno,90,2,156300,California
+San Francisco,496,2,204200,California
+Oakland,298,5,212600,California
+Long Beach,103,4,199900,California
+Fresno,537,5,205400,California
+Oakland,375,5,206700,California
+San Francisco,126,5,287700,California
+San Jose,570,4,245200,California
+Long Beach,335,3,294100,California
+Bakersfield,123,5,297300,California
+San Jose,480,4,211000,California
+Bakersfield,396,4,225400,California
+Long Beach,138,4,269600,California
+Bakersfield,626,2,228200,California
+San Jose,534,5,235500,California
+San Francisco,67,2,166900,California
+Oakland,861,4,186100,California
+Los Angeles,450,2,211800,California
+San Jose,90,2,197100,California
+Fresno,646,4,189600,California
+San Diego,674,3,266000,California
+Oakland,152,3,186400,California
+San Francisco,682,2,190000,California
+San Francisco,554,3,243000,California
+Sacramento,136,5,235600,California
+Los Angeles,540,4,196200,California
+San Jose,365,2,182000,California
+Fresno,236,2,169400,California
+San Diego,759,2,179300,California
+Oakland,558,5,235700,California
+Bakersfield,211,2,205100,California
+Los Angeles,755,5,220800,California
+Fresno,288,2,233200,California
+Fresno,127,2,232100,California
+Long Beach,684,3,265700,California
+San Francisco,449,3,247900,California
+Los Angeles,116,3,273200,California
+Sacramento,548,5,91100,California
+Long Beach,370,4,134500,California
+San Diego,233,3,136200,California
+Sacramento,1407,5,250000,California
+Long Beach,542,3,87500,California
+Long Beach,220,3,137500,California
+Fresno,1019,2,136400,California
+San Jose,452,3,75000,California
+Oakland,162,5,156300,California
+Santa Ana,1138,4,140600,California
+Oakland,589,5,178300,California
+Sacramento,210,2,175900,California
+San Diego,756,4,139900,California
+Long Beach,548,4,138200,California
+Long Beach,169,4,178200,California
+Los Angeles,495,2,169300,California
+Oakland,366,5,161900,California
+San Diego,99,4,166600,California
+Bakersfield,709,3,148900,California
+San Jose,590,5,165500,California
+Sacramento,165,2,194000,California
+San Jose,895,4,226900,California
+Bakersfield,575,3,202800,California
+San Francisco,148,3,211500,California
+San Jose,747,4,165500,California
+Santa Ana,597,4,161700,California
+Long Beach,182,4,192300,California
+Santa Ana,893,2,193200,California
+Oakland,313,2,184000,California
+San Francisco,99,5,217200,California
+Long Beach,587,4,182000,California
+Bakersfield,342,4,161300,California
+San Diego,108,2,161000,California
+Long Beach,779,4,144900,California
+Long Beach,308,5,259500,California
+Long Beach,86,5,210500,California
+San Diego,390,3,244100,California
+Los Angeles,598,4,184800,California
+Santa Ana,203,5,229200,California
+Fresno,933,4,196100,California
+Oakland,720,2,204100,California
+San Francisco,185,2,240200,California
+San Jose,1016,2,231100,California
+Long Beach,754,2,213200,California
+Santa Ana,195,3,207200,California
+San Francisco,893,3,184100,California
+Los Angeles,763,4,179000,California
+Long Beach,177,4,190700,California
+Oakland,1164,3,167800,California
+Fresno,547,2,246700,California
+San Francisco,176,5,126700,California
+Oakland,954,5,260400,California
+Sacramento,283,5,200600,California
+Santa Ana,85,2,267400,California
+Fresno,747,4,265900,California
+Santa Ana,613,3,206200,California
+Oakland,154,2,171000,California
+Santa Ana,855,5,151100,California
+Santa Ana,482,2,160900,California
+Oakland,144,3,166700,California
+Sacramento,791,4,106300,California
+San Francisco,411,2,112500,California
+Santa Ana,156,5,151000,California
+San Diego,681,3,151800,California
+Long Beach,485,5,159800,California
+Los Angeles,85,5,165700,California
+Bakersfield,424,5,175000,California
+Oakland,283,2,182000,California
+San Diego,85,3,190800,California
+Bakersfield,398,4,298200,California
+San Francisco,733,3,305100,California
+San Diego,109,2,162500,California
+Fresno,628,5,220500,California
+Long Beach,344,4,208300,California
+Los Angeles,113,4,202300,California
+Los Angeles,498,5,237000,California
+Long Beach,394,5,213100,California
+San Diego,166,2,322300,California
+Long Beach,559,3,267100,California
+San Francisco,466,2,268000,California
+Sacramento,113,2,273600,California
+Oakland,1910,2,339200,California
+San Diego,1881,4,330200,California
+Sacramento,107,5,163100,California
+Los Angeles,576,4,231400,California
+San Francisco,384,3,227800,California
+Oakland,144,3,197100,California
+Long Beach,576,3,144600,California
+San Francisco,261,5,279300,California
+Oakland,105,5,344800,California
+San Diego,569,5,266500,California
+San Diego,310,4,184900,California
+Santa Ana,120,3,234700,California
+Bakersfield,735,5,351200,California
+Oakland,464,5,358800,California
+Los Angeles,120,2,367700,California
+San Diego,646,2,275300,California
+Santa Ana,288,5,232800,California
+Santa Ana,86,2,216100,California
+Los Angeles,858,2,114300,California
+San Jose,494,4,226000,California
+San Jose,219,3,252100,California
+Santa Ana,847,5,225000,California
+Oakland,475,3,250000,California
+Santa Ana,196,2,264900,California
+San Francisco,1301,4,259800,California
+Long Beach,640,2,292500,California
+Bakersfield,132,5,306800,California
+San Jose,1278,4,306900,California
+Bakersfield,560,3,266800,California
+Santa Ana,126,3,283900,California
+Santa Ana,395,3,288000,California
+Sacramento,504,4,268800,California
+Santa Ana,164,2,263300,California
+Santa Ana,802,2,340900,California
+Fresno,501,2,397500,California
+Los Angeles,166,3,271000,California
+San Diego,969,5,335700,California
+San Francisco,458,5,310600,California
+Fresno,109,2,349100,California
+Long Beach,937,5,321200,California
+Los Angeles,1149,3,275800,California
+Oakland,195,3,356200,California
+Bakersfield,1081,3,312700,California
+Fresno,633,5,390600,California
+Oakland,164,4,469400,California
+Santa Ana,516,2,258200,California
+Bakersfield,519,3,260300,California
+San Diego,92,5,275000,California
+San Jose,545,5,350000,California
+San Francisco,265,5,250000,California
+San Francisco,82,4,266000,California
+Long Beach,389,2,269800,California
+Oakland,400,4,157200,California
+San Diego,166,2,343500,California
+Fresno,456,4,296100,California
+San Jose,652,3,312500,California
+San Francisco,73,5,345800,California
+Los Angeles,681,2,343700,California
+Santa Ana,439,3,359100,California
+Long Beach,105,3,403400,California
+Santa Ana,447,2,356000,California
+Los Angeles,288,3,369200,California
+Long Beach,165,5,341300,California
+Long Beach,824,2,356700,California
+Long Beach,549,3,425100,California
+Bakersfield,165,4,356100,California
+Bakersfield,1016,3,461400,California
+Long Beach,563,4,432400,California
+Long Beach,182,4,434700,California
+Long Beach,559,3,350000,California
+San Diego,426,3,381900,California
+San Diego,187,3,324600,California
+San Diego,845,2,399300,California
+San Francisco,595,4,443800,California
+San Diego,150,2,386600,California
+Santa Ana,1449,4,256400,California
+Santa Ana,512,3,2.00E+05,California
+Oakland,165,3,500001,California
+Fresno,890,5,294800,California
+Bakersfield,481,3,188500,California
+San Jose,139,3,359300,California
+San Diego,806,4,358700,California
+Los Angeles,498,3,287300,California
+San Diego,165,4,441400,California
+San Diego,628,4,494000,California
+Bakersfield,503,5,500001,California
+Fresno,144,4,500001,California
+Long Beach,838,2,398200,California
+San Francisco,754,2,500001,California
+San Diego,173,3,500001,California
+Long Beach,982,3,372000,California
+Santa Ana,448,2,351300,California
+Santa Ana,134,2,450400,California
+Oakland,546,4,382200,California
+San Diego,396,4,500001,California
+Fresno,120,2,294400,California
+Santa Ana,520,3,500001,California
+San Francisco,435,2,455300,California
+Bakersfield,148,2,406500,California
+Santa Ana,494,3,310300,California
+Fresno,329,5,279500,California
+Long Beach,116,3,348200,California
+San Diego,546,5,433300,California
+San Jose,210,3,257100,California
+Long Beach,99,2,350000,California
+San Jose,408,3,426100,California
+Bakersfield,308,3,394400,California
+San Jose,82,2,387200,California
+Sacramento,408,5,99400,California
+Los Angeles,282,4,85000,California
+Long Beach,175,3,102700,California
+Santa Ana,445,2,186500,California
+San Jose,656,3,155000,California
+San Jose,184,4,252400,California
+San Diego,794,5,206300,California
+Santa Ana,426,2,73400,California
+Long Beach,222,3,367100,California
+San Francisco,1109,5,402600,California
+Bakersfield,578,4,314200,California
+San Francisco,157,3,454100,California
+Santa Ana,735,3,500001,California
+San Jose,533,4,416500,California
+Oakland,138,2,364500,California
+Bakersfield,826,3,369900,California
+Oakland,565,2,500001,California
+Fresno,171,4,314000,California
+Santa Ana,777,5,389900,California
+Fresno,418,5,355600,California
+Sacramento,230,2,370200,California
+Bakersfield,594,5,404300,California
+Oakland,491,5,354200,California
+San Francisco,148,5,399700,California
+San Francisco,821,4,434500,California
+San Francisco,376,2,401800,California
+Oakland,109,2,423200,California
+Fresno,1045,5,438000,California
+San Jose,393,3,475000,California
+San Diego,132,4,367500,California
+Sacramento,961,5,378100,California
+San Jose,847,5,500001,California
+San Jose,234,5,500001,California
+Bakersfield,712,4,500001,California
+Fresno,537,4,499000,California
+Sacramento,142,4,204200,California
+San Francisco,1117,4,166800,California
+Oakland,681,5,213700,California
+San Jose,144,3,162500,California
+San Diego,642,4,500001,California
+Santa Ana,623,4,500001,California
+Oakland,148,3,500001,California
+Long Beach,832,4,485400,California
+Long Beach,643,5,210100,California
+San Jose,197,3,194700,California
+Fresno,1015,4,181200,California
+Santa Ana,344,5,285400,California
+Santa Ana,118,4,307000,California
+Fresno,863,3,353600,California
+Bakersfield,451,5,365800,California
+Los Angeles,162,3,427700,California
+Bakersfield,610,4,366700,California
+San Diego,495,5,237400,California
+San Francisco,174,2,288000,California
+Oakland,968,5,329400,California
+San Jose,441,2,291700,California
+San Jose,188,2,320400,California
+San Diego,555,5,286900,California
+Los Angeles,327,4,312600,California
+San Francisco,148,4,253600,California
+Santa Ana,711,4,205100,California
+San Diego,305,5,197600,California
+Bakersfield,95,2,198500,California
+Long Beach,436,2,310700,California
+Long Beach,286,4,171100,California
+Santa Ana,91,5,147100,California
+Sacramento,432,4,155700,California
+Sacramento,256,5,197000,California
+Los Angeles,134,4,203700,California
+San Diego,669,2,134500,California
+Oakland,364,2,150200,California
+Long Beach,122,2,123000,California
+Santa Ana,609,2,147700,California
+Fresno,434,2,174200,California
+Fresno,137,4,178900,California
+San Jose,479,5,173200,California
+Bakersfield,516,3,175400,California
+Los Angeles,106,4,162000,California
+Bakersfield,494,5,191100,California
+Fresno,605,4,195000,California
+San Jose,183,4,193300,California
+Fresno,847,4,198000,California
+Los Angeles,565,2,243200,California
+Bakersfield,173,3,218600,California
+Fresno,1061,3,184800,California
+Long Beach,707,5,269400,California
+Long Beach,266,4,235600,California
+Los Angeles,1275,4,237700,California
+Oakland,682,3,170500,California
+San Francisco,217,2,246400,California
+Bakersfield,1276,2,240300,California
+Sacramento,658,2,248700,California
+Oakland,264,4,272900,California
+Oakland,817,5,209800,California
+Oakland,659,2,201000,California
+San Jose,276,3,272400,California
+Santa Ana,1145,5,184000,California
+Sacramento,717,3,164700,California
+Santa Ana,247,5,227400,California
+San Francisco,1050,3,149700,California
+San Francisco,720,2,190000,California
+Long Beach,180,3,196600,California
+Santa Ana,1478,4,191400,California
+Los Angeles,823,4,194200,California
+Sacramento,239,5,185000,California
+Bakersfield,1187,2,157800,California
+Los Angeles,606,5,164300,California
+Bakersfield,161,4,161000,California
+Fresno,861,4,171100,California
+Santa Ana,609,4,109000,California
+Fresno,136,2,170800,California
+Long Beach,651,3,173500,California
+Sacramento,434,3,162800,California
+San Diego,136,3,85100,California
+Los Angeles,777,5,175000,California
+San Francisco,518,5,112500,California
+Oakland,137,3,212500,California
+Long Beach,789,2,104200,California
+Fresno,520,3,80400,California
+San Diego,187,2,69800,California
+Santa Ana,662,3,81300,California
+Bakersfield,468,5,76400,California
+Fresno,150,2,68600,California
+San Jose,768,3,67500,California
+Bakersfield,495,2,131300,California
+San Jose,146,4,132900,California
+Oakland,748,3,110000,California
+Sacramento,582,5,113600,California
+San Jose,133,2,112200,California
+San Jose,728,2,113800,California
+Santa Ana,434,5,134100,California
+San Francisco,134,2,156600,California
+Fresno,706,3,158800,California
+Bakersfield,501,5,150100,California
+Fresno,146,2,130800,California
+Santa Ana,629,5,120700,California
+San Jose,419,2,129400,California
+Los Angeles,140,4,114200,California
+San Francisco,795,5,97200,California
+Long Beach,422,3,97700,California
+San Diego,153,5,110300,California
+San Francisco,560,4,93900,California
+Bakersfield,458,5,107800,California
+Los Angeles,196,4,133700,California
+Oakland,763,4,182800,California
+San Francisco,573,3,146100,California
+Fresno,139,2,120800,California
+Long Beach,974,4,133300,California
+Santa Ana,563,3,103600,California
+Los Angeles,200,2,165100,California
+Los Angeles,824,4,210800,California
+Los Angeles,477,3,186900,California
+Fresno,132,4,144600,California
+Long Beach,845,4,140400,California
+Fresno,548,5,140800,California
+Sacramento,448,4,141600,California
+Sacramento,1276,4,139100,California
+Fresno,762,5,150800,California
+Long Beach,263,5,134100,California
+Santa Ana,1539,3,135800,California
+San Diego,861,5,142600,California
+Long Beach,239,4,135300,California
+San Francisco,2158,5,133400,California
+San Francisco,671,4,135100,California
+Fresno,240,4,111700,California
+Long Beach,1260,3,111600,California
+Fresno,844,2,114600,California
+Oakland,323,2,104700,California
+Bakersfield,1101,5,143300,California
+Santa Ana,846,5,140300,California
+Long Beach,137,3,145500,California
+Bakersfield,771,3,143900,California
+San Jose,635,4,105200,California
+San Jose,146,2,105200,California
+Sacramento,767,2,95600,California
+Santa Ana,655,2,81700,California
+Santa Ana,164,5,79000,California
+Fresno,898,2,105800,California
+Los Angeles,509,2,72900,California
+Santa Ana,173,4,79700,California
+Bakersfield,845,5,71600,California
+Long Beach,529,3,88000,California
+Fresno,154,4,84300,California
+Santa Ana,748,3,79400,California
+Oakland,502,2,121600,California
+Bakersfield,169,2,69100,California
+Santa Ana,989,5,37900,California
+Fresno,610,3,269800,California
+Bakersfield,134,2,274500,California
+Long Beach,668,2,275000,California
+Oakland,597,4,95000,California
+San Francisco,159,3,91500,California
+Santa Ana,980,5,86100,California
+Santa Ana,870,2,87000,California
+Fresno,188,3,84200,California
+San Diego,828,5,93800,California
+Sacramento,587,3,94000,California
+Sacramento,158,3,104200,California
+Long Beach,843,2,186800,California
+Long Beach,814,3,90300,California
+Los Angeles,247,2,111500,California
+Fresno,550,5,88300,California
+San Diego,381,4,112100,California
+Santa Ana,109,5,156300,California
+Los Angeles,743,4,140600,California
+Bakersfield,574,2,122400,California
+Los Angeles,182,3,129100,California
+Fresno,675,4,119600,California
+Oakland,498,3,167800,California
+San Jose,158,4,178400,California
+Los Angeles,633,5,177800,California
+San Jose,295,2,286500,California
+Sacramento,202,5,253400,California
+Bakersfield,447,5,247300,California
+Oakland,323,4,267700,California
+San Diego,106,5,321600,California
+Oakland,500,3,288200,California
+San Diego,373,4,401000,California
+Santa Ana,170,4,304000,California
+Los Angeles,520,4,261900,California
+Long Beach,329,2,22500,California
+San Diego,90,2,183300,California
+Long Beach,1252,3,220100,California
+Long Beach,722,5,195800,California
+Oakland,104,4,186900,California
+Sacramento,851,2,212200,California
+San Diego,352,2,239000,California
+Long Beach,281,3,218100,California
+Santa Ana,1436,2,200400,California
+San Jose,459,2,209100,California
+Bakersfield,115,5,217200,California
+Fresno,783,3,223000,California
+Long Beach,451,5,141700,California
+Sacramento,135,2,162500,California
+Santa Ana,775,4,311400,California
+San Francisco,414,2,263200,California
+San Diego,125,3,262000,California
+San Francisco,751,4,273700,California
+Los Angeles,486,3,234900,California
+Long Beach,151,2,358500,California
+Bakersfield,787,4,333700,California
+San Francisco,508,5,287500,California
+San Jose,110,3,324400,California
+Long Beach,721,3,315500,California
+Los Angeles,650,2,331200,California
+Sacramento,136,3,109400,California
+San Francisco,1024,5,85800,California
+San Diego,787,5,73200,California
+San Francisco,149,5,68400,California
+Oakland,1181,4,74600,California
+Fresno,477,5,78300,California
+San Francisco,144,5,66900,California
+San Jose,648,2,105900,California
+Sacramento,618,5,69500,California
+Oakland,126,3,122400,California
+Fresno,1249,3,75000,California
+Bakersfield,873,5,103600,California
+Sacramento,193,4,103100,California
+Santa Ana,576,2,152700,California
+Bakersfield,804,4,116700,California
+San Diego,108,5,71100,California
+San Diego,648,2,212500,California
+San Diego,537,2,187500,California
+Fresno,159,5,87500,California
+Fresno,1038,3,92200,California
+Fresno,560,4,91300,California
+Sacramento,109,4,173400,California
+Bakersfield,621,2,2.00E+05,California
+Oakland,351,3,84600,California
+San Francisco,111,5,107200,California
+Long Beach,607,3,114800,California
+San Diego,358,4,131600,California
+Bakersfield,134,5,104200,California
+Fresno,864,5,110500,California
+Sacramento,408,5,136800,California
+San Jose,142,3,109700,California
+Oakland,479,5,99300,California
+Fresno,355,5,103600,California
+San Diego,114,3,118500,California
+Santa Ana,456,2,141900,California
+Los Angeles,358,2,85800,California
+Oakland,88,2,90400,California
+Long Beach,594,2,86900,California
+San Francisco,321,2,89600,California
+Los Angeles,89,5,313400,California
+Los Angeles,600,2,126100,California
+Fresno,347,4,126600,California
+Los Angeles,130,2,103600,California
+Long Beach,1077,4,96100,California
+San Francisco,458,2,104200,California
+Sacramento,165,2,107200,California
+Long Beach,715,2,101900,California
+Bakersfield,442,4,94400,California
+San Francisco,122,3,86700,California
+Oakland,466,2,100800,California
+Fresno,303,4,114100,California
+Los Angeles,33,4,107800,California
+Fresno,333,2,134700,California
+San Diego,223,2,162500,California
+Santa Ana,81,4,127600,California
+Oakland,989,4,109700,California
+Sacramento,383,3,121400,California
+Sacramento,192,3,117700,California
+San Francisco,688,2,118800,California
+Bakersfield,548,2,97600,California
+Sacramento,156,5,87500,California
+Los Angeles,640,4,126000,California
+Sacramento,418,2,206300,California
+San Francisco,91,3,437500,California
+Oakland,762,2,500001,California
+Bakersfield,793,5,172200,California
+Oakland,94,2,163400,California
+Oakland,504,3,113200,California
+Fresno,351,4,127300,California
+Bakersfield,106,4,128600,California
+San Jose,721,3,128200,California
+Fresno,352,5,132600,California
+Fresno,124,2,119300,California
+Bakersfield,572,3,118500,California
+Santa Ana,574,2,120100,California
+Los Angeles,92,3,87500,California
+Fresno,524,3,95500,California
+Sacramento,552,2,213300,California
+Oakland,141,3,239600,California
+Los Angeles,608,2,173400,California
+Santa Ana,385,4,228900,California
+San Jose,156,3,217500,California
+Oakland,474,4,197500,California
+Bakersfield,347,2,172500,California
+Oakland,101,5,198900,California
+Oakland,463,2,187900,California
+Santa Ana,453,4,186600,California
+Sacramento,154,3,163300,California
+Bakersfield,463,3,176900,California
+San Francisco,309,3,217100,California
+Santa Ana,165,4,180800,California
+Oakland,462,2,300600,California
+Los Angeles,515,4,170100,California
+Sacramento,89,2,207600,California
+Santa Ana,864,3,202800,California
+Los Angeles,1029,3,196300,California
+Fresno,103,3,230600,California
+Los Angeles,441,5,167400,California
+Oakland,427,5,184600,California
+Fresno,97,3,146100,California
+Los Angeles,767,2,128300,California
+Long Beach,230,5,142600,California
+Los Angeles,165,3,120500,California
+Sacramento,444,3,111300,California
+Oakland,317,4,121600,California
+San Francisco,208,5,148500,California
+Oakland,462,4,108300,California
+Fresno,361,3,127900,California
+San Jose,185,4,128600,California
+San Jose,494,3,150900,California
+San Francisco,413,4,138100,California
+Oakland,86,2,158700,California
+Bakersfield,567,2,141300,California
+San Francisco,347,4,141200,California
+Fresno,117,5,108700,California
+Sacramento,621,2,106900,California
+San Francisco,459,5,94700,California
+Sacramento,180,3,117500,California
+Bakersfield,463,3,151700,California
+Long Beach,617,5,140200,California
+Sacramento,181,4,132200,California
+Los Angeles,432,4,131700,California
+Bakersfield,312,2,136600,California
+Santa Ana,96,5,133800,California
+Santa Ana,716,4,126400,California
+Fresno,432,4,118800,California
+Fresno,102,5,1.00E+05,California
+Oakland,468,4,98000,California
+Fresno,322,2,115600,California
+Long Beach,105,3,162500,California
+San Jose,536,4,170700,California
+Los Angeles,391,5,208300,California
+San Jose,118,2,118800,California
+San Diego,566,5,155900,California
+Sacramento,380,2,141400,California
+San Jose,96,3,138500,California
+Fresno,899,3,56700,California
+San Francisco,289,2,49600,California
+Los Angeles,97,3,47500,California
+Bakersfield,886,2,47500,California
+Sacramento,547,4,44800,California
+Bakersfield,147,4,50400,California
+Sacramento,616,3,56700,California
+Bakersfield,779,5,59200,California
+Long Beach,165,2,53000,California
+San Jose,1105,5,47700,California
+Long Beach,453,3,43300,California
+Bakersfield,245,2,52600,California
+San Jose,1146,5,46900,California
+Sacramento,539,2,93900,California
+Oakland,156,2,90300,California
+Long Beach,1277,4,50000,California
+Fresno,416,2,56400,California
+Bakersfield,97,3,39600,California
+Sacramento,691,3,75000,California
+Oakland,353,2,51800,California
+Santa Ana,144,4,61200,California
+Sacramento,584,2,46700,California
+Fresno,545,3,43800,California
+Los Angeles,127,4,52600,California
+San Diego,616,2,54100,California
+Long Beach,406,2,62100,California
+Oakland,88,3,67500,California
+Fresno,705,3,73900,California
+Fresno,441,4,53000,California
+Sacramento,143,3,53500,California
+San Jose,641,4,52800,California
+Oakland,504,3,48500,California
+San Francisco,85,5,57800,California
+Sacramento,684,5,49500,California
+Santa Ana,329,5,51300,California
+Sacramento,226,2,52500,California
+San Jose,912,2,34400,California
+Sacramento,459,2,44100,California
+Oakland,132,3,45300,California
+San Francisco,698,2,61800,California
+Long Beach,448,5,44400,California
+San Jose,253,4,60600,California
+San Diego,587,3,49800,California
+San Diego,405,5,50800,California
+San Jose,182,4,58500,California
+Oakland,554,5,60800,California
+San Francisco,765,4,52600,California
+San Francisco,136,3,45500,California
+Long Beach,688,4,52100,California
+Santa Ana,651,5,50000,California
+Santa Ana,218,4,93100,California
+San Francisco,658,4,120300,California
+San Diego,370,4,62500,California
+Oakland,120,3,93100,California
+Fresno,691,3,117900,California
+San Diego,630,4,171700,California
+Bakersfield,84,5,121600,California
+San Francisco,742,2,108300,California
+San Diego,756,3,153800,California
+San Francisco,309,3,225000,California
+San Jose,567,3,65900,California
+Oakland,427,5,127200,California
+San Jose,100,2,89500,California
+Sacramento,726,2,54200,California
+Los Angeles,335,2,151400,California
+Sacramento,103,2,91600,California
+Bakersfield,510,3,70400,California
+San Jose,347,3,49300,California
+San Francisco,91,5,88300,California
+Long Beach,447,3,74200,California
+Long Beach,316,3,92300,California
+San Jose,87,4,110400,California
+Sacramento,449,3,58000,California
+Bakersfield,314,3,65300,California
+San Diego,96,2,89500,California
+San Jose,447,4,61200,California
+Bakersfield,428,4,92800,California
+Bakersfield,91,5,92600,California
+Oakland,688,2,66700,California
+Los Angeles,885,3,68400,California
+Long Beach,142,4,96000,California
+Fresno,651,3,74200,California
+Fresno,433,2,81300,California
+Los Angeles,118,2,67900,California
+Los Angeles,499,4,78300,California
+Los Angeles,608,2,96700,California
+Fresno,152,2,72000,California
+Sacramento,1030,3,67300,California
+San Jose,442,3,48800,California
+San Diego,163,3,57100,California
+Santa Ana,621,4,55600,California
+San Francisco,807,4,67900,California
+San Francisco,216,3,54200,California
+San Diego,813,4,55100,California
+Long Beach,288,5,66900,California
+Sacramento,94,2,68500,California
+Long Beach,720,2,69200,California
+Los Angeles,202,4,58400,California
+Fresno,104,3,57100,California
+San Jose,671,4,78400,California
+San Diego,493,3,56100,California
+Fresno,136,2,45000,California
+Oakland,670,5,59000,California
+Long Beach,607,2,61300,California
+Fresno,144,3,51300,California
+San Francisco,1122,4,52000,California
+Fresno,910,4,46600,California
+Sacramento,213,3,49800,California
+San Jose,991,5,50600,California
+Sacramento,653,2,53400,California
+Bakersfield,270,2,45500,California
+Long Beach,1414,4,49100,California
+Oakland,550,3,56000,California
+Oakland,214,2,54600,California
+Santa Ana,747,3,49400,California
+San Jose,439,3,69100,California
+Fresno,165,4,62800,California
+Fresno,1287,3,70100,California
+San Francisco,425,3,48300,California
+Los Angeles,146,3,50800,California
+Bakersfield,620,4,59600,California
+San Jose,403,5,55600,California
+San Francisco,155,3,51300,California
+Bakersfield,750,5,54200,California
+Oakland,423,5,55400,California
+Long Beach,180,5,58700,California
+Bakersfield,657,3,52800,California
+Long Beach,687,2,59800,California
+Sacramento,187,3,44500,California
+San Diego,1072,4,69000,California
+Sacramento,651,4,74700,California
+San Jose,209,4,71300,California
+Oakland,872,5,86900,California
+San Diego,341,2,64700,California
+Fresno,99,4,67900,California
+Los Angeles,600,4,87500,California
+San Diego,436,4,88300,California
+Oakland,180,4,72000,California
+Bakersfield,495,3,87700,California
+Oakland,366,4,82000,California
+Bakersfield,99,5,75900,California
+Long Beach,893,2,74600,California
+Fresno,624,4,78800,California
+Bakersfield,175,3,85700,California
+San Francisco,845,5,84700,California
+Oakland,614,2,81400,California
+Long Beach,148,4,55000,California
+Santa Ana,834,2,66400,California
+Long Beach,298,5,72800,California
+San Diego,103,4,71500,California
+Bakersfield,505,3,69200,California
+Santa Ana,347,2,87500,California
+Bakersfield,91,5,73000,California
+Oakland,440,3,76900,California
+Oakland,294,5,70400,California
+Sacramento,97,4,74300,California
+San Diego,432,5,81300,California
+Bakersfield,292,4,70700,California
+Los Angeles,200,3,72300,California
+Oakland,1085,3,60200,California
+Los Angeles,558,5,64700,California
+Sacramento,146,5,67300,California
+Sacramento,966,2,67700,California
+San Jose,576,4,61900,California
+Sacramento,245,3,58100,California
+Santa Ana,796,4,70700,California
+Los Angeles,813,4,60200,California
+Santa Ana,199,2,87600,California
+Long Beach,834,4,73000,California
+Bakersfield,697,4,59100,California
+Los Angeles,85,3,58700,California
+Los Angeles,671,4,89900,California
+Bakersfield,643,5,72200,California
+Oakland,134,4,78900,California
+Fresno,738,5,85000,California
+Los Angeles,599,4,83400,California
+Long Beach,142,4,69600,California
+Fresno,595,2,71300,California
+Fresno,443,2,65600,California
+Fresno,149,5,68100,California
+Los Angeles,768,5,71600,California
+Bakersfield,405,3,80300,California
+Oakland,94,2,80200,California
+Oakland,544,4,76700,California
+Sacramento,320,5,80400,California
+San Jose,135,2,84500,California
+San Diego,590,4,79700,California
+Los Angeles,272,4,74700,California
+San Diego,104,4,81300,California
+Los Angeles,557,3,83200,California
+Santa Ana,744,2,80100,California
+San Francisco,113,2,81100,California
+Sacramento,545,4,74500,California
+San Jose,469,2,106100,California
+San Jose,510,3,126400,California
+Santa Ana,2338,4,119800,California
+Santa Ana,357,5,89600,California
+San Francisco,96,3,90600,California
+Santa Ana,576,2,69000,California
+Bakersfield,316,4,112500,California
+Long Beach,120,3,70800,California
+San Jose,387,3,71800,California
+Oakland,288,5,57800,California
+Sacramento,89,2,83200,California
+Long Beach,673,2,60400,California
+Bakersfield,256,5,88200,California
+Fresno,86,4,112500,California
+San Diego,474,5,105400,California
+San Jose,1132,3,55300,California
+Santa Ana,259,2,82800,California
+San Jose,751,5,165400,California
+San Francisco,263,5,61200,California
+Long Beach,142,2,256200,California
+San Francisco,649,5,122500,California
+San Diego,589,4,160300,California
+San Jose,110,4,141600,California
+Long Beach,718,5,89300,California
+Oakland,475,2,91300,California
+Sacramento,146,5,88900,California
+Los Angeles,823,3,119300,California
+Bakersfield,231,2,96500,California
+Long Beach,125,4,72100,California
+Bakersfield,477,2,107800,California
+Bakersfield,653,4,68000,California
+San Diego,200,3,88800,California
+Sacramento,859,5,73000,California
+San Jose,409,2,67900,California
+San Diego,262,4,345900,California
+Los Angeles,1597,5,213900,California
+Fresno,585,5,229200,California
+San Francisco,199,4,195900,California
+San Jose,678,4,141200,California
+San Francisco,909,3,123000,California
+Bakersfield,232,5,229700,California
+Santa Ana,920,3,144700,California
+Sacramento,580,5,167700,California
+Bakersfield,226,2,155600,California
+San Francisco,780,3,151500,California
+Sacramento,496,3,150900,California
+San Jose,105,5,188300,California
+San Jose,840,3,187300,California
+Oakland,340,3,193500,California
+San Diego,170,4,123600,California
+Long Beach,1258,4,125300,California
+Sacramento,909,2,124400,California
+Los Angeles,152,3,111900,California
+Long Beach,608,4,79500,California
+San Jose,268,2,128300,California
+San Diego,160,3,54000,California
+Bakersfield,562,2,51700,California
+Bakersfield,609,3,145000,California
+Santa Ana,82,4,94400,California
+Santa Ana,506,5,158800,California
+San Francisco,359,4,119300,California
+San Diego,156,4,126000,California
+San Jose,423,5,135500,California
+Santa Ana,664,2,69300,California
+San Francisco,107,2,93000,California
+Long Beach,501,3,95800,California
+Los Angeles,542,5,72200,California
+San Diego,163,2,105200,California
+San Diego,650,3,53500,California
+Oakland,304,4,121200,California
+Fresno,108,3,143300,California
+San Jose,696,2,169300,California
+Fresno,470,4,160100,California
+Fresno,148,2,90100,California
+Sacramento,459,2,99500,California
+Sacramento,342,5,88800,California
+Long Beach,150,4,80800,California
+Santa Ana,751,2,72700,California
+Los Angeles,443,5,66900,California
+Bakersfield,228,4,65600,California
+Sacramento,845,2,66200,California
+Bakersfield,521,5,58800,California
+Long Beach,148,5,71400,California
+San Diego,786,3,67000,California
+Long Beach,549,5,55500,California
+Oakland,124,5,79700,California
+San Diego,859,5,69200,California
+Fresno,585,5,65900,California
+Santa Ana,131,2,64700,California
+Bakersfield,573,3,73800,California
+Bakersfield,641,4,67500,California
+Los Angeles,149,2,58800,California
+San Jose,815,4,96500,California
+Long Beach,829,5,71900,California
+Long Beach,157,3,153800,California
+San Diego,888,3,69600,California
+Oakland,608,5,66500,California
+Long Beach,248,4,124700,California
+Long Beach,560,5,132200,California
+Bakersfield,678,4,89600,California
+Long Beach,94,5,73400,California
+Fresno,520,3,64500,California
+Sacramento,544,4,47500,California
+Bakersfield,162,3,68300,California
+Santa Ana,530,5,72800,California
+Long Beach,381,2,78800,California
+San Jose,109,4,81100,California
+Long Beach,496,3,75100,California
+Sacramento,364,3,71400,California
+Bakersfield,109,3,71700,California
+San Francisco,315,5,70900,California
+Fresno,364,3,84600,California
+Los Angeles,106,3,66000,California
+San Diego,504,4,83700,California
+San Jose,452,5,83100,California
+San Francisco,168,3,74300,California
+San Diego,716,4,90600,California
+Long Beach,265,2,74500,California
+Bakersfield,77,5,69400,California
+Los Angeles,804,5,84700,California
+Bakersfield,282,5,99300,California
+San Jose,118,5,85500,California
+Long Beach,408,2,89500,California
+Fresno,272,2,95200,California
+Santa Ana,97,4,99600,California
+Santa Ana,444,4,110900,California
+San Diego,431,4,101100,California
+Long Beach,102,5,108500,California
+San Jose,899,3,84200,California
+San Jose,463,3,109400,California
+Fresno,185,5,108200,California
+San Diego,763,5,174200,California
+Long Beach,745,5,143700,California
+Sacramento,167,5,140800,California
+Sacramento,749,5,86300,California
+Sacramento,592,5,165200,California
+Santa Ana,151,5,164600,California
+Long Beach,1231,4,143100,California
+Bakersfield,557,3,167500,California
+Sacramento,206,2,71400,California
+Los Angeles,901,2,68200,California
+San Diego,737,2,68000,California
+Long Beach,202,3,113400,California
+San Jose,1344,2,109000,California
+Oakland,390,5,138800,California
+San Diego,150,2,111400,California
+Bakersfield,816,4,112500,California
+Sacramento,401,4,69700,California
+Fresno,177,3,72800,California
+San Francisco,871,5,72200,California
+Sacramento,933,2,79700,California
+San Francisco,339,4,112500,California
+San Diego,1237,4,52500,California
+Sacramento,956,4,100200,California
+San Diego,258,5,89500,California
+Los Angeles,1349,2,54600,California
+Bakersfield,932,3,78900,California
+Sacramento,295,5,111300,California
+Sacramento,1160,4,113700,California
+Bakersfield,352,4,120000,California
+San Jose,171,2,123300,California
+Fresno,913,4,114400,California
+San Diego,667,4,106200,California
+Sacramento,162,5,55900,California
+San Jose,1092,2,93600,California
+San Diego,754,5,88900,California
+Fresno,157,2,93800,California
+San Francisco,551,2,88000,California
+Santa Ana,624,5,88400,California
+Fresno,186,3,68700,California
+Sacramento,843,2,163100,California
+San Francisco,928,4,83600,California
+Fresno,155,5,71300,California
+San Diego,542,2,76300,California
+Long Beach,773,5,60600,California
+Santa Ana,188,2,83000,California
+Long Beach,537,4,150800,California
+Long Beach,555,5,157300,California
+San Francisco,131,4,173800,California
+San Diego,552,2,148700,California
+Sacramento,365,3,154700,California
+San Jose,86,2,133300,California
+Los Angeles,429,5,136900,California
+San Jose,291,2,156700,California
+Bakersfield,142,5,126500,California
+Sacramento,546,3,130600,California
+San Diego,455,3,106900,California
+Sacramento,99,4,99500,California
+San Jose,515,5,73000,California
+San Jose,406,3,59900,California
+Sacramento,122,3,84800,California
+Fresno,474,4,72900,California
+Fresno,364,3,58900,California
+Bakersfield,99,2,63900,California
+Bakersfield,535,5,72300,California
+Sacramento,462,2,83900,California
+Oakland,90,2,58100,California
+Oakland,528,4,55900,California
+Long Beach,485,5,58900,California
+Oakland,198,3,55800,California
+Oakland,1295,5,63900,California
+Long Beach,865,4,69300,California
+San Francisco,162,5,160100,California
+San Jose,1038,5,115300,California
+Santa Ana,580,4,107600,California
+San Diego,187,3,80000,California
+Long Beach,925,3,93800,California
+San Diego,792,3,92400,California
+Los Angeles,245,5,151800,California
+Long Beach,1103,5,111800,California
+Bakersfield,699,2,111800,California
+Bakersfield,209,4,123900,California
+Sacramento,1162,4,83300,California
+Santa Ana,751,5,85600,California
+Fresno,239,4,94000,California
+San Francisco,1179,4,102700,California
+Santa Ana,648,5,125000,California
+Sacramento,197,3,144600,California
+Los Angeles,896,3,179200,California
+Santa Ana,593,2,78600,California
+San Jose,179,5,94400,California
+Bakersfield,1364,3,1.00E+05,California
+San Jose,635,4,90500,California
+Sacramento,191,2,92200,California
+Santa Ana,682,4,55200,California
+Fresno,522,3,52000,California
+San Diego,137,4,51500,California
+San Diego,684,3,51700,California
+San Diego,562,2,65800,California
+Long Beach,167,2,69200,California
+Fresno,703,2,72500,California
+Santa Ana,439,3,73000,California
+San Francisco,146,2,108300,California
+San Jose,746,3,90500,California
+Fresno,499,2,91600,California
+San Diego,186,4,63300,California
+Santa Ana,663,2,67600,California
+Sacramento,485,4,60900,California
+Fresno,237,5,56700,California
+Los Angeles,746,4,118100,California
+Los Angeles,455,5,66100,California
+San Diego,156,3,63500,California
+Bakersfield,728,3,87300,California
+Bakersfield,504,3,84200,California
+Bakersfield,141,5,57100,California
+Oakland,774,4,54700,California
+Fresno,416,2,56900,California
+Oakland,114,2,63400,California
+Fresno,753,4,95300,California
+Sacramento,522,5,55100,California
+San Diego,150,2,55800,California
+Fresno,919,2,55200,California
+San Francisco,503,2,113800,California
+San Francisco,141,3,93200,California
+San Jose,799,2,62400,California
+Los Angeles,645,3,62400,California
+San Francisco,151,4,131700,California
+Fresno,832,2,73100,California
+San Diego,630,5,73000,California
+Long Beach,189,5,88000,California
+Bakersfield,836,4,92700,California
+Fresno,774,2,69700,California
+San Francisco,229,4,68300,California
+Long Beach,1196,4,65100,California
+Fresno,659,3,55300,California
+San Francisco,223,2,54400,California
+Sacramento,1814,4,92500,California
+Sacramento,952,4,53000,California
+Los Angeles,192,5,51600,California
+Sacramento,1132,2,111500,California
+Oakland,909,3,120900,California
+Santa Ana,350,3,76600,California
+San Jose,1247,5,67000,California
+Fresno,842,3,70100,California
+San Jose,280,5,70200,California
+San Francisco,982,4,95700,California
+Los Angeles,557,5,82700,California
+Oakland,210,4,110000,California
+Los Angeles,830,5,1.00E+05,California
+Bakersfield,539,4,101600,California
+San Diego,150,5,94200,California
+San Francisco,639,2,75000,California
+Santa Ana,880,5,79200,California
+Sacramento,149,3,57900,California
+Los Angeles,970,3,72500,California
+Oakland,518,2,76800,California
+Sacramento,172,2,83600,California
+San Diego,788,2,78200,California
+Bakersfield,421,3,60000,California
+San Francisco,127,4,90000,California
+Sacramento,651,4,69400,California
+Sacramento,381,4,74600,California
+Santa Ana,140,5,76400,California
+San Diego,566,4,75600,California
+Long Beach,380,2,58400,California
+San Francisco,116,2,60900,California
+Bakersfield,843,4,39200,California
+Fresno,528,2,112500,California
+San Diego,184,5,55000,California
+Sacramento,802,2,64700,California
+Bakersfield,577,5,55100,California
+Fresno,140,2,87500,California
+Oakland,609,5,104200,California
+San Diego,440,5,65000,California
+San Diego,106,5,62000,California
+Bakersfield,483,4,70000,California
+Fresno,329,4,86400,California
+Santa Ana,173,5,86300,California
+Santa Ana,827,5,85300,California
+Los Angeles,404,5,60400,California
+Santa Ana,121,3,55500,California
+San Diego,492,4,76600,California
+San Jose,303,3,66000,California
+San Diego,93,5,90600,California
+Santa Ana,512,5,57200,California
+Fresno,312,5,58300,California
+Santa Ana,91,5,56000,California
+Long Beach,618,3,68900,California
+Sacramento,314,3,112500,California
+San Francisco,265,3,38800,California
+Fresno,1209,4,55200,California
+Long Beach,942,3,60000,California
+San Francisco,252,5,58000,California
+Los Angeles,1148,5,54300,California
+San Francisco,541,4,63000,California
+San Diego,114,5,66000,California
+Fresno,624,3,90500,California
+San Diego,400,2,58100,California
+San Diego,122,2,71900,California
+Bakersfield,612,4,74400,California
+San Jose,400,2,55000,California
+San Jose,152,3,67500,California
+Los Angeles,726,3,162500,California
+San Francisco,461,3,63700,California
+Oakland,108,2,67500,California
+Oakland,847,4,85000,California
+San Francisco,523,5,65600,California
+Bakersfield,149,4,72200,California
+San Diego,604,3,69600,California
+Sacramento,412,3,94300,California
+Fresno,104,3,85400,California
+Los Angeles,613,5,73100,California
+Long Beach,409,4,14999,California
+Bakersfield,184,2,67500,California
+Santa Ana,597,3,87500,California
+San Francisco,640,4,81600,California
+Fresno,216,2,71900,California
+Long Beach,708,5,58700,California
+Bakersfield,885,4,71000,California
+San Francisco,179,4,125000,California
+Los Angeles,667,3,66900,California
+Los Angeles,388,4,63400,California
+San Diego,98,5,69700,California
+Bakersfield,526,4,53000,California
+Long Beach,590,3,70000,California
+Santa Ana,98,5,95300,California
+San Francisco,526,2,77100,California
+Bakersfield,299,2,70500,California
+Los Angeles,105,5,58700,California
+San Diego,571,4,60000,California
+San Francisco,400,2,80500,California
+San Jose,199,4,76900,California
+San Francisco,525,4,75500,California
+Bakersfield,288,3,62500,California
+Long Beach,171,4,92700,California
+San Diego,783,5,85400,California
+San Francisco,417,2,68300,California
+Fresno,149,2,70000,California
+Santa Ana,720,2,70500,California
+Bakersfield,365,4,64600,California
+Bakersfield,105,2,70500,California
+Los Angeles,624,3,82000,California
+Santa Ana,272,2,85600,California
+San Francisco,101,3,81300,California
+Sacramento,522,5,70200,California
+Los Angeles,410,2,72200,California
+Los Angeles,87,5,67000,California
+San Jose,374,5,116100,California
+Bakersfield,417,3,82800,California
+Oakland,143,3,69000,California
+Oakland,812,3,67500,California
+Bakersfield,405,5,72600,California
+San Diego,214,4,74100,California
+Fresno,789,4,74700,California
+Sacramento,576,3,74100,California
+Santa Ana,94,5,81000,California
+Oakland,792,3,104200,California
+Oakland,415,3,81800,California
+Oakland,124,5,90600,California
+Oakland,1079,4,86400,California
+Fresno,376,2,92800,California
+Santa Ana,311,4,99600,California
+Long Beach,504,5,100600,California
+Santa Ana,397,2,90000,California
+San Francisco,114,3,96100,California
+San Jose,682,4,86900,California
+San Francisco,461,3,81100,California
+San Diego,134,3,83000,California
+San Diego,685,2,92800,California
+San Jose,364,3,98100,California
+Fresno,112,5,143000,California
+Bakersfield,618,5,133900,California
+San Jose,314,4,150000,California
+Los Angeles,105,5,75000,California
+Long Beach,688,3,87500,California
+Oakland,336,4,99200,California
+Santa Ana,158,4,101100,California
+Oakland,573,5,105800,California
+Sacramento,335,3,153100,California
+San Diego,106,2,57500,California
+Bakersfield,442,2,81100,California
+Los Angeles,680,3,74100,California
+Los Angeles,138,4,82100,California
+San Jose,1320,3,92600,California
+San Diego,437,2,50800,California
+Bakersfield,131,4,139500,California
+Bakersfield,357,2,136000,California
+San Diego,278,2,78800,California
+Los Angeles,107,4,79800,California
+San Diego,358,2,36700,California
+Long Beach,240,5,50000,California
+Long Beach,113,3,59200,California
+San Jose,798,5,62700,California
+San Diego,587,4,83800,California
+Fresno,121,5,62800,California
+Bakersfield,1207,4,119400,California
+Long Beach,489,4,143400,California
+San Diego,132,4,97900,California
+Oakland,543,4,102700,California
+Fresno,382,3,98800,California
+Sacramento,173,2,75600,California
+Santa Ana,604,4,84200,California
+Bakersfield,304,3,106300,California
+San Diego,119,2,75500,California
+Sacramento,432,2,111300,California
+Los Angeles,272,4,96000,California
+Bakersfield,177,3,81700,California
+San Francisco,736,3,99600,California
+Bakersfield,816,5,73600,California
+Bakersfield,160,3,90200,California
+Los Angeles,761,3,70100,California
+Fresno,397,3,126900,California
+Sacramento,104,2,165600,California
+San Jose,520,5,78400,California
+Sacramento,347,5,119700,California
+Santa Ana,104,4,119900,California
+Sacramento,520,4,111800,California
+Oakland,347,4,128900,California
+Fresno,156,3,100500,California
+Fresno,575,4,130600,California
+Long Beach,383,3,90100,California
+San Francisco,135,2,58100,California
+San Diego,500,2,79000,California
+Oakland,348,5,107000,California
+Sacramento,86,4,86400,California
+San Diego,513,4,92100,California
+San Francisco,671,5,85100,California
+San Francisco,133,5,79600,California
+Fresno,834,4,128100,California
+Fresno,552,3,66800,California
+Sacramento,142,2,76800,California
+San Diego,821,2,95200,California
+San Diego,476,2,97300,California
+San Jose,100,2,92600,California
+San Francisco,407,2,77100,California
+San Jose,650,5,92500,California
+Oakland,103,5,75100,California
+Bakersfield,422,3,74100,California
+San Diego,583,2,94800,California
+Bakersfield,86,3,72300,California
+San Diego,559,3,57500,California
+Oakland,459,4,70500,California
+San Diego,96,2,55000,California
+Los Angeles,783,4,71300,California
+Long Beach,164,4,111400,California
+San Jose,118,2,106700,California
+San Diego,582,3,94600,California
+Santa Ana,280,5,76100,California
+Sacramento,193,4,135600,California
+San Jose,887,3,70700,California
+San Jose,589,2,74000,California
+Santa Ana,210,4,54300,California
+Oakland,720,3,76800,California
+Santa Ana,563,2,82400,California
+Long Beach,137,4,101500,California
+Oakland,881,2,101900,California
+Sacramento,400,3,60800,California
+Santa Ana,361,3,53400,California
+San Jose,624,5,46700,California
+Santa Ana,320,5,40000,California
+San Diego,102,5,43300,California
+Santa Ana,394,5,72500,California
+Santa Ana,526,2,87500,California
+San Diego,183,5,61200,California
+Santa Ana,832,5,62000,California
+Long Beach,373,4,91700,California
+Bakersfield,118,2,107800,California
+Santa Ana,672,4,113500,California
+Bakersfield,387,3,58600,California
+San Diego,102,4,66400,California
+San Diego,456,4,62200,California
+Bakersfield,525,4,63700,California
+Fresno,132,2,69400,California
+Bakersfield,552,5,60600,California
+San Diego,205,2,96000,California
+Sacramento,105,5,80800,California
+San Jose,408,2,70800,California
+Sacramento,829,5,70700,California
+Sacramento,96,2,143000,California
+Bakersfield,818,3,107200,California
+Sacramento,231,3,60300,California
+Long Beach,143,2,66400,California
+Fresno,665,5,67500,California
+San Diego,273,2,1.00E+05,California
+San Diego,138,5,146300,California
+Sacramento,680,3,113800,California
+Los Angeles,359,2,74300,California
+Los Angeles,75,4,80900,California
+Long Beach,492,3,71100,California
+San Diego,474,2,65800,California
+Santa Ana,192,2,67500,California
+San Jose,820,3,68600,California
+Long Beach,451,2,62300,California
+Long Beach,103,4,63500,California
+Santa Ana,440,4,61100,California
+Bakersfield,358,5,67500,California
+San Diego,138,5,90800,California
+Bakersfield,648,2,83200,California
+San Francisco,356,4,102800,California
+Long Beach,106,5,125000,California
+Oakland,660,5,55200,California
+San Francisco,311,2,93800,California
+San Diego,106,4,87500,California
+San Francisco,580,4,112500,California
+San Diego,467,3,96300,California
+Santa Ana,146,3,67500,California
+San Diego,861,3,87500,California
+Los Angeles,347,5,69900,California
+San Francisco,197,5,72600,California
+Sacramento,975,4,93800,California
+Bakersfield,640,4,88500,California
+San Francisco,180,4,79200,California
+San Jose,890,2,61200,California
+Fresno,291,4,63100,California
+Sacramento,96,3,142500,California
+Long Beach,719,2,61000,California
+Sacramento,610,5,53600,California
+Oakland,100,4,56100,California
+Los Angeles,1144,5,60400,California
+San Diego,270,5,59600,California
+Long Beach,89,2,68600,California
+San Francisco,850,5,63900,California
+Fresno,484,4,59400,California
+Sacramento,135,4,69400,California
+Santa Ana,575,2,58300,California
+San Francisco,669,2,76200,California
+Los Angeles,220,5,62500,California
+Sacramento,1005,2,68100,California
+Santa Ana,1224,5,70800,California
+Los Angeles,156,2,86200,California
+San Jose,744,4,99600,California
+Fresno,352,5,76200,California
+San Diego,186,3,84300,California
+Oakland,805,2,110100,California
+Santa Ana,383,3,159900,California
+Oakland,112,2,64400,California
+Sacramento,728,4,73600,California
+Sacramento,433,2,86400,California
+Bakersfield,256,5,97200,California
+Bakersfield,956,2,87500,California
+Los Angeles,480,5,140300,California
+Santa Ana,188,3,94400,California
+Sacramento,604,5,64000,California
+Long Beach,407,5,95800,California
+San Jose,129,3,70100,California
+Los Angeles,807,5,73100,California
+Oakland,499,2,91200,California
+Los Angeles,196,4,88400,California
+San Francisco,923,5,75500,California
+San Jose,578,4,84700,California
+Long Beach,159,4,72700,California
+San Diego,905,2,67700,California
+Long Beach,538,4,81300,California
+San Diego,160,5,51300,California
+Sacramento,958,2,32500,California
+Los Angeles,527,3,43900,California
+San Jose,99,2,57500,California
+Sacramento,767,3,62800,California
+Long Beach,463,2,54300,California
+Oakland,91,5,58800,California
+Bakersfield,550,4,53800,California
+Bakersfield,500,3,67500,California
+San Diego,143,3,62800,California
+Fresno,495,5,54400,California
+San Diego,508,3,53800,California
+Sacramento,149,4,47500,California
+Long Beach,794,4,59200,California
+Los Angeles,583,5,57500,California
+San Jose,178,5,50000,California
+Long Beach,931,3,30000,California
+San Francisco,592,4,25000,California
+San Jose,154,3,56100,California
+San Jose,477,4,45000,California
+San Diego,463,2,44000,California
+San Jose,128,4,108300,California
+Oakland,486,2,141500,California
+Fresno,288,2,166000,California
+Los Angeles,89,3,118800,California
+San Jose,432,2,139700,California
+Sacramento,440,2,180400,California
+San Diego,199,3,54400,California
+Sacramento,881,5,116100,California
+Sacramento,585,2,105800,California
+Los Angeles,136,4,98400,California
+Bakersfield,894,5,94500,California
+San Jose,636,3,137500,California
+Santa Ana,165,3,80600,California
+Los Angeles,1107,4,74200,California
+San Diego,683,3,104700,California
+Oakland,194,2,45500,California
+San Jose,998,4,14999,California
+Oakland,699,4,32900,California
+San Diego,184,2,64900,California
+Fresno,424,5,62400,California
+San Jose,283,5,67900,California
+Bakersfield,192,2,87100,California
+Long Beach,695,4,77000,California
+Oakland,649,5,84400,California
+San Jose,170,5,70700,California
+Sacramento,869,2,67200,California
+Los Angeles,537,2,57400,California
+San Diego,155,5,52600,California
+Los Angeles,860,2,54600,California
+Fresno,445,4,54300,California
+Long Beach,150,3,54700,California
+Santa Ana,728,2,57000,California
+Los Angeles,437,2,63200,California
+Los Angeles,144,4,67000,California
+Bakersfield,733,2,51900,California
+Bakersfield,407,2,53200,California
+San Diego,101,5,69400,California
+Santa Ana,490,2,51400,California
+Sacramento,392,5,63500,California
+Santa Ana,172,5,67500,California
+Los Angeles,457,5,132000,California
+Sacramento,771,2,107600,California
+Santa Ana,107,5,130600,California
+San Diego,536,2,2.00E+05,California
+Los Angeles,357,3,237500,California
+Santa Ana,171,5,126400,California
+Oakland,855,4,132200,California
+San Jose,570,4,44600,California
+San Francisco,171,2,59400,California
+Oakland,854,5,50600,California
+Long Beach,312,5,60000,California
+Sacramento,134,2,90400,California
+Los Angeles,835,4,84600,California
+Los Angeles,395,3,93900,California
+Santa Ana,122,5,79400,California
+Sacramento,432,2,72100,California
+Fresno,494,4,85500,California
+San Francisco,125,5,76200,California
+Santa Ana,707,3,69800,California
+Long Beach,743,3,73100,California
+Los Angeles,50,4,76600,California
+San Jose,637,3,94500,California
+Fresno,643,5,89000,California
+Santa Ana,160,2,87100,California
+Bakersfield,776,2,101700,California
+Santa Ana,447,2,89100,California
+Fresno,148,2,79000,California
+Los Angeles,892,2,92900,California
+Sacramento,503,3,95200,California
+Sacramento,152,5,85600,California
+San Diego,818,2,87000,California
+Bakersfield,601,4,83100,California
+Fresno,147,2,70600,California
+San Francisco,644,4,99500,California
+Fresno,572,5,104600,California
+San Jose,155,5,139100,California
+Los Angeles,759,3,194100,California
+Bakersfield,572,4,100800,California
+Oakland,118,5,143000,California
+San Diego,1029,2,113000,California
+Santa Ana,557,4,87000,California
+Sacramento,235,3,67600,California
+San Diego,805,2,105300,California
+Bakersfield,600,4,75700,California
+Oakland,181,3,62800,California
+San Francisco,824,4,57600,California
+Long Beach,772,4,59700,California
+San Francisco,134,3,61300,California
+Fresno,922,2,57400,California
+San Francisco,325,5,55400,California
+San Jose,129,2,52400,California
+Oakland,336,2,54300,California
+Fresno,214,3,59500,California
+Long Beach,95,5,46800,California
+Long Beach,819,2,50000,California
+San Francisco,445,3,48000,California
+Bakersfield,73,2,58000,California
+Los Angeles,240,3,57500,California
+Sacramento,465,5,51000,California
+Sacramento,94,4,57500,California
+Sacramento,889,4,49100,California
+Santa Ana,549,4,54800,California
+Fresno,163,5,50800,California
+Oakland,832,2,49400,California
+Fresno,497,2,48800,California
+Los Angeles,100,3,55400,California
+Sacramento,605,2,70100,California
+San Diego,653,3,50700,California
+Los Angeles,252,2,46900,California
+Bakersfield,648,2,55500,California
+San Diego,550,2,57400,California
+Sacramento,171,3,58100,California
+Sacramento,569,3,57900,California
+Bakersfield,446,5,42500,California
+San Diego,251,5,57500,California
+Long Beach,702,5,67500,California
+San Jose,600,4,47500,California
+San Francisco,196,5,66000,California
+Sacramento,1014,4,60000,California
+San Diego,613,5,63800,California
+Los Angeles,160,4,72500,California
+San Diego,684,2,84400,California
+Long Beach,405,2,91800,California
+Fresno,134,3,147100,California
+Oakland,570,2,126600,California
+San Diego,435,5,82700,California
+Fresno,148,2,118700,California
+Santa Ana,1261,2,66900,California
+Oakland,291,5,84700,California
+Santa Ana,165,3,118400,California
+Long Beach,315,2,110700,California
+Santa Ana,364,2,123400,California
+Bakersfield,136,2,95200,California
+Los Angeles,315,2,72300,California
+Bakersfield,364,4,81300,California
+Oakland,109,3,69500,California
+Los Angeles,546,3,75300,California
+Fresno,364,2,61600,California
+San Francisco,173,5,70000,California
+San Diego,864,3,73700,California
+Oakland,375,5,76800,California
+San Francisco,122,3,57800,California
+San Diego,502,2,60700,California
+Santa Ana,301,4,57000,California
+Bakersfield,97,4,51600,California
+Santa Ana,695,3,46700,California
+Santa Ana,667,5,43600,California
+Long Beach,894,4,42500,California
+Sacramento,894,3,48700,California
+Bakersfield,894,2,48600,California
+San Francisco,894,2,47100,California
+Sacramento,894,4,49400,California
+Oakland,894,5,42700,California
+Bakersfield,894,3,47800,California
+Sacramento,894,3,49300,California
+Los Angeles,894,5,76200,California
+Fresno,894,5,54700,California
+San Francisco,894,4,53400,California
+Sacramento,894,4,54000,California
+Los Angeles,894,5,48900,California
+Fresno,894,4,46700,California
+San Francisco,894,3,78700,California
+Los Angeles,894,5,33200,California
+Los Angeles,894,2,49800,California
+Santa Ana,894,3,52900,California
+San Francisco,894,2,36600,California
